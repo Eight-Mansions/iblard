@@ -1,0 +1,117 @@
+0 　　　壊れている\n　これじゃもう飛べない
+0 It is broken and\nwill not fly again.
+
+
+1 これに乗れば上空の島まで\n行けるかもしれない・・・\nエネルギー源を探さないと
+1 This can reach the\nfloating island, but it\nneeds an energy source.
+
+
+2 　　これは・・・・\n花火の打ち上げ台のようだ
+2 This looks like a\nlaunchpad for a firework.
+
+
+3 またタカツングの奴らだ！\n　なんて、しつこいんだ
+3 It's those persistent\nTakatsung guys again!
+
+4 ラピスラズリを手に入れた
+4 I took the lapis lazuli.
+
+
+5 タカツングが飛んでいる\n　　　　まだ、危険だ
+5 It's not safe with the\Takatsung in the air!
+
+6 タカツングはたおしたが\n　ブーメランがこわれた
+6 The Takatsung broke,\nbut so did my boomerang.
+
+7 ラピスラズリを手に\n　　　　入れないと・・・
+7 I set the lapis lazuli.
+
+8 　　気力が回復した
+8 I recovered health!
+
+
+9 　案内図を手に入れた
+9 I took the guide map.
+
+
+10 　ソルマ石を手にいれた
+10 I took the solma stone.
+
+
+11 　マッチを手にいれた
+11 I took the match.
+
+
+12 ロケット花火を手にいれた
+12 I took the firework.
+
+
+13 エアクラフトのエネルギー\n　　　　　　を手にいれた
+13 I took the\naircraft energy source.
+
+
+14 なんだ、今のうめき声は？
+14 Where is that\ngroan coming from?
+
+\TE
+
+0 ラピスラズリ
+0 Lapis Lazuli
+
+1 生態系の種
+1 Biome Seed
+
+2 高級\nシンセスタ
+2 High-grade\nSynthester
+
+3 低級\nシンセスタ
+3 Low-grade\nSynthester
+
+4 飛行石
+4 Flying Stone
+
+5 エネルギー
+5 Energy Source
+
+6 切符
+6 Railpass
+
+7 全景地図
+7 Map
+
+8 ほうき
+8 Broom
+
+9 気力回復
+9 Recovery Gem
+
+10 ソルマ石
+10 Solma Stone
+
+11 翻訳石
+11 Decipher Stone
+
+12 ワープ石
+12 Warp Stone
+
+13 イバラード\n　　　　の本
+13 Book of\nIblard
+
+14 シンセスタ\nブーメラン
+14 Wooden\nBoomerang
+
+15 案内図
+15 Guide Map
+
+16 エアシップ\nエネルギー\n　　　切れだ
+16 The airship\nneeds an\nenergy source.
+\WIE
+
+
+0 ロケット花火
+0 Firework
+
+1 マッチ
+1 Match
+\SIE
+

@@ -1,0 +1,79 @@
+0 　　タカツングの奴ら\n　ひどいことをするなぁ！\n　ところで、この辺りに\n　飛行石があるはずだけど
+0 Why are the Takatsung\nacting so cruel?!\nI may need to\nfind a flying stone.
+
+1 　飛行石を手に入れた！
+1 I took the flying stone.
+
+2 エアシップのエネルギーだ\n　　　これで出発できる
+2 An airship energy source!\nI can fly with this!
+
+3 　　気力が回復した
+3 I recovered health!
+
+4 　案内図を手に入れた
+4 I took the guide map.
+
+5 　ほうきを手に入れた
+5 I took the broom.
+
+6 　これは、この島の絵だ
+6 It's a painting of\nthis very island.
+
+\TE
+
+0 ラピスラズリ
+0 Lapis Lazuli
+
+1 生態系の種
+1 Biome Seed
+
+2 高級\nシンセスタ
+2 High-grade\nSynthester
+
+3 低級\nシンセスタ
+3 Low-grade\nSynthester
+
+4 飛行石
+4 Flying Stone
+
+5 エネルギー
+5 Energy Source
+
+6 切符
+Railpass
+
+7 全景地図
+Overhead Map
+
+8 ほうき
+8 Broom
+
+9 気力回復
+9 Recovery Gem
+
+10 ソルマ石
+10 Solma Stone
+
+11 翻訳石
+Decipher Stone
+
+12 ワープ石
+12 Warp Stone
+
+13 イバラード\n　　　　の本
+13 Book of\nIblard
+
+14 シンセスタ\nブーメラン
+14 Synthester\nBoomerang
+
+15 案内図
+15 Guide Map
+
+16 エアシップ\nエネルギー\n　　　切れだ
+16 The airship\nneeds an\nenergy source.
+
+\WIE
+0 月
+0 Moon
+\SIE
+

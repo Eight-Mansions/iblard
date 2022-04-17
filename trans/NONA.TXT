@@ -1,0 +1,118 @@
+0 　ここがニーニャさんの\n　いってた丘か・・・・\n　　ノナ君は何処に\n　　いるんだろう？
+0 This must be the hill\nthat Ninya mentioned.\n　Is Qi Nona really here?
+
+1 この先には行けないようだ
+1 I can't proceed.
+
+2 だめだ、カギが掛かっている
+2 Darn, it's locked.
+
+3 だめだ、カギがかかっている
+3 Darn, it's locked.
+
+4 　階段だ、下に行ける
+4 These stairs look\nsafe to go down.
+
+5 　これは、この丘の絵だ
+5 It's a painting of\nthis very hilltop.
+
+6 　　　　あっ！\nあれはタカツングの船だ！
+6 Yikes! That was\na Takatsung ship!
+
+7 木製のブーメランでは\n　　　歯がたたない・・・
+7 A wooden boomerang\nwon't cut it!
+
+8 エアシップのエネルギーだ\n　　　これで出発できる
+2 An airship energy source!\nI can fly with this!
+
+9 　　気力が回復した
+9 I recovered health!
+
+
+10 　案内図を手に入れた
+10 I took the guide map.
+
+11 四角い家の鍵を手に入れた
+11 I took the\nsquare housekey.
+
+12 丸い家の鍵を手に入れた
+12 I took the\nround housekey.
+
+13 木製のブーメランを\n　シンセスタブーメランに\n　　　持ちかえた
+13 I swapped my\nwooden boomerang for\nthe synthester boomerang.
+
+14 イバラードの本を\n　　　　　手に入れた
+14 I took the book of Iblard.
+
+15 　　ほうきを手に入れた
+15 I took the broom.
+
+16 もう重要な本は\n　　　　　　無いみたいだ
+16 No other books\nstand out.
+
+17 　特に何もないみたいだ
+17 Nothing stands out.
+
+\TE
+
+0 ラピスラズリ
+0 Lapis Lazuli
+
+1 生態系の種
+1 Biome Seed
+
+2 高級\nシンセスタ
+2 High-grade\nSynthester
+
+3 低級\nシンセスタ
+3 Low-grade\nSynthester
+
+4 飛行石
+4 Flying Stone
+
+5 エネルギー
+5 Energy Source
+
+6 切符
+Railpass
+
+7 全景地図
+Overhead Map
+
+8 ほうき
+Broom
+
+9 気力回復
+9 Recovery Gem
+
+10 ソルマ石
+10 Solma Stone
+
+11 翻訳石
+11 Decipher Stone
+
+12 ワープ石
+12 Warp Stone
+
+13 イバラード\n　　　　の本
+13 Book of\nIblard
+
+14 ブーメラン
+14 Synthester\nBoomerang
+
+15 案内図
+15 Guide Map
+
+16 エアシップ\nエネルギー\n　　　切れだ
+16 The airship\nneeds an\nenergy source.
+
+\WIE
+
+0 四角い家の\n　　　　鍵
+0 Square Housekey
+
+1 丸い家の鍵
+1 Round Housekey
+
+\SIE
+

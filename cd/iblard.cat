@@ -1,0 +1,324 @@
+system_area {
+  file "cd\iblard.sys"
+}
+
+volume {
+  system_id [PLAYSTATION]
+  volume_id [IBARAADO]
+  volume_set_id []
+  publisher_id [SCE]
+  preparer_id [SYSTEM SACOM]
+  application_id [PLAYSTATION]
+  copyright_file_id []
+  abstract_file_id []
+  bibliographic_file_id []
+  creation_date 1997-09-10 14:29:52.00 36
+  modification_date 0000-00-00 00:00:00.00 0
+  expiration_date 0000-00-00 00:00:00.00 0
+  effective_date 0000-00-00 00:00:00.00 0
+}
+
+dir {
+  file SYSTEM.CNF
+  dir EKI {
+    file EKI.COD
+    file EKI.FNT
+    file EKI.TIS
+    file EKI.TMD
+    file EKI.TOS
+    file EKI.TXT
+    xafile EKI.XA
+    file EKIL.TIS
+    file EKI_B.SEP
+    file EKI_B.VB
+    file EKI_B.VH
+    file EKI_S.VB
+    file EKI_S.VH
+    file LOAD01.TIM
+    xafile MV02.STR
+    xafile MV03.STR
+    file XS0101.TIM
+    file XS0102.TIM
+    file XSMP00.TIM
+    file ZMIN5BN.FNT
+  }
+  dir MORI01 {
+    file LOAD02.TIM
+    file MORI01.COD
+    file MORI01.FNT
+    file MORI01.TIS
+    file MORI01.TMD
+    file MORI01.TOS
+    file MORI01.TXT
+    xafile MORI01.XA
+    file MORI01L.TIS
+    file MORI01_B.SEP
+    file MORI01_B.VB
+    file MORI01_B.VH
+    file MORI01_S.VB
+    file MORI01_S.VH
+    file XSMP01.TIM
+    file ZMIN5BN.FNT
+  }
+  dir MORI02 {
+    file MORI02.COD
+    file MORI02.FNT
+    file MORI02.TIS
+    file MORI02.TMD
+    file MORI02.TOS
+    file MORI02.TXT
+    xafile MORI02.XA
+    file MORI02L.TIS
+    file MORI02_B.SEP
+    file MORI02_B.VB
+    file MORI02_B.VH
+    file MORI02_S.VB
+    file MORI02_S.VH
+    file WARP.TIM
+    file XSMP08.TIM
+    file XWMP08.TIM
+    file ZMIN5BN.FNT
+  }
+  dir MUSIC {
+    file BRANK_S.VB
+    file BRANK_S.VH
+    file SYSTEM.VB
+    file SYSTEM.VH
+    file TITLE_B.SEP
+    file TITLE_B.VB
+    file TITLE_B.VH
+  }
+  dir NINYA2 {
+    file MAP02.TIM
+    xafile MV07.STR
+    file NINYA2.COD
+    file NINYA2.FNT
+    file NINYA2.TIS
+    file NINYA2.TMD
+    file NINYA2.TOS
+    file NINYA2.TXT
+    xafile NINYA2.XA
+    file NINYA2L.TIS
+    file NINYA2_B.SEP
+    file NINYA2_B.VB
+    file NINYA2_B.VH
+    file NINYA2_S.VB
+    file NINYA2_S.VH
+    file XSMP04.TIM
+    file XWMP04.TIM
+    file XS0501.TIM
+    file XS0503.TIM
+    file ZMIN5BN.FNT
+  }
+  dir NONA {
+    file MAP03.TIM
+    xafile MV08.STR
+    file NONA.COD
+    file NONA.FNT
+    file NONA.TIS
+    file NONA.TMD
+    file NONA.TOS
+    file NONA.TXT
+    file NONAL.TIS
+    file NONA_B.SEP
+    file NONA_B.VB
+    file NONA_B.VH
+    file NONA_S.VB
+    file NONA_S.VH
+    file XSMP05.TIM
+    file XWMP05.TIM
+    file ZMIN5BN.FNT
+    file XS0601.TIM
+    xafile NONA.XA
+  }
+  dir TOMO {
+    file LOAD03.TIM
+    file TOMO.COD
+    file TOMO.FNT
+    file TOMO.TIS
+    file TOMO.TMD
+    file TOMO.TOS
+    file TOMO.TXT
+    xafile TOMO.XA
+    file TOMOL.TIS
+    file TOMO_B.SEP
+    file TOMO_B.VB
+    file TOMO_B.VH
+    file TOMO_S.VB
+    file TOMO_S.VH
+    file XS0301.TIM
+    file XS0302.TIM
+    file XSMP02.TIM
+    file XWMP02.TIM
+    file ZMIN5BN.FNT
+  }
+  dir YOZORA {
+    file MAP05.TIM
+    xafile MV00.STR
+    file XSMP07.TIM
+    file XWMP07.TIM
+    file YOZORA.COD
+    file YOZORA.FNT
+    file YOZORA.TIS
+    file YOZORA.TMD
+    file YOZORA.TOS
+    file YOZORA.TXT
+    xafile YOZORA.XA
+    file YOZORAL.TIS
+    file YOZORA_B.SEP
+    file YOZORA_B.VB
+    file YOZORA_B.VH
+    file YOZORA_S.VB
+    file YOZORA_S.VH
+    file ZMIN5BN.FNT
+  }
+  dir LAPUTA01 {
+    file LAPUT1_B.SEP
+    file LAPUT1_B.VB
+    file LAPUT1_B.VH
+    file LAPUT1_S.VB
+    file LAPUT1_S.VH
+    file LAPUTA01.COD
+    file LAPUTA01.FNT
+    file LAPUTA01.TIS
+    file LAPUTA01.TMD
+    file LAPUTA01.TOS
+    file LAPUTA01.TXT
+    xafile LAPUTA01.XA
+    file LAPUTA1L.TIS
+    file MAP06.TIM
+    xafile MV13.STR
+    xafile MV14.STR
+    file XS1001.TIM
+    file XSMP09.TIM
+    file XWMP09.TIM
+    file ZMIN5BN.FNT
+  }
+  dir LAPUTA02 {
+    file LAPUT2_B.SEP
+    file LAPUT2_B.VB
+    file LAPUT2_B.VH
+    file LAPUT2_S.VB
+    file LAPUT2_S.VH
+    file LAPUTA02.COD
+    file LAPUTA02.FNT
+    file LAPUTA02.TIS
+    file LAPUTA02.TMD
+    file LAPUTA02.TOS
+    file LAPUTA02.TXT
+    xafile LAPUTA02.XA
+    file LAPUTA2L.TIS
+    file MAP08.TIM
+    xafile MV17.STR
+    xafile MV18.STR
+    xafile MV19.STR
+    file XS1001.TIM
+    file XSMP11.TIM
+    file XWMP11.TIM
+    file ZMIN5BN.FNT
+  }
+  dir MEKIN {
+    file MAP01.TIM
+    file MEKIN.COD
+    file MEKIN.FNT
+    file MEKIN.TIS
+    file MEKIN.TMD
+    file MEKIN.TOS
+    file MEKIN.TXT
+    xafile MEKIN.XA
+    file MEKINL.TIS
+    file MEKIN_B.SEP
+    file MEKIN_B.VB
+    file MEKIN_B.VH
+    file MEKIN_S.VB
+    file MEKIN_S.VH
+    xafile MV06.STR
+    file XSMP03.TIM
+    file XWMP03.TIM
+    file XS0401.TIM
+    file ZMIN5BN.FNT
+  }
+  dir HIKOU {
+    file HIKOU.COD
+    file HIKOU.FNT
+    file HIKOU.TIS
+    file HIKOU.TMD
+    file HIKOU.TOS
+    file HIKOU.TXT
+    xafile HIKOU.XA
+    file HIKOUL.TIS
+    file HIKOU_B.SEP
+    file HIKOU_B.VB
+    file HIKOU_B.VH
+    file HIKOU_S.VB
+    file HIKOU_S.VH
+    file MAP07.TIM
+    xafile MV16.STR
+    file XSMP10.TIM
+    file XWMP10.TIM
+    file ZMIN5BN.FNT
+  }
+  dir TEIEN {
+    file MAP04.TIM
+    file TEIEN.COD
+    file TEIEN.FNT
+    file TEIEN.TIS
+    file TEIEN.TMD
+    file TEIEN.TOS
+    file TEIEN.TXT
+    xafile TEIEN.XA
+    file TEIENL.TIS
+    file TEIEN_B.SEP
+    file TEIEN_B.VB
+    file TEIEN_B.VH
+    file TEIEN_S.VB
+    file TEIEN_S.VH
+    file XS0701.TIM
+    file XSMP06.TIM
+    file XWMP06.TIM
+    file ZMIN5BN.FNT
+  }
+  file SLPS_010.27
+  dir ETC {
+    file BASE01.TIM
+    file BASE02.TIM
+    file BOOK00.TIM
+    file BOOK01.TIM
+    file BOOK02.TIM
+    file BOOK03.TIM
+    file BOOK04.TIM
+    file BOOK05.TIM
+    file BOOK06.TIM
+    xafile CLIP.STR
+    xafile CREDIT.STR
+    file KIRYUU.TIM
+    xafile MV01.STR
+    file SACOM.STR
+    file START02.TIM
+    file TITLE.TIM
+    xafile TVASA.STR
+    xafile ZAGAIN.STR
+  }
+  dir SP {
+    file DEBUG.TIS
+    file GAMEOVER.TIS
+    file ITEMWIN.TIS
+    file TIT_CYOI.TIS
+    file LOAD_WIN.TIS
+    file SYSTEM.TIS
+    file LOADTMP.TIM
+    file OP_WIN.TIS
+    file PAUWIN.TIS
+    file EKI.TIM
+    file HIKOU.TIM
+    file SPIRAL.TIM
+    file KIRYUU.TIM
+    file LAPUTA.TIM
+    file HOTARU.TIM
+    file SSS.TIM
+    file TEIEN.TIM
+    file TOMO.TIM
+    file YOZORA.TIM
+  }
+  file ATMP.TMP
+}

@@ -1,0 +1,86 @@
+0 Ｔｈｉｓ　ａｌｔｅｒ　ｈａｓ　ａ\nｍｏｏｎ　ｏｎ　ｉｔ、　ｂｕｔ　ｗｈｙ？
+
+1 Ｉ　ｃａｎ’ｔ　ｐｒｏｃｅｅｄ。
+
+2 Ｄａｒｎ、　Ｉ　ｃａｎ’ｔ　ｐａｓｓ！
+
+3 切符がないと\n　　　乗れないみたいだ
+3 I can't board\nwithout a railpass.
+
+4 Ｉｓ　ｔｈａｔ　ａ。。。ｓｑｕｉｄ！？
+
+5 なんだ・・・この音は？
+5 What is...that noise?
+
+6 木に何かひっかかっている\n　あれはなんだろう？
+6 What is that thing\nstuck in the tree?
+
+7 　　気力が回復した
+7 I recovered health!
+
+8 　Ｉ　ｔｏｏｋ　ｔｈｅ　ｇｕｉｄｅ　ｍａｐ。
+
+9 木製のブーメランを\n　　　　　　手にいれた\nこれを木の上の\n　　鉱石に当てれば・・・・
+9 I took the\nwooden boomerang...\nCan it knock the\ncrystal from this tree?
+
+10 　月の石を手に入れた
+10 I took the moon stone.
+
+11 　　切符を手に入れた
+11 I took the railpass.
+\TE
+
+0 ラピスラズリ
+0 Lapis Lazuli
+
+1 生態系の種
+1 Biome Seed
+
+2 高級\nシンセスタ
+2 High-grade\nSynthester
+
+3 低級\nシンセスタ
+3 Low-grade\nSynthester
+
+4 飛行石
+4 Flying Stone
+
+5 エネルギー
+5 Energy Source
+
+6 切符
+6 Railpass
+
+7 Ｍａｐ
+
+8 ほうき
+8 Broom
+
+9 気力回復
+9 Recovery Gem
+
+10 ソルマ石
+10 Solma Stone
+
+11 翻訳石
+11 Decipher Stone
+
+12 ワープ石
+12 Warp Stone
+
+13 イバラード\n　　　　の本
+13 Book of\nIblard
+
+14 木製の\nブーメラン
+14 Wooden\nBoomerang
+
+15 Ｇｕｉｄｅ　Ｍａｐ
+
+16 エアシップ\nエネルギー\n　　　切れだ
+16 The airship\nneeds an\nenergy source.
+\WIE
+
+0 月の石
+0 Moon Stone
+\SIE
+

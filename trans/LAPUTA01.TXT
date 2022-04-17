@@ -1,0 +1,119 @@
+0 　　　月の記号だ
+0 It's a symbol of the moon.
+
+1 　　　　壁画だ
+1 It's a mural.
+
+2 この先は行けないみたいだ
+2 I can't proceed.
+
+3 こうしてる場合じゃない\n　\n　古代のエアポートへ\n　　　　急がないと
+3 This won't work!\n　\n　I have to find the\nancient airport!
+
+4 　これはニーニャさんの\n　　　エアシップだ
+4 It's Ninya's airship.
+
+5 　ラピュタ羽化の絵だ
+5 It's a painting of\na hatching laputa.
+
+6 これが・・・\n　　　ラピュタの卵？
+6 It's...a laputa egg?
+
+7 　だめだ、壊れている
+7 Darn, it's broken.
+
+8 　ほうきは持っている
+8 I have a broom.
+
+9 　正しくセットしてある
+9 It's set correctly.
+
+10 だめだ・・・\n　　　　もう取れない
+10 Darn, it won't come off.
+
+11 ラピュタ羽化のチャンスは\n　　　　一度しかない。
+11 This is our once chance\nto hatch the laputa!
+
+12 何かのスイッチのようだ
+12 It must be a switch.
+
+13 　　気力が回復した
+13 I recovered health!
+
+14 　案内図を手に入れた
+14 I took the guide map.
+
+15 角ラピュタの模型\n　　　　　　を手に入れた
+15 I took the square\nlaputa terra-model
+
+16 丸ラピュタの模型\n　　　　　　を手に入れた
+16 I took the round\nlaputa terra-model
+
+
+17 　月の石を手にいれた
+17 I took the moon stone.
+
+\TE
+
+0 ラピスラズリ
+0 Lapis Lazuli
+
+1 生態系の種
+1 Biome Seed
+
+2 高級\nシンセスタ
+2 High-grade\nSynthester
+
+3 低級\nシンセスタ
+3 Low-grade\nSynthester
+
+4 飛行石
+4 Flying Stone
+
+5 エネルギー
+5 Energy Source
+
+6 切符
+Railpass
+
+7 全景地図
+Overhead Map
+
+8 ほうき
+Broom
+
+9 気力回復
+9 Recovery Gem
+
+10 ソルマ石
+10 Solma Stone
+
+11 翻訳石
+11 Decipher Stone
+
+12 ワープ石
+12 Warp Stone
+
+13 イバラード\n　　　　の本
+13 Book of\nIblard
+
+14 シンセスタ\nブーメラン
+14 Synthester\nBoomerang
+
+15 案内図
+15 Guide Map
+
+16 エアシップ\nエネルギー\n　　　切れだ
+16 The airship\nneeds an\nenergy source.
+
+\WIE
+0 角ラピュタの\n　　　模型
+0 Square Laputa\nTerra-model
+
+1 丸ラピュタの\n　　　模型
+1 Round Laputa\nTerra-model
+
+2 月の石
+2 Moon Stone
+\SIE
+

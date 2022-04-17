@@ -1,0 +1,124 @@
+0 この街に高級シンセスタが\n　あるはずだけど・・・・
+0 There should be a\nhigh-grade synthester\nhere, but...
+
+1 　月の記号が記してある
+1 It's a symbol of the moon.
+
+2 　　だめだ入れない
+2 Darn, it won't go in.
+
+3 　　飛行船の模型だ
+3 It's a model\nof an airship.
+
+4 　小惑星は、もう必要ない
+4 I don't need\nthe meteors anymore.
+
+5 　　　　月の石だ\n　このままでは取れない
+5 I can't move\nthe moon rock now.
+
+6 　　高級シンセスタを\n　　　手に入れた！
+I took the\nhigh-grade synthester!
+
+7 　　　特に何もない
+7 Nothing stands out.
+
+8 　ほうきは、持っている
+8 I have a broom.
+
+9 今のは、いったい・・・・
+9 What's going on now?
+
+10 　　気力が回復した
+10 I recovered health!
+
+11 　案内図を手に入れた
+11 I took the guide map.
+
+12 　ほうきを手に入れた
+12 I took the broom.
+
+13 　小惑星を３個手に入れた
+12 I took the\nthree meteors.
+
+14 　月の石を手にいれた
+14 I took the moon stone.
+
+15 　翻訳石を手にいれた
+15 I took the\ndecipher stone.
+
+16 高級シンセスタ\n　　　　　　を手に入れた
+16 I took the\nhigh-grade synthester.
+
+17 だめだ、\n　　一回でははききれない
+17 I see, so it\ncan't be redone.
+
+\TE
+
+0 ラピスラズリ
+0 Lapis Lazuli
+
+1 生態系の種
+1 Biome Seed
+
+2 高級\nシンセスタ
+2 High-grade\nSynthester
+
+3 低級\nシンセスタ
+3 Low-grade\nSynthester
+
+4 飛行石
+4 Flying Stone
+
+5 エネルギー
+5 Energy Source
+
+6 切符
+Railpass
+
+7 全景地図
+Overhead Map
+
+8 ほうき
+Broom
+
+9 気力回復
+9 Recovery Gem
+
+10 ソルマ石
+10 Solma Stone
+
+11 翻訳石
+11 Decipher Stone
+
+12 ワープ石
+12 Warp Stone
+
+13 イバラード\n　　　　の本
+13 Book of\nIblard
+
+14 シンセスタ\nブーメラン
+14 Synthester\nBoomerang
+
+15 案内図
+15 Guide Map
+
+16 エアシップ\nエネルギー\n　　　切れだ
+16 The airship\nneeds an\nenergy source.
+
+\WIE
+0 赤小惑星
+0 Red Meteor
+
+1 青小惑星
+1 Blue Meteor
+
+2 黄小惑星
+2 Yellow Meteor
+
+3 月の石
+3 Moon Stone
+
+4 地図
+4 Map
+\SIE
+
