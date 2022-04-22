@@ -18,8 +18,9 @@ struct subtitle {
 
 struct subtitle_displayed {
     const subtitle_part* parts;
-    u16 currentPart;
     u8 partsCount;
+    u8 nextPartIdx;
+    u8 ticksTilNext;
 };
 
 // Test1
@@ -28,8 +29,8 @@ const u8 partdata_0_0[] = { 0x82, 0x73, 0x82, 0x85, 0x82, 0x93, 0x82, 0x94, 0x82
 const u8 partdata_1_0[] = { 0x82, 0x73, 0x82, 0x85, 0x82, 0x93, 0x82, 0x94, 0x82, 0x51 };
 
 const subtitle_part sub0_parts[] = {
-    {(const char*)partdata_0_0, 5, 0},
-    {(const char*)partdata_1_0, 5, 4}
+    {(const char*)partdata_0_0, 5, 1},
+    {(const char*)partdata_1_0, 5, 15}
 };
 
 const u32 subsCount = 1;
@@ -42,7 +43,9 @@ static subtitle_displayed currSub = {};
 extern "C" {
 	extern int DisplayText(const char* text, int pos, int wipe, int unk1, int type);
 
-	extern void GetLetterImage(u32 sjis, u_long* letterImage);
+	//extern void GetLetterImage(u32 sjis, u_long* letterImage);
+    
+    void DisplaySubtitle();
 
 	void DisplayLetter();
 

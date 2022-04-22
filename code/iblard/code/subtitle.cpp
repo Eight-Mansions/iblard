@@ -7,11 +7,29 @@ void DisplayLetter()
 {
 	currSub.parts = subs[0].parts;
 	currSub.partsCount = subs[0].partsCount;
-	currSub.currentPart = 0;
+	currSub.nextPartIdx = 0;
+	currSub.ticksTilNext = subs[0].parts[currSub.nextPartIdx].displayTime;
+}
 
-	for (int i = 0; i < currSub.parts[currSub.currentPart].len; i++)
+void DisplaySubtitle()
+{
+	currSub.ticksTilNext--;
+	if (currSub.partsCount != 0 && currSub.ticksTilNext == 0)
 	{
-		DisplayText(currSub.parts[currSub.currentPart].text, i, 0, 0, 0);
+		for (int i = 0; i < currSub.parts[currSub.nextPartIdx].len; i++)
+		{
+			DisplayText(currSub.parts[currSub.nextPartIdx].text, i, 0, 0, 0);
+		}
+
+		currSub.nextPartIdx++;
+		if (currSub.nextPartIdx < currSub.partsCount)
+		{
+			currSub.ticksTilNext = currSub.parts[currSub.nextPartIdx].displayTime;
+		}
+		else
+		{
+			currSub.partsCount = 0; // No parts left to show
+		}
 	}
 }
 

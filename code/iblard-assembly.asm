@@ -15,6 +15,11 @@
 	
  .org 0x800383cc
 	jal ClearSubs
+	
+; 0x8002cf2c  main game loop
+
+.org 0x8002d020
+	jal DisplaySubtitle
 
 .org 0x80096900
 	.importobj "code\iblard\obj\subtitle.obj"
@@ -26,6 +31,15 @@ trytosub:
 	nop
 	j 0x8003810c
 	nop
+
+DisplaySubs:
+	addiu sp, sp, -4
+	sw ra, 0(sp)
+	jal DisplaySubtitle
+	nop
+	lw ra, 0(sp)
+	j 0x80038240
+	addiu sp, sp, 4
 	
 ClearSubs:
 	jal printf
