@@ -4,6 +4,7 @@
 #include "platform.h"
 
 extern "C" {
+	void ConvertTextToTwoBytes(u8* src, int srcIdx, u8* dest);
 }
 
 #endif
