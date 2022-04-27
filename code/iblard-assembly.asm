@@ -13,8 +13,20 @@
 .org 0x80038104
 	j trytosub
 	
- .org 0x800383cc
+.org 0x800383cc
 	jal ClearSubs
+
+
+;------------  VWF Code -----------
+.org 0x80039140
+	j ResetWidthVar
+	lui at, 0x800a
+
+;.org 0x80039238
+;	jal GetLetWidth
+
+;----------------------------------
+
 	
 ; .org 0x8003929c
 	; addiu s4, s4, 0x10 ; hard code width test
@@ -37,8 +49,7 @@
 	j UpgradeText
 	nop
 
-.org 0x80039238
-	jal GetLetWidth
+
 
 .org 0x80096900
 	.importobj "code\iblard\obj\subtitle.obj"
@@ -80,16 +91,25 @@ UpgradeText:
 	nop
 
 GetLetWidth:
-	addiu sp, sp, -4
+	addiu sp, sp, -8
 	sw ra, 0(sp)
+	sw s1, 4(sp)
+	la s1, vars
+	;lw s0, 0(s1)	; go ahead and reset it to whatever the "current" width is
 	jal GetLetterWidth
 	nop
-	la t0, vars
-	sw v0, 0(t0)
+	sw v0, 0(s1)
 	lw ra, 0(sp)
+	lw s1, 4(sp)
 	j 0x800394e0
-	addiu sp, sp, 4
-	nop
+	addiu sp, sp, 8
+
+ResetWidthVar:
+	la a0, vars
+	sb r0, 0x8279(at)
+	j 0x80039148
+	sb r0, 0(a0)
+
 
 vars:
 	.dw 0	; cur width
