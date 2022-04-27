@@ -16,6 +16,17 @@
  .org 0x800383cc
 	jal ClearSubs
 	
+; .org 0x8003929c
+	; addiu s4, s4, 0x10 ; hard code width test
+	
+; .org 0x80039c48
+	; addu a0, r0, v1
+
+; .org 0x80039c58
+	; subiu a0, a0, 0x1000
+	; nop
+	; nop
+	
 ; 0x8002cf2c  main game loop
 
 .org 0x8002d020
@@ -26,9 +37,13 @@
 	j UpgradeText
 	nop
 
+.org 0x80039238
+	jal GetLetWidth
+
 .org 0x80096900
 	.importobj "code\iblard\obj\subtitle.obj"
 	.importobj "code\iblard\obj\text.obj"
+	.importobj "code\iblard\obj\font.obj"
 	
 trytosub:
 	jal printf
@@ -63,5 +78,20 @@ UpgradeText:
 	
 	j 0x80038a94
 	nop
+
+GetLetWidth:
+	addiu sp, sp, -4
+	sw ra, 0(sp)
+	jal GetLetterWidth
+	nop
+	la t0, vars
+	sw v0, 0(t0)
+	lw ra, 0(sp)
+	j 0x800394e0
+	addiu sp, sp, 4
+	nop
+
+vars:
+	.dw 0	; cur width
 	
 .close
