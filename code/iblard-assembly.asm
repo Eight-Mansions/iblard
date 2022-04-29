@@ -22,9 +22,17 @@
 	j ResetWidthVar
 	lui at, 0x800a
 
-;.org 0x80039238
-;	jal GetLetWidth
+.org 0x80039bdc
+	j GetLetWidth
 
+.org 0x80039c9c
+	j AddCurLetWidth
+	
+;.org 0x80039230 ; Don't set s4 to s0... we're setting it ourselves
+;	nop
+
+;.org 0x80039c60 ; Don't shift the width over... (i.e. x 10)
+;	nop
 ;----------------------------------
 
 	
@@ -48,9 +56,7 @@
 	addiu at, at, 0xbe28
 	j UpgradeText
 	nop
-
-
-
+	
 .org 0x80096900
 	.importobj "code\iblard\obj\subtitle.obj"
 	.importobj "code\iblard\obj\text.obj"
@@ -91,27 +97,44 @@ UpgradeText:
 	nop
 
 GetLetWidth:
-	addiu sp, sp, -8
+	addiu sp, sp, -16
 	sw ra, 0(sp)
-	sw s1, 4(sp)
+	sw a0, 4(sp)
+	sw s1, 8(sp)
+	sw v0, 12(sp)
 	la s1, vars
-	;lw s0, 0(s1)	; go ahead and reset it to whatever the "current" width is
-	jal GetLetterWidth
-	nop
-	sw v0, 0(s1)
+	addu a0, r0, fp
+	jal GetSentenceWidth
+	addu a1, r0, v1
+
+	sw v0, 0(s1) ; Update current width with next	
 	lw ra, 0(sp)
-	lw s1, 4(sp)
-	j 0x800394e0
-	addiu sp, sp, 8
+	lw a0, 4(sp)
+	lw s1, 8(sp)
+	lw v0, 12(sp)
+	jr ra
+	addiu sp, sp, 16
+	
+AddCurLetWidth:
+	la v1, vars
+	lw v1, 0(v1)
+	nop
+	addu v1, v1, a0
+	addu v1, v1, v0
+	sh v1, 0x7900(at)
+	j 0x80039d1c
+	addiu v1, t6, 0x00ae ; replace clobbered v1
 
 ResetWidthVar:
 	la a0, vars
 	sb r0, 0x8279(at)
+	sw r0, 4(a0)
 	j 0x80039148
-	sb r0, 0(a0)
+	sw r0, 0(a0)
 
 
 vars:
-	.dw 0	; cur width
+	.dw 0	; cur total width
+	.dw 0	; next width
 	
 .close

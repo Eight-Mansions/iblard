@@ -22,7 +22,7 @@
 7 　　気力が回復した
 7 I recovered health!
 
-8 I took the guide map.
+8 I took the\nguide map.
 
 9 木製のブーメランを\n　　　　　　手にいれた\nこれを木の上の\n　　鉱石に当てれば・・・・
 9 I took the\nwooden boomerang...\nCan it knock the\ncrystal from this tree?
