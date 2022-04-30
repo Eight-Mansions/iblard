@@ -5,9 +5,9 @@
 
 extern "C" {
 
-	int GetLetterWidth(u32 letter);
+	u32 GetLetterWidth(u32 letter);
 
-	int GetSentenceWidth(const u16* text, u32 length);
+	u32 GetSentenceWidth(const u16* text, const u16* end);
 
 	//int GetYForCentering(const char* text, u32 length);
 }

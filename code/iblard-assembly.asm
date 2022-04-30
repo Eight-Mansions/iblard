@@ -105,7 +105,7 @@ GetLetWidth:
 	la s1, vars
 	addu a0, r0, fp
 	jal GetSentenceWidth
-	addu a1, r0, v1
+	addu a1, r0, s2
 
 	sw v0, 0(s1) ; Update current width with next	
 	lw ra, 0(sp)

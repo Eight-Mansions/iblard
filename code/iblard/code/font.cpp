@@ -99,7 +99,7 @@ const u8 widths[] = {
 };
 
 
-int GetLetterWidth(const u32 letter)
+u32 GetLetterWidth(const u32 letter)
 {
 	if (letter >= 0x829F && letter <= 0x82FE)
 	{
@@ -112,10 +112,11 @@ int GetLetterWidth(const u32 letter)
 	}
 }
 
-int GetSentenceWidth(const u16* text, u32 length)
+u32 GetSentenceWidth(const u16* text, const u16* end)
 {
 	int textWidth = 0;
-	for (int i = 0; i <= length; i++) // There is also a check for <$09> but not sure what that does... maybe breaks too?
+	int length = end - text;
+	for (int i = 0; i < length; i++) // There is also a check for <$09> but not sure what that does... maybe breaks too?
 	{
 		u32 letter = (text[i] & 0xFF) << 8 | text[i] >> 8;
 		if (letter == 0x5C6E) // Not sure if it starts after or before the \n...
