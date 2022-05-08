@@ -57,6 +57,11 @@
 	j UpgradeText
 	nop
 	
+.org 0x80038f00
+	addiu at, at, 0xbe28
+	j UpgradeItems
+	nop 
+	
 .org 0x80096900
 	.importobj "code\iblard\obj\subtitle.obj"
 	.importobj "code\iblard\obj\text.obj"
@@ -94,6 +99,15 @@ UpgradeText:
 	addu a2, r0, v1	; dest
 	
 	j 0x80038a94
+	nop
+	
+UpgradeItems:
+	addu a0, r0, at	; src text
+	addu a1, r0, s0	; src idx
+	jal ConvertTextToTwoBytes
+	addu a2, r0, v1	; dest
+	
+	j 0x80038f34
 	nop
 
 GetLetWidth:
