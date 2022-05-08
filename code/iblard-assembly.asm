@@ -25,8 +25,11 @@
 .org 0x80039bdc
 	j GetLetWidth
 
-.org 0x80039c9c
-	j AddCurLetWidth
+.org 0x80039c9c ; Text
+	j AddCurLetWidthText
+	
+.org 0x80039d14	; Items
+	j AddCurLetWidthItems
 	
 ;.org 0x80039230 ; Don't set s4 to s0... we're setting it ourselves
 ;	nop
@@ -129,7 +132,7 @@ GetLetWidth:
 	jr ra
 	addiu sp, sp, 16
 	
-AddCurLetWidth:
+AddCurLetWidthText:
 	la v1, vars
 	lw v1, 0(v1)
 	nop
@@ -138,6 +141,16 @@ AddCurLetWidth:
 	sh v1, 0x7900(at)
 	j 0x80039d1c
 	addiu v1, t6, 0x00ae ; replace clobbered v1
+	
+AddCurLetWidthItems:
+	la v1, vars
+	lw v1, 0(v1)
+	nop
+	addu v1, v1, a0
+	addu v1, v1, v0
+	sh v1, 0x7900(at)
+	j 0x80039d1c
+	addiu v1, t6, 0x0056 ; replace clobbered v1
 
 ResetWidthVar:
 	la a0, vars
