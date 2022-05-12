@@ -1,4 +1,11 @@
 .psx
+
+;  Note, FNT.FNT is regeenerated from scratch each build
+.open "font\FNT.FNT",0x8013EDAC
+.org 0x80145144
+	.importobj "code\iblard\obj\subtitle.obj"
+.close
+
 .open "exe\SLPS_010.27",0x8000F800
 
 .definelabel GetLetterImage, 0x800394e0
@@ -49,7 +56,7 @@
 	nop 
 	
 .org 0x80096900
-	.importobj "code\iblard\obj\subtitle.obj"
+;	.importobj "code\iblard\obj\subtitle.obj"
 	.importobj "code\iblard\obj\text.obj"
 	.importobj "code\iblard\obj\font.obj"
 	
