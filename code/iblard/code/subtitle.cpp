@@ -1,10 +1,11 @@
 #include "subtitle.h"
 
-int sec = 0;
+int counter = 0;
 const u8 test[] = { 0x88, 0xC4, 0x93, 0xE0, 0x90, 0x7D };
 
 void DisplayLetter()
 {
+	counter = 0;
 	currSub.parts = subs[0].parts;
 	currSub.partsCount = subs[0].partsCount;
 	currSub.nextPartIdx = 0;
@@ -13,6 +14,8 @@ void DisplayLetter()
 
 void DisplaySubtitle()
 {
+	printf("%d\n", counter++);
+
 	currSub.ticksTilNext--;
 	if (currSub.partsCount != 0 && currSub.ticksTilNext == 0)
 	{

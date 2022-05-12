@@ -7,6 +7,8 @@
 .definelabel DisplayText, 0x80038ff0
 .definelabel printf, 0x8003bcb8
 
+; 0x8002cf2c  main game loop
+
 .org 0x80058e30
 	nop			; No wiping the good stuff
 
@@ -30,27 +32,8 @@
 	
 .org 0x80039d14	; Items
 	j AddCurLetWidthItems
-	
-;.org 0x80039230 ; Don't set s4 to s0... we're setting it ourselves
-;	nop
 
-;.org 0x80039c60 ; Don't shift the width over... (i.e. x 10)
-;	nop
 ;----------------------------------
-
-	
-; .org 0x8003929c
-	; addiu s4, s4, 0x10 ; hard code width test
-	
-; .org 0x80039c48
-	; addu a0, r0, v1
-
-; .org 0x80039c58
-	; subiu a0, a0, 0x1000
-	; nop
-	; nop
-	
-; 0x8002cf2c  main game loop
 
 .org 0x8002d020
 	jal DisplaySubtitle

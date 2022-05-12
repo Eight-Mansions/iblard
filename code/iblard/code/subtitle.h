@@ -41,6 +41,8 @@ const subtitle subs[] = {
 static subtitle_displayed currSub = {};
 
 extern "C" {
+    extern int printf(const char* fmt, ...);
+
 	extern int DisplayText(const char* text, int pos, int wipe, int unk1, int type);
 
 	//extern void GetLetterImage(u32 sjis, u_long* letterImage);
