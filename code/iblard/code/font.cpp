@@ -116,6 +116,7 @@ u32 GetSentenceWidth(const u16* text, const u16* end)
 {
 	int textWidth = 0;
 	int length = end - text;
+	curLetIdx = length;
 	for (int i = 0; i < length; i++) // There is also a check for <$09> but not sure what that does... maybe breaks too?
 	{
 		u32 letter = (text[i] & 0xFF) << 8 | text[i] >> 8;

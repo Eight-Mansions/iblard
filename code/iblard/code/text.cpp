@@ -29,3 +29,9 @@ void ConvertTextToTwoBytes(u8* src, int srcIdx, u8* dest)
 
 	return;
 }
+
+void SetVRAMUploadXY(u16* xpos, u16* ypos)
+{
+	xpos[0] = 0x140 + ((curLetIdx % 16) * 0x04);
+	ypos[0] = 0x100 + ((curLetIdx / 16) * 0x12);
+}

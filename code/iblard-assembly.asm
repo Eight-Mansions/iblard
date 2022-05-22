@@ -34,13 +34,23 @@
 .org 0x80039bdc
 	j GetLetWidth
 
-.org 0x80039c9c ; Text
+.org 0x80039c9c ; Text and subtitles
 	j AddCurLetWidthText
 	
 .org 0x80039d14	; Items
 	j AddCurLetWidthItems
+	
+; .org 0x80039c6c
+	; j StoreXProperlyForText ; For text and subtitles
+	; nop
 
+; .org 0x80039d64
+	; nop	; stores second half of orgin x here.. not sure why...
+	
 ;----------------------------------
+.org 0x8003927c
+	jal WrapVRAM
+
 
 .org 0x8002d020
 	jal DisplaySubtitle
@@ -104,23 +114,28 @@ UpgradeItems:
 	nop
 
 GetLetWidth:
-	addiu sp, sp, -16
+	addiu sp, sp, -20
 	sw ra, 0(sp)
 	sw a0, 4(sp)
 	sw s1, 8(sp)
 	sw v0, 12(sp)
+	sw a2, 16(sp)
 	la s1, vars
-	addu a0, r0, fp
+	addu a0, r0, fp	
 	jal GetSentenceWidth
 	addu a1, r0, s2
 
-	sw v0, 0(s1) ; Update current width with next	
-	lw ra, 0(sp)
+	;addiu a2, s1, 0x04
+
+	sw v0, 0(s1) ; Update current width with next
+
+    lw ra, 0(sp)
 	lw a0, 4(sp)
 	lw s1, 8(sp)
 	lw v0, 12(sp)
+	lw a2, 16(sp)
 	jr ra
-	addiu sp, sp, 16
+	addiu sp, sp, 20
 	
 AddCurLetWidthText:
 	la v1, vars
@@ -143,15 +158,45 @@ AddCurLetWidthItems:
 	addiu v1, t6, 0x0056 ; replace clobbered v1
 
 ResetWidthVar:
+	;addiu s5, r0, 1
 	la a0, vars
 	sb r0, 0x8279(at)
 	sw r0, 4(a0)
 	j 0x80039148
 	sw r0, 0(a0)
+	
+StoreXProperlyForText:
+	andi a0, a0, 0x0FFF
+	sh a0, 0x790a(at)
+	j 0x80039c74
+	addiu a0, a3, 0x003a
+	
+WrapVRAM:
+	addu t0, r0, sp ; save off current stack pointer for our x y
+	addiu sp, sp, -16
+	sw ra, 0(sp)
+	sw a0, 4(sp)
+	sw a1, 8(sp)
+	sw a2, 12(sp)
+	
+	;la a0, vars	
+	;lw a0, 4(a0)
+	addiu a0, t0, 0x0420
+	jal SetVRAMUploadXY
+	addiu a1, t0, 0x0422
+	
+	lw ra, 0(sp)
+	lw a0, 4(sp)
+	lw a1, 8(sp)
+	lw a2, 12(sp)
+	
+	j 0x8003e65c
+	addiu sp, sp, 16
+	
 
 
 vars:
-	.dw 0	; cur total width
-	.dw 0	; next width
+	.dw 0	; current total width
+	.dw 0	; current letter idx
 	
 .close
