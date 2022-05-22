@@ -7,6 +7,13 @@ void ConvertTextToTwoBytes(u8* src, int srcIdx, u8* dest)
 	{
 		u16 orig = src[srcIdx];
 		u16 letter = orig;
+
+		if ((u8)orig == '\n' || (u8)orig == '\r')
+		{
+			dest[destIdx] = (u8)orig;
+			break;
+		}
+
 		if (letter != '\\')
 		{
 			letter += 0x827F;
@@ -18,12 +25,6 @@ void ConvertTextToTwoBytes(u8* src, int srcIdx, u8* dest)
 			dest[destIdx++] = (u8)letter;
 			dest[destIdx++] = src[srcIdx + 1];
 			srcIdx++;
-		}
-
-		if ((u8)orig == '\n' || (u8)orig == '\r')
-		{
-			dest[destIdx] = (u8)orig;
-			break;
 		}
 	}
 
