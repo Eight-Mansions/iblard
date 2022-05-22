@@ -51,6 +51,8 @@
 .org 0x8003927c
 	jal WrapVRAM
 
+.org 0x80039d94
+	j SetTextSrcXY
 
 .org 0x8002d020
 	jal DisplaySubtitle
@@ -192,6 +194,18 @@ WrapVRAM:
 	
 	j 0x8003e65c
 	addiu sp, sp, 16
+	
+SetTextSrcXY:
+	addiu sp, sp, -4
+	sw ra, 0(sp)
+	
+	jal SetLetSrcXY
+	addiu a0, at, 0x790a
+	
+	lw ra, 0(sp)
+	nop
+	jr ra
+	addiu sp, sp, 4
 	
 
 

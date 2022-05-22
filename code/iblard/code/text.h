@@ -9,6 +9,8 @@ extern "C" {
 	void ConvertTextToTwoBytes(u8* src, int srcIdx, u8* dest);
 
 	void SetVRAMUploadXY(u16* xpos, u16* ypos);
+
+	void SetLetSrcXY(u8* xy);
 }
 
 #endif

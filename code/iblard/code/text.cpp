@@ -35,3 +35,9 @@ void SetVRAMUploadXY(u16* xpos, u16* ypos)
 	xpos[0] = 0x140 + ((curLetIdx % 16) * 0x04);
 	ypos[0] = 0x100 + ((curLetIdx / 16) * 0x12);
 }
+
+void SetLetSrcXY(u8* xy)
+{
+	xy[0] = (u8)((curLetIdx % 16) * 0x10);
+	xy[1] = (u8)((curLetIdx / 16) * 0x12);
+}
