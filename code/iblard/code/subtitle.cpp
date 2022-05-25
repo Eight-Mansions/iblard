@@ -1,15 +1,32 @@
 #include "subtitle.h"
 
 int counter = 0;
-const u8 test[] = { 0x88, 0xC4, 0x93, 0xE0, 0x90, 0x7D };
 
-void DisplayLetter()
+int sdbmHash(const char* text) {
+	int hash = 0;
+	int i = 0;
+
+	for (; text[i] != 0; i++) {
+		hash = text[i] + (hash << 6) + (hash << 16) - hash;
+	}
+	return hash;
+}
+
+void InitSubtitle(const char* audioname, int idx)
 {
-	counter = 0;
-	currSub.parts = subs[0].parts;
-	currSub.partsCount = subs[0].partsCount;
-	currSub.nextPartIdx = 0;
-	currSub.ticksTilNext = subs[0].parts[currSub.nextPartIdx].displayTime;
+	printf("name: %s - idx: %d", audioname, idx);
+	int audionameHash = sdbmHash(audioname);
+	for (int i = 0; i < subsCount; i++)
+	{
+		if (audionameHash == subs[i].id && idx == subs[i].idx)
+		{
+			counter = 0;
+			currSub.parts = subs[i].parts;
+			currSub.partsCount = subs[i].partsCount;
+			currSub.nextPartIdx = 0;
+			currSub.ticksTilNext = subs[i].parts[currSub.nextPartIdx].displayTime;
+		}
+	}
 }
 
 void DisplaySubtitle()

@@ -20,7 +20,7 @@
 	nop			; No wiping the good stuff
 
 .org 0x80038104
-	j trytosub
+	j InitSubs
 	
 .org 0x800383cc
 	jal ClearSubs
@@ -72,11 +72,13 @@
 	.importobj "code\iblard\obj\text.obj"
 	.importobj "code\iblard\obj\font.obj"
 	
-trytosub:
+InitSubs:
 	jal printf
 	nop
-	jal DisplayLetter
-	nop
+	addu a0, r0, s3
+	jal InitSubtitle
+	addu a1, r0, s5
+	
 	j 0x8003810c
 	nop
 

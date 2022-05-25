@@ -11,7 +11,8 @@ struct subtitle_part {
 };
 
 struct subtitle {
-    const i16 id;
+    const i32 id;
+    const i16 idx;
     const u8 partsCount;
     const subtitle_part* parts;
 };
@@ -23,11 +24,11 @@ struct subtitle_displayed {
     u8 ticksTilNext;
 };
 
-//EKI.XA | 0 | What in the world?
+//\EKI\EKI.XA;1 | 0 | What in the world?
 const u8 partdata_0[] = { 130, 214, 130, 231, 130, 224, 130, 243, 130, 159, 130, 232, 130, 237, 130, 159, 130, 243, 130, 231, 130, 228, 130, 159, 130, 246, 130, 238, 130, 241, 130, 235, 130, 227, 130, 190 };
 
-//EKI.XA | 0 | Is that a station on\nthe other sid?
-const u8 partdata_1[] = { 130, 200, 130, 242, 130, 159, 130, 243, 130, 231, 130, 224, 130, 243, 130, 159, 130, 224, 130, 159, 130, 242, 130, 243, 130, 224, 130, 243, 130, 232, 130, 238, 130, 237, 130, 159, 130, 238, 130, 237, 92, 110, 130, 243, 130, 231, 130, 228, 130, 159, 130, 238, 130, 243, 130, 231, 130, 228, 130, 241, 130, 159, 130, 242, 130, 232, 130, 227, 130, 190 };
+//\EKI\EKI.XA;1 | 0 | There's another station\nover there.
+const u8 partdata_1[] = { 130, 211, 130, 231, 130, 228, 130, 241, 130, 228, 130, 166, 130, 242, 130, 159, 130, 224, 130, 237, 130, 238, 130, 243, 130, 231, 130, 228, 130, 241, 130, 159, 130, 242, 130, 243, 130, 224, 130, 243, 130, 232, 130, 238, 130, 237, 92, 110, 130, 238, 130, 245, 130, 228, 130, 241, 130, 159, 130, 243, 130, 231, 130, 228, 130, 241, 130, 228, 130, 173 };
 
 const subtitle_part sub0_parts[] = {
     {(const char*)partdata_0, 18, 1},
@@ -36,7 +37,7 @@ const subtitle_part sub0_parts[] = {
 
 const u32 subsCount = 1;
 const subtitle subs[] = {
-    {1544405569, 2, sub0_parts}
+    {-550948737, 0, 2, sub0_parts},
 };
 
 static subtitle_displayed currSub = {};
@@ -47,10 +48,11 @@ extern "C" {
 	extern int DisplayText(const char* text, int pos, int wipe, int unk1, int type);
 
 	//extern void GetLetterImage(u32 sjis, u_long* letterImage);
-    
-    void DisplaySubtitle();
 
-	void DisplayLetter();
+
+    void InitSubtitle(const char* audioname, int idx);
+
+    void DisplaySubtitle();
 
 	void ClearText();
 }
