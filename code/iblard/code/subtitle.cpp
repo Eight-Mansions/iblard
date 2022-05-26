@@ -31,29 +31,33 @@ void InitSubtitle(const char* audioname, int idx)
 
 void DisplaySubtitle()
 {
-	printf("%d\n", counter++);
-
-	currSub.ticksTilNext--;
-	if (currSub.partsCount != 0 && currSub.ticksTilNext == 0)
+	
+	if (currSub.parts != NULL)
 	{
-		for (int i = 0; i < currSub.parts[currSub.nextPartIdx].len; i++)
+		printf("%d\n", counter++);
+		currSub.ticksTilNext--;
+		if (currSub.partsCount != 0 && currSub.ticksTilNext == 0)
 		{
-			DisplayText(currSub.parts[currSub.nextPartIdx].text, i, 0, 0, 0);
-		}
+			for (int i = 0; i < currSub.parts[currSub.nextPartIdx].len; i++)
+			{
+				DisplayText(currSub.parts[currSub.nextPartIdx].text, i, 0, 0, 0);
+			}
 
-		currSub.nextPartIdx++;
-		if (currSub.nextPartIdx < currSub.partsCount)
-		{
-			currSub.ticksTilNext = currSub.parts[currSub.nextPartIdx].displayTime;
-		}
-		else
-		{
-			currSub.partsCount = 0; // No parts left to show
+			currSub.nextPartIdx++;
+			if (currSub.nextPartIdx < currSub.partsCount)
+			{
+				currSub.ticksTilNext = currSub.parts[currSub.nextPartIdx].displayTime;
+			}
+			else
+			{
+				currSub.partsCount = 0; // No parts left to show
+			}
 		}
 	}
 }
 
 void ClearText()
 {
+	currSub.parts = NULL;
 	DisplayText((const char*)0, 64, 1, 0, 0);
 }
