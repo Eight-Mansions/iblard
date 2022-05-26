@@ -43,7 +43,7 @@ const subtitle_part sub1_parts[] = {
 };
 
 //\EKI\EKI.XA;1 | 5 | Augh!
-const u8 partdata_3[] = { 130, 192, 130, 244, 130, 230, 130, 231, 130, 160 };
+const u8 partdata_3[] = { 130, 192, 130, 244, 130, 230, 130, 231, 130, 160, 00, 00, 00, 00, 00, 00 };
 
 const subtitle_part sub2_parts[] = {
 	{(const char*)partdata_3, 5, 1},
@@ -57,7 +57,7 @@ const subtitle_part sub3_parts[] = {
 };
 
 //\HIKOU\HIKOU.XA;1 | 4 | *Gargle, gargle*
-const u8 partdata_5[] = { 130, 169, 130, 198, 130, 224, 130, 241, 130, 230, 130, 235, 130, 228, 130, 171, 130, 159, 130, 230, 130, 224, 130, 241, 130, 230, 130, 235, 130, 228, 130, 169 };
+const u8 partdata_5[] = { 130, 169, 130, 198, 130, 224, 130, 241, 130, 230, 130, 235, 130, 228, 130, 171, 130, 159, 130, 230, 130, 224, 130, 241, 130, 230, 130, 235, 130, 228, 130, 169, 00, 00 };
 
 const subtitle_part sub4_parts[] = {
 	{(const char*)partdata_5, 16, 1},
