@@ -42,11 +42,11 @@ const subtitle_part sub1_parts[] = {
 	{(const char*)partdata_2, 20, 1},
 };
 
-//\EKI\EKI.XA;1 | 5 | "Augh!" 
-const u8 partdata_3[] = { 130, 161, 130, 192, 130, 244, 130, 230, 130, 231, 130, 160, 130, 161, 130, 159 };
+//\EKI\EKI.XA;1 | 5 | Augh!
+const u8 partdata_3[] = { 130, 192, 130, 244, 130, 230, 130, 231, 130, 160 };
 
 const subtitle_part sub2_parts[] = {
-	{(const char*)partdata_3, 8, 1},
+	{(const char*)partdata_3, 5, 1},
 };
 
 //\HIKOU\HIKOU.XA;1 | 0 | I see. Guess that does it!
@@ -56,11 +56,11 @@ const subtitle_part sub3_parts[] = {
 	{(const char*)partdata_4, 26, 1},
 };
 
-//\HIKOU\HIKOU.XA;1 | 4 | (Gargle, gargle.)
-const u8 partdata_5[] = { 130, 167, 130, 198, 130, 224, 130, 241, 130, 230, 130, 235, 130, 228, 130, 171, 130, 159, 130, 230, 130, 224, 130, 241, 130, 230, 130, 235, 130, 228, 130, 173, 130, 168 };
+//\HIKOU\HIKOU.XA;1 | 4 | *Gargle, gargle*
+const u8 partdata_5[] = { 130, 169, 130, 198, 130, 224, 130, 241, 130, 230, 130, 235, 130, 228, 130, 171, 130, 159, 130, 230, 130, 224, 130, 241, 130, 230, 130, 235, 130, 228, 130, 169 };
 
 const subtitle_part sub4_parts[] = {
-	{(const char*)partdata_5, 17, 1},
+	{(const char*)partdata_5, 16, 1},
 };
 
 //\LAPUTA01\LAPUTA01.XA;1 | 0 | It's Ninya's airship!

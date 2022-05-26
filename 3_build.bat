@@ -22,10 +22,10 @@ copy font\FNT.COD cd\iblard\EKI\EKI.COD
 del cd\iblard\HIKOU\HIKOU.FNT
 copy font\FNT.FNT cd\iblard\HIKOU\HIKOU.FNT
 
-del cd\iblard\LAPUTA01.FNT\LAPUTA01.FNT
+del cd\iblard\LAPUTA01\LAPUTA01.FNT
 copy font\FNT.FNT cd\iblard\LAPUTA01\LAPUTA01.FNT
 
-del cd\iblard\LAPUTA02.FNT\LAPUTA02.FNT
+del cd\iblard\LAPUTA02\LAPUTA02.FNT
 copy font\FNT.FNT cd\iblard\LAPUTA02\LAPUTA02.FNT
 
 del cd\iblard\MEKIN\MEKIN.FNT
