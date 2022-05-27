@@ -92,38 +92,38 @@ const subtitle_part sub7_parts[] = {
 	{(const char*)partdata_10, 5, 1},
 };
 
-//NONA\NONA.XA;1 | 0 | Augh!
+//\NONA\NONA.XA;1 | 0 | Augh!
 const u8 partdata_11[] = { 130, 192, 130, 244, 130, 230, 130, 231, 130, 160 };
 
 const subtitle_part sub8_parts[] = {
 	{(const char*)partdata_11, 5, 1},
 };
 
-//TOMO\TOMO.XA;1 | 0 | Is that someone's home?
+//\TOMO\TOMO.XA;1 | 0 | Is that someone's home?
 const u8 partdata_12[] = { 130, 200, 130, 242, 130, 159, 130, 243, 130, 231, 130, 224, 130, 243, 130, 159, 130, 242, 130, 238, 130, 236, 130, 228, 130, 238, 130, 237, 130, 228, 130, 166, 130, 242, 130, 159, 130, 231, 130, 238, 130, 236, 130, 228, 130, 190 };
 
 const subtitle_part sub9_parts[] = {
 	{(const char*)partdata_12, 23, 1},
 };
 
-//TOMO\TOMO.XA;1 | 1 | Is it safe to feed them?
+//\TOMO\TOMO.XA;1 | 1 | Is it safe to feed them?
 const u8 partdata_13[] = { 130, 200, 130, 242, 130, 159, 130, 232, 130, 243, 130, 159, 130, 242, 130, 224, 130, 229, 130, 228, 130, 159, 130, 243, 130, 238, 130, 159, 130, 229, 130, 228, 130, 228, 130, 227, 130, 159, 130, 243, 130, 231, 130, 228, 130, 236, 130, 190 };
 
 const subtitle_part sub10_parts[] = {
 	{(const char*)partdata_13, 24, 1},
 };
 
-//YOZORA\YOZORA.XA;1 | 0 | Darn, it's locked.
+//\YOZORA\YOZORA.XA;1 | 0 | Darn, it's locked.
 const u8 partdata_14[] = { 130, 195, 130, 224, 130, 241, 130, 237, 130, 171, 130, 159, 130, 232, 130, 243, 130, 166, 130, 242, 130, 159, 130, 235, 130, 238, 130, 226, 130, 234, 130, 228, 130, 227, 130, 173 };
 
 const subtitle_part sub11_parts[] = {
 	{(const char*)partdata_14, 18, 1},
 };
 
-//YOZORA\YOZORA.XA;1 | 1 | I heard a noise.
+//\YOZORA\YOZORA.XA;1 | 1 | I heard a noise.
 const u8 partdata_15[] = { 130, 200, 130, 159, 130, 231, 130, 228, 130, 224, 130, 241, 130, 227, 130, 159, 130, 224, 130, 159, 130, 237, 130, 238, 130, 232, 130, 242, 130, 228, 130, 173 };
 
-//YOZORA\YOZORA.XA;1 | 1 | Was it that door I saw earlier?
+//\YOZORA\YOZORA.XA;1 | 1 | Was it that door I saw earlier?
 const u8 partdata_16[] = { 130, 214, 130, 224, 130, 242, 130, 159, 130, 232, 130, 243, 130, 159, 130, 243, 130, 231, 130, 224, 130, 243, 130, 159, 130, 227, 130, 238, 130, 238, 130, 241, 130, 159, 130, 200, 130, 159, 130, 242, 130, 224, 130, 246, 130, 159, 130, 228, 130, 224, 130, 241, 130, 235, 130, 232, 130, 228, 130, 241, 130, 190 };
 
 const subtitle_part sub12_parts[] = {
@@ -356,11 +356,11 @@ const subtitle subs[] = {
 	{1143355725, 0, 2, sub5_parts},
 	{-1424341235, 0, 2, sub6_parts},
 	{-1108527787, 2, 1, sub7_parts},
-	{-1591652367, 0, 1, sub8_parts},
-	{842966193, 0, 1, sub9_parts},
-	{842966193, 1, 1, sub10_parts},
-	{505577841, 0, 1, sub11_parts},
-	{505577841, 1, 2, sub12_parts},
+	{-1461498291, 0, 1, sub8_parts},
+	{973120269, 0, 1, sub9_parts},
+	{973120269, 1, 1, sub10_parts},
+	{-1273453619, 0, 1, sub11_parts},
+	{-1273453619, 1, 2, sub12_parts},
 	{-1778463795, 0, 2, sub13_parts},
 	{-1778463795, 1, 1, sub14_parts},
 	{-1778463795, 2, 1, sub15_parts},
