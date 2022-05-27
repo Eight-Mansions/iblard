@@ -185,7 +185,7 @@ const u8 partdata_25[] = { 130, 200, 130, 166, 130, 227, 130, 159, 130, 225, 130
 
 const subtitle_part sub19_parts[] = {
 	{(const char*)partdata_24, 29, 1},
-	{(const char*)partdata_25, 24, 15},
+	{(const char*)partdata_25, 24, 27},
 };
 
 //\MORI01\MORI01.XA;1 | 7 | A rail pass?
@@ -196,7 +196,7 @@ const u8 partdata_27[] = { 130, 214, 130, 238, 130, 246, 130, 171, 130, 159, 130
 
 const subtitle_part sub20_parts[] = {
 	{(const char*)partdata_26, 12, 1},
-	{(const char*)partdata_27, 15, 15},
+	{(const char*)partdata_27, 15, 40},
 };
 
 //\MORI01\MORI01.XA;1 | 8 | Augh!
