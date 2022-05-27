@@ -90,6 +90,7 @@ endif
 	@echo "------------------------"
 
 $(RELMODE)/${OUTFILE}.cpe: ${ALL_OBJ}
+	del /q obj\*
 	copy $(RELMODE)\*.o* obj\ /y
 
 clean:

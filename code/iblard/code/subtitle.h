@@ -43,7 +43,7 @@ const subtitle_part sub1_parts[] = {
 };
 
 //\EKI\EKI.XA;1 | 5 | Augh!
-const u8 partdata_3[] = { 130, 192, 130, 244, 130, 230, 130, 231, 130, 160, 00, 00, 00, 00, 00, 00 };
+const u8 partdata_3[] = { 130, 192, 130, 244, 130, 230, 130, 231, 130, 160 };
 
 const subtitle_part sub2_parts[] = {
 	{(const char*)partdata_3, 5, 1},
@@ -57,7 +57,7 @@ const subtitle_part sub3_parts[] = {
 };
 
 //\HIKOU\HIKOU.XA;1 | 4 | *Gargle, gargle*
-const u8 partdata_5[] = { 130, 169, 130, 198, 130, 224, 130, 241, 130, 230, 130, 235, 130, 228, 130, 171, 130, 159, 130, 230, 130, 224, 130, 241, 130, 230, 130, 235, 130, 228, 130, 169, 00, 00 };
+const u8 partdata_5[] = { 130, 169, 130, 198, 130, 224, 130, 241, 130, 230, 130, 235, 130, 228, 130, 171, 130, 159, 130, 230, 130, 224, 130, 241, 130, 230, 130, 235, 130, 228, 130, 169 };
 
 const subtitle_part sub4_parts[] = {
 	{(const char*)partdata_5, 16, 1},
@@ -71,7 +71,7 @@ const u8 partdata_7[] = { 130, 203, 130, 228, 130, 243, 130, 166, 130, 242, 130,
 
 const subtitle_part sub5_parts[] = {
 	{(const char*)partdata_6, 21, 1},
-	{(const char*)partdata_7, 9, 15},
+	{(const char*)partdata_7, 9, 28},
 };
 
 //\LAPUTA02\LAPUTA02.XA;1 | 0 | The megezo reflect the heart. 
@@ -82,7 +82,7 @@ const u8 partdata_9[] = { 130, 206, 130, 239, 130, 228, 130, 237, 130, 159, 130,
 
 const subtitle_part sub6_parts[] = {
 	{(const char*)partdata_8, 30, 1},
-	{(const char*)partdata_9, 16, 15},
+	{(const char*)partdata_9, 16, 95},
 };
 
 //\MEKIN\MEKIN.XA;1 | 2 | Augh!
