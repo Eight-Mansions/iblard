@@ -16,6 +16,22 @@
 
 ; 0x8002cf2c  main game loop
 
+; Move stuff interfering with vram to further in ram
+.org 0x80016b84
+	lui v0, 0x8020
+
+.org 0x80016ba4
+	lui v0, 0x8020
+	
+.org 0x80016bc0
+	lui v0, 0x8020
+	
+;.org 0x80016c00
+;	lui v0, 0x8020
+	
+;.org 0x80016c1c
+;	lui v0, 0x8020
+
 .org 0x80058e30
 	nop			; No wiping the good stuff
 
