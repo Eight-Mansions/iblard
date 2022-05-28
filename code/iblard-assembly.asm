@@ -110,6 +110,42 @@
 ; FUN_80063150:800632dc(R)  
 .org 0x800632d8
 	lui v1, 0x801d
+	
+; Move others...
+.org 0x80042a10
+; 80042a24 00 00 e4 ac     sw         a0,0x0(a3)=>DAT_801dad04                         = ??
+; 80042a28 04 00 e5 ac     sw         a1,0x4(a3)=>DAT_801dad08                         = ??
+; 80042a2c 08 00 e6 ac     sw         a2,0x8(a3)=>DAT_801dad0c                         = ??
+; 80042a3c 0c 00 e4 ac     sw         a0,0xc(a3)=>DAT_801dad10                         = ??
+; 80042a40 10 00 e5 ac     sw         a1,0x10(a3)=>DAT_801dad14                        = ??
+; 80042a44 14 00 e6 ac     sw         a2,0x14(a3)=>DAT_801dad18                        = ??
+; 80042a50 18 00 e4 ac     sw         a0,0x18(a3)=>DAT_801dad1c                        = ??
+; 80042a54 1c 00 e5 ac     sw         a1,0x1c(a3)=>DAT_801dad20                        = ??
+	lui a3, 0x801d
+
+.org 0x80043bb8
+; 80043bbc 04 ad c6 24     addiu      a2=>DAT_801dad04,a2,-0x52fc                      = ??
+; 80043bcc 00 00 c2 ac     sw         v0,0x0(a2)=>DAT_801dad04                         = ??
+; 80043bd0 04 00 c3 ac     sw         v1,0x4(a2)=>DAT_801dad08                         = ??
+; 80043bd4 08 00 c5 ac     sw         a1,0x8(a2)=>DAT_801dad0c                         = ??
+; 80043be4 0c 00 c2 ac     sw         v0,0xc(a2)=>DAT_801dad10                         = ??
+; 80043be8 10 00 c3 ac     sw         v1,0x10(a2)=>DAT_801dad14                        = ??
+; 80043bec 14 00 c5 ac     sw         a1,0x14(a2)=>DAT_801dad18                        = ??
+; 80043bf8 18 00 c2 ac     sw         v0,0x18(a2)=>DAT_801dad1c                        = ??
+; 80043bfc 1c 00 c3 ac     sw         v1,0x1c(a2)=>DAT_801dad20                        = ??
+	lui a2, 0x801d
+
+.org 0x80043c18
+; 80043c1c 04 ad c6 24     addiu      a2,a2,-0x52fc
+; 80043c20 00 00 c2 8c     lw         v0,0x0(a2)=>DAT_801dad04                         = ??
+; 80043c24 04 00 c3 8c     lw         v1,0x4(a2)=>DAT_801dad08                         = ??
+; 80043c28 08 00 c5 8c     lw         a1,0x8(a2)=>DAT_801dad0c                         = ??
+; 80043c38 0c 00 c2 8c     lw         v0,0xc(a2)=>DAT_801dad10                         = ??
+; 80043c3c 10 00 c3 8c     lw         v1,0x10(a2)=>DAT_801dad14                        = ??
+; 80043c40 14 00 c5 8c     lw         a1,0x14(a2)=>DAT_801dad18                        = ??
+; 80043c50 18 00 c2 8c     lw         v0,0x18(a2)=>DAT_801dad1c                        = ??
+; 80043c54 1c 00 c3 8c     lw         v1,0x1c(a2)=>DAT_801dad20                        = ??
+	lui a2, 0x801d
 
 ;----------------------------------------------------------
 	
