@@ -242,7 +242,7 @@ const u8 partdata_34[] = { 130, 199, 130, 238, 130, 246, 130, 159, 130, 230, 130
 
 const subtitle_part sub26_parts[] = {
 	{(const char*)partdata_33, 27, 1},
-	{(const char*)partdata_34, 34, 15},
+	{(const char*)partdata_34, 34, 115},
 };
 
 //\MORI02\MORI02.XA;1 | 4 | I keep brushing off the megezo,
@@ -253,7 +253,7 @@ const u8 partdata_36[] = { 130, 225, 130, 244, 130, 243, 130, 159, 130, 243, 130
 
 const subtitle_part sub27_parts[] = {
 	{(const char*)partdata_35, 31, 1},
-	{(const char*)partdata_36, 23, 15},
+	{(const char*)partdata_36, 23, 30},
 };
 
 //\MORI02\MORI02.XA;1 | 5 | You can't brush off the megezo!
@@ -264,7 +264,7 @@ const u8 partdata_38[] = { 130, 211, 130, 231, 130, 228, 130, 248, 130, 166, 130
 
 const subtitle_part sub28_parts[] = {
 	{(const char*)partdata_37, 31, 1},
-	{(const char*)partdata_38, 35, 15},
+	{(const char*)partdata_38, 35, 65},
 };
 
 //\MORI02\MORI02.XA;1 | 6 | Then how do I stop them?!
@@ -289,7 +289,7 @@ const u8 partdata_42[] = { 130, 200, 130, 243, 130, 166, 130, 242, 130, 159, 130
 
 const subtitle_part sub31_parts[] = {
 	{(const char*)partdata_41, 29, 1},
-	{(const char*)partdata_42, 35, 15},
+	{(const char*)partdata_42, 35, 40},
 };
 
 //\MORI02\MORI02.XA;1 | 9 | Not always.
@@ -300,7 +300,7 @@ const u8 partdata_44[] = { 130, 192, 130, 159, 130, 236, 130, 228, 130, 230, 130
 
 const subtitle_part sub32_parts[] = {
 	{(const char*)partdata_43, 11, 1},
-	{(const char*)partdata_44, 31, 15},
+	{(const char*)partdata_44, 31, 50},
 };
 
 //\MORI02\MORI02.XA;1 | 10 | A megezo only reflects your heart
@@ -311,7 +311,7 @@ const u8 partdata_46[] = { 130, 242, 130, 238, 130, 159, 130, 248, 130, 238, 130
 
 const subtitle_part sub33_parts[] = {
 	{(const char*)partdata_45, 33, 1},
-	{(const char*)partdata_46, 31, 15},
+	{(const char*)partdata_46, 31, 30},
 };
 
 //\MORI02\MORI02.XA;1 | 11 | My...true self?
@@ -329,7 +329,7 @@ const u8 partdata_49[] = { 130, 211, 130, 231, 130, 228, 130, 159, 130, 203, 130
 
 const subtitle_part sub35_parts[] = {
 	{(const char*)partdata_48, 12, 1},
-	{(const char*)partdata_49, 28, 15},
+	{(const char*)partdata_49, 28, 60},
 };
 
 //\MORI02\MORI02.XA;1 | 13 | Here. You can use this.
