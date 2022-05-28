@@ -25,6 +25,93 @@
 	
 .org 0x80016bc0
 	lui v0, 0x8020
+;-----------------------------------------------------------
+
+; Move GTE related variables before our vram linked list
+; 0x801dad24 - > 0x801cad24
+
+;FUN_8005e3d4:8005e424(R),
+;FUN_8005e3d4:8005e440(R),
+;FUN_8005e3d4:8005e45c(R),
+;FUN_8005e3d4:8005e478(R),
+;FUN_8005e3d4:8005e494(R),
+;FUN_8005e3d4:8005e4b0(R), 
+
+.org 0x8005e420
+	lui v0, 0x801d
+	
+.org 0x8005e43c
+	lui v0, 0x801d
+
+.org 0x8005e458
+	lui v0, 0x801d
+	
+.org 0x8005e474
+	lui v0, 0x801d
+	
+.org 0x8005e490
+	lui v0, 0x801d
+	
+.org 0x8005e4ac
+	lui v0, 0x801d
+	
+;FUN_8005e4e0:8005e598(W), 
+.org 0x8005e594
+	lui at, 0x801d
+
+;FUN_8005f358:8005f428(R),
+;FUN_8005f358:8005f460(R), 
+.org 0x8005f424
+	lui v1, 0x801d
+	
+.org 0x8005f45c
+	lui v1, 0x801d
+	
+;FUN_80061778:80061828(R),
+.org 0x80061824
+	lui v1, 0x801d
+
+;FUN_800624a4:800624dc(R),
+;FUN_800624a4:800624f0(R),
+.org 0x800624d8
+	lui v0, 0x801d
+
+.org 0x800624ec
+	lui v0, 0x801d
+
+;80062548(R),
+.org 0x80062544
+	lui v1, 0x801d
+
+;800625a4(R),
+.org 0x800625a0
+	lui v0, 0x801d
+	
+;800625b8(R),
+.org 0x800625b4
+	lui v0, 0x801d
+
+;80062610(R),
+.org 0x8006260c
+	lui v1, 0x801d
+
+;FUN_80062634:800627f0(R),
+;FUN_80062634:80062994(R),
+.org 0x800627ec
+	lui a1, 0x801d
+
+.org 0x80062990
+	lui v1, 0x801d
+
+;80062cc0(R),
+.org 0x80062cbc
+	lui v1, 0x801d
+
+; FUN_80063150:800632dc(R)  
+.org 0x800632d8
+	lui v1, 0x801d
+
+;----------------------------------------------------------
 	
 ;.org 0x80016c00
 ;	lui v0, 0x8020
