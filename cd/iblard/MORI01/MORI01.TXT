@@ -1,40 +1,77 @@
-0 　何もないようだ・・・
-1 　水路のようだが・・・\n　　水は流れていない
-2 地下へ通じているようだ
-3 　　壊れている・・・\n　　　軸がむき出しだ
-4 　　　　貯水槽だ
-5 　電車だ。これに乗れば、\n　　次の駅に行ける\n切符を探さないと・・・
-6 月の記号だ・・・\n　下に何か記してある\n”この先\n　　ブレガラッドの森”
-7 　　　特に何も無い
-8 壊れている・・・\n　とても乗れそうにない
-9 何て言ってるんだい？
-10 弱ったな、\n　さっぱりわかんないよ
-11 特に意味は無いみたいだ
-12 　　気力が回復した
-13 　案内図を手に入れた
-14 　月の石を手に入れた
-15 　　切符を手に入れた
-16 　バルブを手に入れた
+0 I don't have anything.
+
+1 It's a waterway\nwithout flowing water.
+
+2 It leads down\nto the basement.
+
+3 It's broken.\nIts frame is exposed.
+
+4 It's a water tank.
+
+5 This tram can\ntake me to the\nnext station.
+
+It's a symbol of the moon. Below, it says, "Burgalad'S FOREST AHEAD".
+
+7 Nothing stands out.
+
+8 It's broken.\nIt may never run again.
+
+9 What is it saying?
+
+10 Sorry, I have no\nidea what that means!
+
+11 It doesn't make any sense!
+
+12 I recovered health!
+
+13 I took the guide map.
+
+14 I took the moon stone.
+
+15 I took the railpass.
+
+16 I took the valve.
+
 \TE
-0 ラピスラズリ
-1 生態系の種
-2 高級\nシンセスタ
-3 低級\nシンセスタ
-4 飛行石
-5 エネルギー
-6 切符
-7 全景地図
-8 ほうき
-9 気力回復
-10 ソルマ石
-11 翻訳石
-12 ワープ石
-13 イバラード\n　　　　の本
-14 木製の\nブーメラン
-15 案内図
-16 エアシップ\nエネルギー\n　　　切れだ
+
+0 Lapis Lazuli
+
+1 Biome Seed
+
+2 High-grade\nSynthester
+
+3 Low-grade\nSynthester
+
+4 Flying Stone
+
+5 Energy Source
+
+6 Railpass
+
+7 Map
+
+8 Broom
+
+9 Recovery Gem
+
+10 Solma Stone
+
+11 Decipher Stone
+
+12 Warp Stone
+
+13 Book of\nIblard
+
+14 Wooden\nBoomerang
+
+15 Guide Map
+
+16 The airship\nneeds an\nenergy source.
+
 \WIE
-0 月の石
-1 バルブ
+
+0 Moon Stone
+
+1 Valve
 \SIE
 

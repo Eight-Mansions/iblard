@@ -1,95 +1,66 @@
-0 　　この森は・・・・\n　前に来た事があるぞ
 0 This forest...\nI've been here before!
 
-1 　岩が崩れている・・・\nこの先には行けない
 1 The rock is crumbling.\nI can't proceed.
 
-2 　　水はもう流れている
 2 The water is\nalready flowing.
 
-3 　　市電がない・・・\nここからは乗れないようだ
 3 The tram is gone.\nThere's no leaving this way.
 
-4 　岩にヒビが入っている
 4 There are cracks in the rocks.
 
-
-5 　　壊れている・・・\n　とても乗れそうにない
 5 It's broken.\nIt may never run again.
 
-6 切符をさがさないと・・・
 6 I need a railpass.
 
-7 　気力が回復した
 7 I recovered health!
 
-8 　案内図を手に入れた
 8 I took the guide map.
 
-9 　切符を手に入れた
 9 I took the railpass.
 
-10 生態系の種を手に入れた
 10 I took the biome seed.
 
-11 　　もう水は流れている
 11 The water is\nalready flowing.
 
 \TE
 
-0 ラピスラズリ
 0 Lapis Lazuli
 
-1 生態系の種
 1 Biome Seed
 
-2 高級\nシンセスタ
 2 High-grade\nSynthester
 
-3 低級\nシンセスタ
 3 Low-grade\nSynthester
 
-4 飛行石
 4 Flying Stone
 
-5 エネルギー
 5 Energy Source
 
-6 切符
-Railpass
+6 Railpass
 
-7 全景地図
-Overhead Map
+7 Overhead Map
 
-8 ほうき
-Broom
+8 Broom
 
-9 気力回復
 9 Recovery Gem
 
-10 ソルマ石
 10 Solma Stone
 
-11 翻訳石
 11 Decipher Stone
 
-12 ワープ石
 12 Warp Stone
 
-13 イバラード\n　　　　の本
 13 Book of\nIblard
 
-14 シンセスタ\nブーメラン
 14 Synthester\nBoomerang
 
-15 案内図
 15 Guide Map
 
-16 エアシップ\nエネルギー\n　　　切れだ
 16 The airship\nneeds an\nenergy source.
 
 \WIE
-0 月
+
 0 Moon
+
 \SIE
 

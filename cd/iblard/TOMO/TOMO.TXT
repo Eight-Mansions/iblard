@@ -1,40 +1,77 @@
-0 　　　特に何もない
-1 木製の台だ。さっきまで\n　恐竜がいたが・・・
-2 　電車だ。これに乗れば、\n　　次の駅へいける
-3 だめだ、こちら側からは\n　開かない
-4 この先は行けないみたいだ
-5 　　　特に何もない
-6 　だめだ・・・通れない
-7 あっ、恐竜が集まっている
-8 　　気力が回復した
-9 　案内図を手に入れた
-10 　　切符を手に入れた
-11 　　全景地図をもらった
-12 　スイカを手に入れた
-13 　　ほうきを手に入れた
-14 電車はもうこないみたいだ
-15 　メーキンソーの池行き
-16 恐竜が全部集まっている
+0 Nothing stands out.
+
+1 It's a wooden table.\nDinosaurs were just here.
+
+2 This tram can\ntake me to the\nnext station.
+
+3 Darn, it won't\nopen from this side.
+
+4 I can't proceed.
+
+5 Nothing stands out.
+
+6 Darn, I can't pass!
+
+7 Whoa, the dinosaurs\nare coming!
+
+8 I recovered health!
+
+9 I took the guide map.
+
+10 I took the railpass.
+
+11 I took the guide map.
+
+12 I took the watermelon.
+
+13 I took the broom.
+
+14 The tram won't go anymore.
+
+15 Now heading to...\nMelkinso's pond?
+
+16 The dinosaurs all\ncame together.
+
 \TE
-0 ラピスラズリ
-1 生態系の種
-2 高級\nシンセスタ
-3 低級\nシンセスタ
-4 飛行石
-5 エネルギー
-6 切符
-7 全景地図
-8 ほうき
-9 気力回復
-10 ソルマ石
-11 翻訳石
-12 ワープ石
-13 イバラード\n　　　　の本
-14 木製の\nブーメラン
-15 案内図
-16 エアシップ\nエネルギー\n　　　切れだ
+
+0 Lapis Lazuli
+
+1 Biome Seed
+
+2 High-grade\nSynthester
+
+3 Low-grade\nSynthester
+
+4 Flying Stone
+
+5 Energy Source
+
+6 Railpass
+
+7 Overhead Map
+
+8 Broom
+
+9 Recovery Gem
+
+10 Solma Stone
+
+11 Decipher Stone
+
+12 Warp Stone
+
+13 Book of\nIblard
+
+14 Synthester\nBoomerang
+
+15 Guide Map
+
+16 The airship\nneeds an\nenergy source.
+
 \WIE
-0 スイカのよう\nだ
+
+0 It looks like\na watermelon.
+
 \SIE
 
 

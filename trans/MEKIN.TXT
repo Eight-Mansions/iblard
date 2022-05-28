@@ -1,114 +1,78 @@
-0 　　　池だ・・・・\n　\nこの辺りにスコッペロの\n友達がいるはずだけど
 0 It's a pond.\n　\nSchopelo's friend\nshould be here.
 
-1 　岩が邪魔で通れない
 1 I can't pass these rocks.
 
-2 　　ここは地の底だ\n　　　特に何もない
 2 There's nothing\nbeneath the soil.
 
-3 何だろう、この扉は？
 3 What is this door?
 
-4 　この岩は押せそうだ
 4 This rock was pushed.
 
-5 　早くニーニャさんの\n　　ところへいかないと
 5 I should hurry\nto see Ninya.
 
-6 　これがメーキンソーの\n　いってたエアシップ？
 6 Is this the airship\nMelkinso mentioned?
 
-7 　鍵がかかっている。
 7 It's locked.
 
-8 これがさっきの\n　　　エアシップだな
 8 It's the airship from before.
 
-9 　だめだ・・・通れない
 9 Darn, I can't pass!
 
-10 　　気力が回復した
 10 I recovered health!
 
-11 　案内図を手に入れた
 9 I took the guide map.
 
-12 　低級シンセスタを\n　　　　　手に入れた
 12 I took the\nlow-grade synthester
 
-13 　銀の鍵を手に入れた
 13 I took the silver key.
 
-14 　　ほうきを手に入れた
 14 I took the broom.
 
-15 　もう地下には用がない
 15 I don't need to\ngo down anymore.
 
-16 メーキンソー達は\n　どこかに行ったみたいだ\n　　ここには入れない
 16 Melkinso's not here?\nWhere could they be?
 
 \TE
 
-0 ラピスラズリ
 0 Lapis Lazuli
 
-1 生態系の種
 1 Biome Seed
 
-2 高級\nシンセスタ
 2 High-grade\nSynthester
 
-3 低級\nシンセスタ
 3 Low-grade\nSynthester
 
-4 飛行石
 4 Flying Stone
 
-5 エネルギー
 5 Energy Source
 
-6 切符
-Railpass
+6 Railpass
 
-7 全景地図
-Overhead Map
+7 Overhead Map
 
-8 ほうき
 8 Broom
 
-9 気力回復
 9 Recovery Gem
 
-10 ソルマ石
 10 Solma Stone
 
-11 翻訳石
-Decipher Stone
+11 Decipher Stone
 
-12 ワープ石
 12 Warp Stone
 
-13 イバラード\n　　　　の本
 13 Book of\nIblard
 
-14 木製の\nブーメラン
 14 Wooden\nBoomerang
 
-15 案内図
 15 Guide Map
 
-16 エアシップ\nエネルギー\n　　　切れだ
 16 The airship\nneeds an\nenergy source.
 
 \WIE
 
 
-0 月
 0 Moon
 
-1 銀の鍵
 1 Silver Key
 
 \SIE

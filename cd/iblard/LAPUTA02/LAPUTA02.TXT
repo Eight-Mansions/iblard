@@ -1,45 +1,86 @@
-0 こうしている場合じゃない\n　\n　早くラピュタを\n　　　　羽化させないと
-1 　　　森の恐竜だ！\n　これをくれるのかい\n　　　ありがとう
-2 空き空き空き
-3 　　これがラピュタ？\nこんなに小さいのかなぁ？
-4 　　　　壁画だ
-5 　これはニーニャさんの\n　　　エアシップだ
-6 　ラピュタ羽化の絵だ
-7 　ほうきは持っている
-8 　だめだ、壊れている
-9 　正しくセットしてある
-10 　　もう取れない
-11 何かのスイッチのようだ
-12 この鳴き声は・・・・？
-13 　　気力が回復した
-14 　案内図を手に入れた
-15 　月の石を手にいれた
-16 　ソルマ石を手にいれた
-17 　月の石を手にいれた
-18 ブレガラッド・・・・？
-19 見送りに来てくれたのかい
-20 　ほうきを手に入れた
+0 This won't work!\n　\n　I have to hatch the\nlaputa quickly!
+
+1 It's a dinosaur\nfrom the forest!\nThank you!
+
+2 -Free space-
+
+3 Is this a laputa?\nBut it's so small!
+
+4 It's a mural.
+
+5 It's Ninya's airship.
+
+6 It's a painting of\na hatching laputa.
+
+7 I have a broom.
+
+8 Darn, it's broken.
+
+9 It's set correctly.
+
+10 It won't come off.
+
+11 It must be a switch.
+
+12 What is that cry...?
+
+13 I recovered health!
+
+14 I took the guide map.
+
+15 I took the moon stone.
+
+16 I took the solma stone.
+
+15 I took the moon stone.
+
+18 Is that Burgalad?
+
+19 Did he come\nto see me off?
+
+20 I took the broom.
+
 \TE
-0 ラピスラズリ
-1 生態系の種
-2 高級\nシンセスタ
-3 低級\nシンセスタ
-4 飛行石
-5 エネルギー
-6 切符
-7 全景地図
-8 ほうき
-9 気力回復
-10 ソルマ石
-11 翻訳石
-12 ワープ石
-13 イバラード\n　　　　の本
-14 シンセスタ\nブーメラン
-15 案内図
-16 エアシップ\nエネルギー\n　　　切れだ
+
+0 Lapis Lazuli
+
+1 Biome Seed
+
+2 High-grade\nSynthester
+
+3 Low-grade\nSynthester
+
+4 Flying Stone
+
+5 Energy Source
+
+6 Railpass
+
+7 Overhead Map
+
+8 Broom
+
+9 Recovery Gem
+
+10 Solma Stone
+
+11 Decipher Stone
+
+12 Warp Stone
+
+13 Book of\nIblard
+
+14 Synthester\nBoomerang
+
+15 Guide Map
+
+16 The airship\nneeds an\nenergy source.
+
 \WIE
-0 角ラピュタの\n　　　模型
-1 丸ラピュタの\n　　　模型
-2 月の石
+0 Square Laputa\nTerra-model
+
+1 Round Laputa\nTerra-model
+
+2 Moon Stone
 \SIE
 

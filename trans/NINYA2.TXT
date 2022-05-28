@@ -1,89 +1,60 @@
-0 ここはいったい・・・・\n　\n　ニーニャさんの店は\n　　　何処だろう・・・
 0 Where in the world am I? \n　\nIs Ninya's shop really here?
 
-1 これは何かの装置みたいだ
 1 It's some kind of device.
 
-2 　月の記号が記してある
 1 It's a symbol of the moon.
 
-3 もうスイッチは入っている
 3 The switch is\nalready turned on.
 
-4 　　気力が回復した
 4 I recovered health!
 
-5 　案内図を手に入れた
 5 I took the guide map.
 
-6 　電源石を手に入れた
 6 I took the power stone.
 
-7 　月の石を手に入れた
 7 I took the moon stone.
 
 \TE
 
-0 ラピスラズリ
 0 Lapis Lazuli
 
-1 生態系の種
 1 Biome Seed
 
-2 高級\nシンセスタ
 2 High-grade\nSynthester
 
-3 低級\nシンセスタ
 3 Low-grade\nSynthester
 
-4 飛行石
 4 Flying Stone
 
-5 エネルギー
 5 Energy Source
 
-6 切符
 6 Railpass
 
-7 全景地図
 7 Map
 
-8 ほうき
 8 Broom
 
-9 気力回復
 9 Recovery Gem
 
-10 ソルマ石
 10 Solma Stone
 
-11 翻訳石
 11 Decipher Stone
 
-12 ワープ石
 12 Warp Stone
 
-13 イバラード\n　　　　の本
 13 Book of\nIblard
 
-14 木製の\nブーメラン
 14 Wooden\nBoomerang
 
-15 案内図
 15 Guide Map
 
-16 エアシップ\nエネルギー\n　　　切れだ
 16 The airship\nneeds an\nenergy source.
 
 \WIE
 
-
-0 月の石
 0 Moon Stone
 
-1 電源石
 1 Power Stone
-
 
 \SIE
 
