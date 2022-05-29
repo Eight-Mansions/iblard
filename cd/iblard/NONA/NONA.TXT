@@ -1,4 +1,4 @@
-0 This must be the hill\nthat Ninya mentioned.\nÅ@Is Qi Nona really here?
+0 This must be the hill\nthat Ninya mentioned.\nDoes Qi Nona live here?
 
 1 I can't proceed.
 
@@ -6,15 +6,15 @@
 
 3 Darn, it's locked.
 
-4 These stairs look\nsafe to go down.
+4 These stairs look\nsafe to descend.
 
 5 It's a painting of\nthis very hilltop.
 
-6 Yikes! That was\na Takatsung ship!
+6 Yikes!\nA Takatsung ship!
 
 7 A wooden boomerang\nwon't cut it!
 
-2 An airship energy source!\nI can fly with this!
+8 An airship energy source!\nI can fly with this!
 
 9 I recovered health!
 
@@ -50,7 +50,7 @@
 
 6 Railpass
 
-7 Overhead Map
+7 Grand Map
 
 8 Broom
 
@@ -66,7 +66,7 @@
 
 14 Synthester\nBoomerang
 
-15 Guide Map
+15 Area Map
 
 16 The airship\nneeds an\nenergy source.
 

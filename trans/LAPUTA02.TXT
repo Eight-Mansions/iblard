@@ -1,6 +1,6 @@
 0 This won't work!\n　\n　I have to hatch the\nlaputa quickly!
 
-1 It's a dinosaur\nfrom the forest!\nThank you!
+1 Are you a dinosaur\nfrom the forest?\nThank you!
 
 2 -Free space-
 
@@ -16,17 +16,17 @@
 
 8 Darn, it's broken.
 
-9 It's set correctly.
+9 It's placed correctly.
 
 10 It won't come off.
 
 11 It must be a switch.
 
-12 What is that cry...?
+12 What is that cry?
 
 13 I recovered health!
 
-14 I took the guide map.
+14 I took the area map.
 
 15 I took the moon stone.
 
@@ -42,6 +42,7 @@
 
 \TE
 
+0 ラピスラズリ
 0 Lapis Lazuli
 
 1 Biome Seed
@@ -56,7 +57,7 @@
 
 6 Railpass
 
-7 Overhead Map
+7 Grand Map
 
 8 Broom
 
@@ -72,7 +73,7 @@
 
 14 Synthester\nBoomerang
 
-15 Guide Map
+15 Area Map
 
 16 The airship\nneeds an\nenergy source.
 

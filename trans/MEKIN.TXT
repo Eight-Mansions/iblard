@@ -1,4 +1,4 @@
-0 It's a pond.\nÅ@\nSchopelo's friend\nshould be here.
+0 It's a pond.\nÅ@\nSchopelo said his\nfriend lives here.
 
 1 I can't pass these rocks.
 
@@ -20,7 +20,7 @@
 
 10 I recovered health!
 
-9 I took the guide map.
+11 I took the guide map.
 
 12 I took the\nlow-grade synthester
 
@@ -48,7 +48,7 @@
 
 6 Railpass
 
-7 Overhead Map
+7 Grand Map
 
 8 Broom
 
@@ -64,7 +64,7 @@
 
 14 Wooden\nBoomerang
 
-15 Guide Map
+15 Area Map
 
 16 The airship\nneeds an\nenergy source.
 

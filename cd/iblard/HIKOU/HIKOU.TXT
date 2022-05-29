@@ -1,22 +1,22 @@
 0 It is broken and\nwill not fly again.
 
-1 This can reach the\nfloating island, but it\nneeds an energy source.
+1 I can fly this to\nthe floating island once\nI find an energy source.
 
 2 This looks like a\nlaunchpad for a firework.
 
-3 It's those persistent\nTakatsung guys again!
+3 It's those persistent\nTakatsung ships again!
 
 4 I took the lapis lazuli.
 
-5 It's not safe with the\Takatsung in the air!
+5 It's not safe with that\Takatsung ship in the air!
 
-6 The Takatsung broke,\nbut so did my boomerang.
+6 The Takatsung ship broke down,\nbut so did my boomerang.
 
-7 I set the lapis lazuli.
+7 I placed the lapis lazuli.
 
 8 I recovered health!
 
-9 I took the guide map.
+9 I took the area map.
 
 10 I took the solma stone.
 
@@ -24,7 +24,7 @@
 
 12 I took the firework.
 
-13 I took the\naircraft energy source.
+13 I took the\naircraft's energy source.
 
 14 Where is that\ngroan coming from?
 
@@ -44,7 +44,7 @@
 
 6 Railpass
 
-7 Map
+7 Grand Map
 
 8 Broom
 
@@ -60,7 +60,7 @@
 
 14 Wooden\nBoomerang
 
-15 Guide Map
+15 Area Map
 
 16 The airship\nneeds an\nenergy source.
 

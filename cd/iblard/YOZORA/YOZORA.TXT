@@ -10,7 +10,7 @@
 
 5 I can't move\nthe moon rock now.
 
-I took the\nhigh-grade synthester!
+6 I took the\nhigh-grade synthester!
 
 7 Nothing stands out.
 
@@ -50,7 +50,7 @@ I took the\nhigh-grade synthester!
 
 6 Railpass
 
-7 Overhead Map
+7 Grand Map
 
 8 Broom
 
@@ -66,7 +66,7 @@ I took the\nhigh-grade synthester!
 
 14 Synthester\nBoomerang
 
-15 Guide Map
+15 Area Map
 
 16 The airship\nneeds an\nenergy source.
 
@@ -81,6 +81,5 @@ I took the\nhigh-grade synthester!
 3 Moon Stone
 
 4 Map
-
 \SIE
 

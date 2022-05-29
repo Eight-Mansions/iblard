@@ -1,4 +1,4 @@
-0 This alter has a\nmoon on it, but why?
+0 Why is a moon\npainted on this altar?
 
 1 I can't proceed.
 
@@ -6,17 +6,17 @@
 
 3 I can't board\nwithout a railpass.
 
-4 Is that...a squid?!
+4 Ewwe, is that a squid?!
 
-5 What is...that noise?
+5 What is that noise?
 
 6 What is that thing\nstuck in the tree?
 
 7 I recovered health!
 
-8 I took the\nguide map.
+8 I took the guide map.
 
-9 I took the\nwooden boomerang...\nCan it knock the\ncrystal from this tree?
+9 I took the\nwooden boomerang.\nCan it knock that\ncrystal from the tree?
 
 10 I took the moon stone.
 
@@ -37,7 +37,7 @@
 
 6 Railpass
 
-7 Map
+7 Grand Map
 
 8 Broom
 
@@ -53,7 +53,7 @@
 
 14 Wooden\nBoomerang
 
-15 Guide Map
+15 Area Map
 
 16 The airship\nneeds an\nenergy source.
 \WIE

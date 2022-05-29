@@ -1,4 +1,4 @@
-0 Why are the Takatsung\nacting so cruel?!\nI may need to\nfind a flying stone.
+0 Why are the Takatsung\nacting so cruel?!\nI'll have to find\na flying stone.
 
 1 I took the flying stone.
 
@@ -28,7 +28,7 @@
 
 6 Railpass
 
-Overhead Map
+7 Grand Map
 
 8 Broom
 
@@ -44,13 +44,12 @@ Overhead Map
 
 14 Synthester\nBoomerang
 
-15 Guide Map
+15 Area Map
 
 16 The airship\nneeds an\nenergy source.
 
 \WIE
 
 0 Moon
-
 \SIE
 

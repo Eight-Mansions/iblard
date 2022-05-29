@@ -1,8 +1,8 @@
-0 Where in the world am I? \n　\nIs Ninya's shop really here?
+0 Where in the world am I? \n　\nIs Ninya's shop\n　　　really here?
 
 1 It's some kind of device.
 
-1 It's a symbol of the moon.
+2 It's a symbol of the moon.
 
 3 The switch is\nalready turned on.
 
@@ -30,7 +30,7 @@
 
 6 Railpass
 
-7 Map
+7 Grand Map
 
 8 Broom
 
@@ -46,7 +46,7 @@
 
 14 Wooden\nBoomerang
 
-15 Guide Map
+15 Area Map
 
 16 The airship\nneeds an\nenergy source.
 
@@ -55,6 +55,7 @@
 0 Moon Stone
 
 1 Power Stone
+
 
 \SIE
 

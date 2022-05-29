@@ -4,7 +4,7 @@
 
 2 This tram can\ntake me to the\nnext station.
 
-3 Darn, it won't\nopen from this side.
+3 Darn, it won't open\nfrom this side.
 
 4 I can't proceed.
 
@@ -16,11 +16,11 @@
 
 8 I recovered health!
 
-9 I took the guide map.
+9 I took the area map.
 
 10 I took the railpass.
 
-11 I took the guide map.
+11 I took the grand map.
 
 12 I took the watermelon.
 
@@ -48,7 +48,7 @@
 
 6 Railpass
 
-7 Overhead Map
+7 Grand Map
 
 8 Broom
 

@@ -2,11 +2,11 @@
 
 1 The rock is crumbling.\nI can't proceed.
 
-2 The water is\nalready flowing.
+2 The water is flowing.
 
-3 The tram is gone.\nThere's no leaving this way.
+3 The tram is gone.\nI can't leave this way.
 
-4 There are cracks in the rocks.
+4 There are cracks in the rock.
 
 5 It's broken.\nIt may never run again.
 
@@ -38,7 +38,7 @@
 
 6 Railpass
 
-7 Overhead Map
+7 Grand Map
 
 8 Broom
 
@@ -54,13 +54,12 @@
 
 14 Synthester\nBoomerang
 
-15 Guide Map
+15 Area Map
 
 16 The airship\nneeds an\nenergy source.
 
 \WIE
 
 0 Moon
-
 \SIE
 
