@@ -1,25 +1,25 @@
 \EKI\EKI.XA;1[0]
-What in the world?
+Great, now where\ndo I go?
 There's another station over there.
 
 \EKI\EKI.XA;1[1]
 It's... a rail pass?
 
 \EKI\EKI.XA;1[5]
-"Augh!" 
+Augh!
 
 \HIKOU\HIKOU.XA;1[0]
-I see. Guess that does it!
+I see.\nGuess that does it!
 
 \HIKOU\HIKOU.XA;1[4]
-(Gargle, gargle.)
+*Gargle, gargle*
 
 \LAPUTA01\LAPUTA01.XA;1[0]
 It's Ninya's airship!
 Let's go!
 
-\LAPUTA02\LAPUTA02.XA[0]
-The megezo reflect the heart. 
+\LAPUTA02\LAPUTA02.XA;1[0]
+The megezo\nreflect the heart. 
 Open your heart!
 
 \MEKIN\MEKIN.XA;1[2]
@@ -29,7 +29,7 @@ Augh!
 Augh!
 
 \TOMO\TOMO.XA;1[0]
-Is that someone's home?
+Is that\nsomeone's home?
 
 \TOMO\TOMO.XA;1[1]
 Is it safe to feed them?
@@ -39,7 +39,7 @@ Darn, it's locked.
 
 \YOZORA\YOZORA.XA;1[1]
 I heard a noise.
-Was it that door I saw earlier?
+Was it that door\nI saw earlier?
 
 \MORI01\MORI01.XA;1[0]
 What is this?
@@ -61,7 +61,7 @@ What did you say?
 (Forest language.)
 
 \MORI01\MORI01.XA;1[6]
-What's this negative energy?!
+What's this\nnegative energy?!
 I'd better brush it off!
 
 \MORI01\MORI01.XA;1[7]
@@ -84,22 +84,22 @@ Ah, it's you.
 (The decipher stone may help here.)
 
 \MORI02\MORI02.XA;1[3]
-Hoho! You seem tougher now!
+Hoho!\nYou seem tougher now!
 How goes your adventure in Iblard?
 
 \MORI02\MORI02.XA;1[4]
-I keep brushing off the megezo,
-but they won't go away!
+I keep brushing off\nthe megezo,
+but they won't\ngo away!
 
 \MORI02\MORI02.XA;1[5]
 You can't brush off the megezo!
 They're incarnations of self-doubt!
 
 \MORI02\MORI02.XA;1[6]
-Then how do I stop them?!
+Then how do I\nstop them?!
 
 \MORI02\MORI02.XA;1[7]
-Simple! Open your heart to them.
+Simple! Open your\nheart to them.
 
 \MORI02\MORI02.XA;1[8]
 What?! But self-doubt is bad!
@@ -121,7 +121,7 @@ Now, hurry.
 The Laputa will emerge soon!
 
 \MORI02\MORI02.XA;1[13]
-Here. You can use this.
+Here.\nYou can use this.
 
 \MORI02\MORI02.XA;1[14]
 Now, you'd best be off!

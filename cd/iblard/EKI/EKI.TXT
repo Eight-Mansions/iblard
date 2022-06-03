@@ -14,7 +14,7 @@
 
 7 I recovered health!
 
-8 I took the guide map.
+8 I took the\nguide map.
 
 9 I took the\nwooden boomerang.\nCan it knock that\ncrystal from the tree?
 
