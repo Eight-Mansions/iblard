@@ -1,16 +1,16 @@
-0 There should be a\nhigh-grade synthester\nhere, but...
+0 There should be a high-grade synthester here, but...
 
 1 It's a symbol of the moon.
 
 2 Darn, it won't go in.
 
-3 It's a model\nof an airship.
+3 It's a model of an airship.
 
-4 I don't need\nthe meteors anymore.
+4 I don't need the meteors anymore.
 
-5 I can't move\nthe moon rock now.
+5 I can't move the moon rock now.
 
-6 I took the\nhigh-grade synthester!
+6 I took the high-grade synthester!
 
 7 Nothing stands out.
 
@@ -24,15 +24,15 @@
 
 12 I took the broom.
 
-12 I took the\nthree meteors.
+12 I took the three meteors.
 
 14 I took the moon stone.
 
-15 I took the\ndecipher stone.
+15 I took the decipher stone.
 
-16 I took the\nhigh-grade synthester.
+16 I took the high-grade synthester.
 
-17 I see, so it\ncan't be redone.
+17 I see, so it can't be redone.
 
 \TE
 

@@ -1,10 +1,10 @@
-0 Where in the world am I? \n　\nIs Ninya's shop\n　　　really here?
+0 Where in the world am I?\n\nIs Ninya's shop really here?
 
 1 It's some kind of device.
 
 2 It's a symbol of the moon.
 
-3 The switch is\nalready turned on.
+3 The switch is already turned on.
 
 4 I recovered health!
 

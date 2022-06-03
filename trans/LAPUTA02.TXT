@@ -1,6 +1,6 @@
-0 This won't work!\nÅ@\nÅ@I have to hatch the\nlaputa quickly!
+0 This won't work!\n\nI have to hatch the laputa quickly!
 
-1 Are you a dinosaur\nfrom the forest?\nThank you!
+1 Are you a dinosaur from the forest?\nThank you!
 
 2 -Free space-
 
@@ -10,7 +10,7 @@
 
 5 It's Ninya's airship.
 
-6 It's a painting of\na hatching laputa.
+6 It's a painting of a hatching laputa.
 
 7 I have a broom.
 
@@ -36,7 +36,7 @@
 
 18 Is that Burgalad?
 
-19 Did he come\nto see me off?
+19 Did he come to see me off?
 
 20 I took the broom.
 

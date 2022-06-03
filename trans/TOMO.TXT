@@ -2,9 +2,9 @@
 
 1 It's a wooden table.\nDinosaurs were just here.
 
-2 This tram can\ntake me to the\nnext station.
+2 This tram can take me to the next station.
 
-3 Darn, it won't open\nfrom this side.
+3 Darn, it won't open from this side.
 
 4 I can't proceed.
 
@@ -12,7 +12,7 @@
 
 6 Darn, I can't pass!
 
-7 Whoa, the dinosaurs\nare coming!
+7 Whoa, the dinosaurs are coming!
 
 8 I recovered health!
 
@@ -30,7 +30,7 @@
 
 15 Now heading to...\nMelkinso's pond?
 
-16 The dinosaurs all\ncame together.
+16 The dinosaurs all came together.
 
 \TE
 

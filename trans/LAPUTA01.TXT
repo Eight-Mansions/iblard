@@ -4,7 +4,7 @@
 
 2 I can't proceed.
 
-3 This won't work!\nÅ@\nÅ@I have to find the\nancient airport!
+3 This won't work!\n\nI have to find the ancient airport!
 
 4 It's Ninya's airship.
 
@@ -20,7 +20,7 @@
 
 10 Darn, it won't come off.
 
-11 This is our once chance\nto hatch the laputa!
+11 This is our once chance to hatch the laputa!
 
 12 It must be a switch.
 
@@ -28,9 +28,9 @@
 
 14 I took the area map.
 
-15 I took the square\nlaputa terra-model
+15 I took the square laputa terra-model
 
-16 I took the round\nlaputa terra-model
+16 I took the round laputa terra-model
 
 17 I took the moon stone.
 

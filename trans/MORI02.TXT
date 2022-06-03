@@ -20,7 +20,7 @@
 
 10 I took the biome seed.
 
-11 The water is\nalready flowing.
+11 The water is already flowing.
 
 \TE
 

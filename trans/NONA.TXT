@@ -1,4 +1,4 @@
-0 This must be the hill\nthat Ninya mentioned.\nDoes Qi Nona live here?
+0 This must be the hill that Ninya mentioned.\nDoes Qi Nona live here?
 
 1 I can't proceed.
 
@@ -6,13 +6,13 @@
 
 3 Darn, it's locked.
 
-4 These stairs look\nsafe to descend.
+4 These stairs look safe to descend.
 
-5 It's a painting of\nthis very hilltop.
+5 It's a painting of this very hilltop.
 
 6 Yikes!\nA Takatsung ship!
 
-7 A wooden boomerang\nwon't cut it!
+7 A wooden boomerang won't cut it!
 
 8 An airship energy source!\nI can fly with this!
 
@@ -24,13 +24,13 @@
 
 12 I took the\nround housekey.
 
-13 I swapped my\nwooden boomerang for\nthe synthester boomerang.
+13 I swapped my wooden boomerang for the synthester boomerang.
 
 14 I took the book of Iblard.
 
 15 I took the broom.
 
-16 No other books\nstand out.
+16 No other books stand out.
 
 17 Nothing stands out.
 
