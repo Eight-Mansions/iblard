@@ -16,7 +16,7 @@
 
 8            It's broken.\n          It may never\n           run again.
 
-9      What is it saying?
+9 \n     What is it saying?
 
 10    Sorry, I have no idea\n      what that means!
 
