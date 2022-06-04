@@ -1,36 +1,36 @@
-0 Nothing stands out.
+0     Nothing stands out.
 
-1 It's a wooden table.\nDinosaurs were just here.
+1     It's a wooden table.\nDinosaurs were just here.
 
-2 This tram can\ntake me to the\nnext station.
+2  This tram can take me\n    to the next station.
 
-3 Darn, it won't open\nfrom this side.
+3      Darn, it won't open\n        from this side.
 
-4 I can't proceed.
+4        I can't proceed.
 
-5 Nothing stands out.
+5     Nothing stands out.
 
-6 Darn, I can't pass!
+6      Darn, I can't pass!
 
-7 Whoa, the dinosaurs\nare coming!
+7    Whoa, the dinosaurs\n           are coming!
 
-8 I recovered health!
+8      I recovered health!
 
-9 I took the area map.
+9    I took the area map.
 
-10 I took the railpass.
+10     I took the railpass.
 
-11 I took the grand map.
+11   I took the grand map.
 
-12 I took the watermelon.
+12  I took the watermelon.
 
-13 I took the broom.
+13       I took the broom.
 
-14 The tram won't go anymore.
+14         The tram won't\n          go anymore.
 
-15 Now heading to...\nMelkinso's pond?
+15      Now heading to...\n      Melkinso's pond?
 
-16 The dinosaurs all\ncame together.
+16       The dinosaurs all\n        came together.
 
 \TE
 

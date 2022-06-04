@@ -1,16 +1,16 @@
-0 Why are the Takatsung\nacting so cruel?!\nI'll have to find\na flying stone.
+0  Why are the Takatsung\n      acting so cruel?!\n      I'll have to find a\n         flying stone.
 
-1 I took the flying stone.
+1  I took the flying stone.
 
-2 An airship energy source!\nI can fly with this!
+2             An airship\n        energy source!\n     I can fly with this!
 
-3 I recovered health!
+3      I recovered health!
 
-4 I took the guide map.
+4   I took the guide map.
 
-5 I took the broom.
+5       I took the broom.
 
-6 It's a painting of\nthis very island.
+6       It's a painting of\n      this very island.
 
 \TE
 

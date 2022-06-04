@@ -1,26 +1,26 @@
-0 This forest...\nI've been here before!
+0          This forest...\n  I've been here before!
 
-1 The rock is crumbling.\nI can't proceed.
+1  The rock is crumbling.\n       I can't proceed.
 
-2 The water is flowing.
+2   The water is flowing.
 
-3 The tram is gone.\nI can't leave this way.
+3      The tram is gone.\n I can't leave this way.
 
-4 There are cracks in the rock.
+4     There are cracks in\n             the rock.
 
-5 It's broken.\nIt may never run again.
+5            It's broken.\n          It may never\n           run again.
 
-6 I need a railpass.
+6       I need a railpass.
 
-7 I recovered health!
+7      I recovered health!
 
-8 I took the guide map.
+8   I took the guide map.
 
-9 I took the railpass.
+9     I took the railpass.
 
-10 I took the biome seed.
+10   I took the biome seed.
 
-11 The water is\nalready flowing.
+11           The water is\n      already flowing.
 
 \TE
 

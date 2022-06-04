@@ -1,26 +1,26 @@
-0 Why is a moon\npainted on this altar?
+0  Why is a moon painted\n         on this altar?
 
-1 I can't proceed.
+1        I can't proceed.
 
-2 Darn, I can't pass!
+2      Darn, I can't pass!
 
-3 I can't board\nwithout a railpass.
+3           I can't board\n    without a railpass.
 
-4 Ewwe, is that a squid?!
+4  Ewwe, is that a squid?!
 
-5 What is that noise?
+5     What is that noise?
 
-6 What is that thing\nstuck in the tree?
+6      What is that thing\n     stuck in the tree?
 
-7 I recovered health!
+7      I recovered health!
 
-8 I took the\nguide map.
+8   I took the guide map.
 
-9 I took the\nwooden boomerang.\nCan it knock that\ncrystal from the tree?
+9             I took the\n    wooden boomerang.\n      Can it knock that\n  crystal from the tree?
 
-10 I took the moon stone.
+10   I took the moon stone.
 
-11 I took the railpass.
+11     I took the railpass.
 \TE
 
 0 Lapis Lazuli

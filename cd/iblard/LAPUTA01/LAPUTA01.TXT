@@ -1,38 +1,38 @@
-0 It's a symbol of the moon.
+0           It's a symbol\n          of the moon.
 
-1 It's a mural.
+1           It's a mural.
 
-2 I can't proceed.
+2        I can't proceed.
 
-3 This won't work!\nÅ@\nÅ@I have to find the\nancient airport!
+3       This won't work!\n \n      I have to find the\n       ancient airport!
 
-4 It's Ninya's airship.
+4    It's Ninya's airship.
 
-5 It's a painting of\na hatching laputa.
+5       It's a painting of\n     a hatching laputa.
 
-6 Is this...a laputa egg?
+6  Is this...a laputa egg?
 
-7 Darn, it's broken.
+7       Darn, it's broken.
 
-8 I have a broom.
+8        I have a broom.
 
-9 It's set correctly.
+9       It's set correctly.
 
-10 Darn, it won't come off.
+10          Darn, it won't\n            come off.
 
-11 This is our once chance\nto hatch the laputa!
+11  This is our one chance\n    to hatch the laputa!
 
-12 It must be a switch.
+12    It must be a switch.
 
-13 I recovered health!
+13      I recovered health!
 
-14 I took the area map.
+14    I took the area map.
 
-15 I took the square\nlaputa terra-model
+15       I took the square\n     laputa terra-model
 
-16 I took the round\nlaputa terra-model
+16        I took the round\n     laputa terra-model
 
-17 I took the moon stone.
+17   I took the moon stone.
 
 \TE
 
