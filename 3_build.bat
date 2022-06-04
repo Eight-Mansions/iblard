@@ -47,6 +47,7 @@ tools\iblard_font_in.exe font\EKI.FNT.bmp font\FNT.FNT
 
 copy exe\orig\SLPS_010.27 exe\SLPS_010.27
 tools\armips.exe code\iblard-assembly.asm
+pause
 
 del cd\iblard\EKI\EKI.COD
 copy font\FNT.COD cd\iblard\EKI\EKI.COD
