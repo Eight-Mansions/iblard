@@ -1,36 +1,36 @@
-0 I don't have anything.
+0   I don't have anything.
 
-1 It's a waterway.\nThere is no flow.
+1        It's a waterway.\n      There is no flow.
 
-2 It leads down to the basement.
+2          It leads down\n      to the basement.
 
-3 It's broken.\nIts frame is exposed.
+3            It's broken.\n   Its frame is exposed.
 
-4 It's a water tank.
+4       It's a water tank.
 
-5 This tram can take me to the next station.
+5  This tram can take me\n    to the next station.
 
-6 It's a symbol of the moon.\nBelow that, it reads,\n"Burgalad'S FOREST AHEAD".
+6           It's a symbol\n          of the moon.\n    Below that, it reads,\n"Burgalad'S FOREST AHEAD".
 
-7 Nothing stands out.
+7     Nothing stands out.
 
-8 It's broken.\nIt may never run again.
+8            It's broken.\n          It may never\n           run again.
 
-9 What is it saying?
+9      What is it saying?
 
-10 Sorry, I have no idea what that means!
+10    Sorry, I have no idea\n      what that means!
 
-11 I don't understand it!
+11    I don't understand it!
 
-12 I recovered health!
+12      I recovered health!
 
-13 I took the guide map.
+13   I took the guide map.
 
-14 I took the moon stone.
+14   I took the moon stone.
 
-15 I took the railpass.
+15     I took the railpass.
 
-16 I took the valve.
+16        I took the valve.
 
 \TE
 
