@@ -1,32 +1,32 @@
-0 It is broken and will not fly again.
+0            It is broken\n and will not fly again.
 
-1 I can fly this to the floating island once I find an energy source.
+1     I can fly this to the\n  floating island once I\n find an energy source.
 
-2 This looks like a launchpad for a firework.
+2        This looks like a\nlaunchpad for a firework.
 
-3 It's those persistent Takatsung ships again!
+3     It's those persistent\n Takatsung ships again!
 
-4 I took the lapis lazuli.
+4   I took the lapis lazuli.
 
-5 It's not safe with that Takatsung ship in the air!
+5       It's not safe with\n   that Takatsung ship\n            in the air!
 
-6 The Takatsung ship broke down, but so did my boomerang.
+6     The Takatsung ship\n  broke down, but so did\n       my boomerang.
 
-7 I placed the lapis lazuli.
+7            I placed the\n          lapis lazuli.
 
-8 I recovered health!
+8      I recovered health!
 
-9 I took the area map.
+9    I took the area map.
 
-10 I took the solma stone.
+10  I took the solma stone.
 
-11 I took the match.
+11       I took the match.
 
-12 I took the firework.
+12     I took the firework.
 
-13 I took the aircraft's energy source.
+13     I took the aircraft's\n        energy source.
 
-14 Where is that groan coming from?
+14     Where is that groan\n         coming from?
 
 \TE
 
