@@ -34,7 +34,7 @@
 
 15   I took the moon stone.
 
-18       Is that Burgalad?
+18 \n      Is that Burgalad?
 
 19           Did he come\n         to see me off?
 

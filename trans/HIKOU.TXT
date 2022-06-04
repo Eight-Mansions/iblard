@@ -26,7 +26,7 @@
 
 13     I took the aircraft's\n        energy source.
 
-14     Where is that groan\n         coming from?
+14 \n    Where is that groan\n         coming from?
 
 \TE
 
