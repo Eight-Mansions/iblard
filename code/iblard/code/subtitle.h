@@ -32,7 +32,7 @@ const u8 partdata_1[] = { 130, 159, 130, 159, 130, 159, 130, 159, 130, 159, 130,
 
 const subtitle_part sub0_parts[] = {
 	{(const char*)partdata_0, 46, 1},
-	{(const char*)partdata_1, 48, 15},
+	{(const char*)partdata_1, 48, 45},
 };
 
 //\EKI\EKI.XA;1 | 1 |      It's... a rail pass?
@@ -71,7 +71,7 @@ const u8 partdata_7[] = { 130, 159, 130, 159, 130, 159, 130, 159, 130, 159, 130,
 
 const subtitle_part sub5_parts[] = {
 	{(const char*)partdata_6, 26, 1},
-	{(const char*)partdata_7, 23, 15},
+	{(const char*)partdata_7, 23, 28},
 };
 
 //\LAPUTA02\LAPUTA02.XA;1 | 0 |            The megezo\n      reflect the heart.
@@ -82,7 +82,7 @@ const u8 partdata_9[] = { 130, 159, 130, 159, 130, 159, 130, 159, 130, 159, 130,
 
 const subtitle_part sub6_parts[] = {
 	{(const char*)partdata_8, 47, 1},
-	{(const char*)partdata_9, 23, 15},
+	{(const char*)partdata_9, 23, 95},
 };
 
 //\MEKIN\MEKIN.XA;1 | 2 |                 Augh!
@@ -185,7 +185,7 @@ const u8 partdata_25[] = { 130, 159, 130, 159, 130, 200, 130, 166, 130, 227, 130
 
 const subtitle_part sub19_parts[] = {
 	{(const char*)partdata_24, 46, 1},
-	{(const char*)partdata_25, 27, 15},
+	{(const char*)partdata_25, 27, 27},
 };
 
 //\MORI01\MORI01.XA;1 | 7 |           A rail pass?
@@ -196,7 +196,7 @@ const u8 partdata_27[] = { 130, 159, 130, 159, 130, 159, 130, 159, 130, 159, 130
 
 const subtitle_part sub20_parts[] = {
 	{(const char*)partdata_26, 23, 1},
-	{(const char*)partdata_27, 22, 15},
+	{(const char*)partdata_27, 22, 40},
 };
 
 //\MORI01\MORI01.XA;1 | 8 |                 Augh!
@@ -242,7 +242,7 @@ const u8 partdata_34[] = { 130, 159, 130, 159, 130, 159, 130, 159, 130, 159, 130
 
 const subtitle_part sub26_parts[] = {
 	{(const char*)partdata_33, 45, 1},
-	{(const char*)partdata_34, 46, 15},
+	{(const char*)partdata_34, 46, 115},
 };
 
 //\MORI02\MORI02.XA;1 | 4 |     I keep brushing off\n           the megezo,
@@ -253,7 +253,7 @@ const u8 partdata_36[] = { 130, 159, 130, 159, 130, 159, 130, 159, 130, 159, 130
 
 const subtitle_part sub27_parts[] = {
 	{(const char*)partdata_35, 47, 1},
-	{(const char*)partdata_36, 45, 15},
+	{(const char*)partdata_36, 45, 30},
 };
 
 //\MORI02\MORI02.XA;1 | 5 |     You can't brush off\n           the megezo!
@@ -264,7 +264,7 @@ const u8 partdata_38[] = { 130, 159, 130, 159, 130, 159, 130, 211, 130, 231, 130
 
 const subtitle_part sub28_parts[] = {
 	{(const char*)partdata_37, 47, 1},
-	{(const char*)partdata_38, 48, 15},
+	{(const char*)partdata_38, 48, 65},
 };
 
 //\MORI02\MORI02.XA;1 | 6 |          Then how do I\n           stop them?!
@@ -289,7 +289,7 @@ const u8 partdata_42[] = { 130, 159, 130, 159, 130, 159, 130, 159, 130, 159, 130
 
 const subtitle_part sub31_parts[] = {
 	{(const char*)partdata_41, 47, 1},
-	{(const char*)partdata_42, 50, 15},
+	{(const char*)partdata_42, 50, 40},
 };
 
 //\MORI02\MORI02.XA;1 | 9 |           Not always.
@@ -300,7 +300,7 @@ const u8 partdata_44[] = { 130, 159, 130, 159, 130, 192, 130, 159, 130, 236, 130
 
 const subtitle_part sub32_parts[] = {
 	{(const char*)partdata_43, 22, 1},
-	{(const char*)partdata_44, 47, 15},
+	{(const char*)partdata_44, 47, 50},
 };
 
 //\MORI02\MORI02.XA;1 | 10 |  A megezo only reflects\n            your heart
@@ -311,7 +311,7 @@ const u8 partdata_46[] = { 130, 159, 130, 159, 130, 159, 130, 242, 130, 238, 130
 
 const subtitle_part sub33_parts[] = {
 	{(const char*)partdata_45, 47, 1},
-	{(const char*)partdata_46, 48, 15},
+	{(const char*)partdata_46, 48, 30},
 };
 
 //\MORI02\MORI02.XA;1 | 11 |        My...true self?
@@ -329,7 +329,7 @@ const u8 partdata_49[] = { 130, 159, 130, 159, 130, 159, 130, 159, 130, 159, 130
 
 const subtitle_part sub35_parts[] = {
 	{(const char*)partdata_48, 22, 1},
-	{(const char*)partdata_49, 46, 15},
+	{(const char*)partdata_49, 46, 60},
 };
 
 //\MORI02\MORI02.XA;1 | 13 |                 Here.\n      You can use this.
