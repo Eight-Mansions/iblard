@@ -1,18 +1,18 @@
-0 Where in the world am I?\n\nIs Ninya's shop really here?
+0           Where in the\n          world am I?\n \n        Is Ninya's shop\n          really here?
 
-1 It's some kind of device.
+1          It's some kind\n            of device.
 
-2 It's a symbol of the moon.
+2           It's a symbol\n          of the moon.
 
-3 The switch is already turned on.
+3   The switch is already\n            turned on.
 
-4 I recovered health!
+4      I recovered health!
 
-5 I took the guide map.
+5   I took the guide map.
 
-6 I took the power stone.
+6  I took the power stone.
 
-7 I took the moon stone.
+7   I took the moon stone.
 
 \TE
 
