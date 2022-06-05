@@ -14,16 +14,16 @@
 
 7      I recovered health!
 
-8   I took the guide map.
+8    I took the area map.
 
 9             I took the\n    wooden boomerang.\n      Can it knock that\n  crystal from the tree?
 
 10   I took the moon stone.
 
-11     I took the railpass.
+11     I took the rail pass.
 \TE
 
-0 Lapis Lazuli
+0 Lapis\nLazuli
 
 1 Biome Seed
 
@@ -31,21 +31,21 @@
 
 3 Low-grade\nSynthester
 
-4 Flying Stone
+4 Flying\nStone
 
-5 Energy Source
+5 Energy\nSource
 
-6 Railpass
+6 Rail Pass
 
 7 Grand Map
 
 8 Broom
 
-9 Recovery Gem
+9 Recovery\nGem
 
 10 Solma Stone
 
-11 Decipher Stone
+11 Decipher\nStone
 
 12 Warp Stone
 
@@ -55,7 +55,7 @@
 
 15 Area Map
 
-16 The airship\nneeds an\nenergy source.
+16 We need\nan energy\nsource.
 \WIE
 
 0 Moon Stone
