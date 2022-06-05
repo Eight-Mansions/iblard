@@ -49,6 +49,9 @@ copy exe\orig\SLPS_010.27 exe\SLPS_010.27
 tools\armips.exe code\iblard-assembly.asm
 pause
 
+del exe_error.txt
+tools\atlas exe\SLPS_010.27 trans\SLPS_010.27.00001D90.txt >> exe_error.txt
+
 del cd\iblard\EKI\EKI.COD
 copy font\FNT.COD cd\iblard\EKI\EKI.COD
 del cd\iblard\EKI\EKI.FNT
@@ -111,8 +114,5 @@ copy font\FNT.FNT cd\iblard\YOZORA\YOZORA.FNT
 
 del cd\iblard\SLPS_010.27
 copy exe\SLPS_010.27 cd\iblard\SLPS_010.27
-
-del exe_error.txt
-tools\atlas exe\SLPS_010.27 trans\SLPS_010.27.00001D90.txt >> exe_error.txt
 
 tools\psximager\psxbuild.exe -v cd\iblard >> cd\build.log
