@@ -16,7 +16,7 @@
 
 \TE
 
-0 Lapis Lazuli
+0 Lapis\nLazuli
 
 1 Biome Seed
 
@@ -24,21 +24,21 @@
 
 3 Low-grade\nSynthester
 
-4 Flying Stone
+4 Flying\nStone
 
-5 Energy Source
+5 Energy\nSource
 
-6 Railpass
+6 Rail Pass
 
 7 Grand Map
 
 8 Broom
 
-9 Recovery Gem
+9 Recovery\nGem
 
 10 Solma Stone
 
-11 Decipher Stone
+11 Decipher\nStone
 
 12 Warp Stone
 
@@ -48,7 +48,7 @@
 
 15 Area Map
 
-16 The airship\nneeds an\nenergy source.
+16 We need\nan energy\nsource.
 
 \WIE
 
