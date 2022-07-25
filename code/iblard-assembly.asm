@@ -5,6 +5,7 @@
 .org 0x80145144
 	.importobj "code\iblard\obj\subtitle.obj"
 	.importobj "code\iblard\obj\generated_audio.obj"
+	.importobj "code\iblard\obj\generated_movie.obj"
 .close
 
 .open "exe\SLPS_010.27",0x8000F800

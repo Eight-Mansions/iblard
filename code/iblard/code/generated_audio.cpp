@@ -1,6 +1,3 @@
-#ifndef GENERATED_AUDIO_H_
-#define GENERATED_AUDIO_H_
-
 #include "generated.h"
 
 //\EKI\EKI.XA;1 | 0 |       Great, now where\n              do I go?
@@ -366,4 +363,3 @@ const subtitle subs[] = {
 	{2025015821, 13, 1, sub36_parts},
 	{2025015821, 14, 1, sub37_parts},
 };
-#endif

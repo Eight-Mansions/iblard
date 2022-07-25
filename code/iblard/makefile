@@ -20,7 +20,7 @@ LINKOOPTS = /psx /p /c /li $(RELMODE)
 #MENU_SRC   = menu.c root.c item.c ability.c equip.c status.c bestiary.c config.c save.c
 #BATTLE_SRC = battle.c
 FONT_SRC = font.cpp
-SUB_SRC = subtitle.cpp generated_audio.cpp
+SUB_SRC = subtitle.cpp generated_audio.cpp generated_movie.cpp
 TEXT_SRC = text.cpp
 
 ## build object names from types ##
