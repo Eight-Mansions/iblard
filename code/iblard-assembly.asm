@@ -4,6 +4,7 @@
 .open "font\FNT.FNT",0x8013EDAC
 .org 0x80145144
 	.importobj "code\iblard\obj\subtitle.obj"
+	.importobj "code\iblard\obj\generated_audio.obj"
 .close
 
 .open "exe\SLPS_010.27",0x8000F800
@@ -195,6 +196,22 @@
 	; nop	; stores second half of orgin x here.. not sure why...
 	
 ;----------------------------------
+
+;------ EXE text load -------------
+
+; .org 0x800367a0
+	; lbu a1, 0(a0)
+
+; .org 0x80036950
+	; addiu s3, s3, 1
+
+; .org 0x80039bd0
+	; addiu v0, a0, 0x827F
+	; nop
+	; nop	
+
+;----------------------------------
+
 .org 0x8003927c
 	jal WrapVRAM
 

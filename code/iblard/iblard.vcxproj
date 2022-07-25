@@ -160,6 +160,8 @@
   <ItemGroup>
     <ClInclude Include="code\core.h" />
     <ClInclude Include="code\font.h" />
+    <ClInclude Include="code\generated.h" />
+    <ClInclude Include="code\generated_audio.cpp" />
     <ClInclude Include="code\platform.h" />
     <ClInclude Include="code\text.h" />
     <ClInclude Include="code\subtitle.h" />
