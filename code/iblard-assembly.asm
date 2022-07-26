@@ -246,6 +246,11 @@ SubFont:
 
 .org 0x8002d2d8
 	j InitMovieSub
+
+.org 0x8002db38
+	;8002db38 : LW      00020001 (v0), 0008 (801b3828 (a0)) [801b3830]
+	;8002db3c : LW      00020001 (v1), 051c (800981dc (gp)) [800986f8]
+	j StoreFrameNumber
 	
 ;---------------------------
 
@@ -411,7 +416,14 @@ SetTextSrcXY:
 	jr ra
 	addiu sp, sp, 4
 	
-
+StoreFrameNumber:
+		la t0, framenum
+		lw v0, 0x08(a0)
+		j 0x8002db44
+		sw v0, 0(t0)
+	
+framenum:
+	.dw 0
 
 vars:
 	.dw 0	; current total width
