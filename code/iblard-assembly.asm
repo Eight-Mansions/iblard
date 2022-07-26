@@ -1,12 +1,20 @@
 .psx
 
-;  Note, FNT.FNT is regeenerated from scratch each build
-.open "font\FNT.FNT",0x8013EDAC
-.org 0x80145144
+.open "cd\iblard\ETC\SUBTITLES.DAT",0x8011A000
 	.importobj "code\iblard\obj\subtitle.obj"
 	.importobj "code\iblard\obj\generated_audio.obj"
 	.importobj "code\iblard\obj\generated_movie.obj"
+SubFont:
+	.incbin "font\sub_font.bin" ; Font used for subtitles
 .close
+
+; ;  Note, FNT.FNT is regeenerated from scratch each build
+; .open "font\FNT.FNT",0x8013EDAC
+; .org 0x80145144
+	; .importobj "code\iblard\obj\subtitle.obj"
+	; .importobj "code\iblard\obj\generated_audio.obj"
+	; .importobj "code\iblard\obj\generated_movie.obj"
+; .close
 
 .open "exe\SLPS_010.27",0x8000F800
 
@@ -15,6 +23,8 @@
 .definelabel DrawSync, 0x8003e434
 .definelabel DisplayText, 0x80038ff0
 .definelabel printf, 0x8003bcb8
+.definelabel LoadFile, 0x80028a0c
+
 
 ; 0x8002cf2c  main game loop
 
@@ -234,15 +244,25 @@
 	
 ;---------- Movie Subtitle code
 
-; .org 0x8002d2d8
-	; j InitMovieSub
+.org 0x8002d2d8
+	j InitMovieSub
 	
 ;---------------------------
+
+;----------- Load subtitles into RAM
+
+.org 0x8001355c
+	la a0, 0x8011A000
+	jal LoadSubtitles
 	
+;------------------------------
+	
+
 .org 0x80096900
 ;	.importobj "code\iblard\obj\subtitle.obj"
 	.importobj "code\iblard\obj\text.obj"
 	.importobj "code\iblard\obj\font.obj"
+	.importobj "code\iblard\obj\loadfile.obj"
 	
 InitMovieSub:
 	jal 0x8005944c ; Call whatever this is...

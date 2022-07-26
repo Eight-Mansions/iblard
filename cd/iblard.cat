@@ -294,6 +294,7 @@ dir {
     file KIRYUU.TIM
     xafile MV01.STR
     file SACOM.STR
+	file SUBTITLES.DAT
     file START02.TIM
     file TITLE.TIM
     xafile TVASA.STR

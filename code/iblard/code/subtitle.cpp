@@ -64,6 +64,7 @@ void ClearText()
 
 void InitMovieSubtitle(const char* videoname)
 {
+	printf("Movie: %s\n", videoname);
 	movieSubIdx = -1;
 	int videonameHash = sdbmHash(videoname);
 	for (int i = 0; i < movieSubtitlesCount; i++)

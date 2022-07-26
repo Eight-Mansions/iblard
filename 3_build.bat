@@ -45,6 +45,7 @@ tools\iblard_cod_update.exe font\FNT.COD font\letters.txt
 del font\FNT.FNT
 tools\iblard_font_in.exe font\EKI.FNT.bmp font\FNT.FNT
 
+copy /y NUL cd\iblard\ETC\SUBTITLES.DAT >NUL
 copy exe\orig\SLPS_010.27 exe\SLPS_010.27
 tools\armips.exe code\iblard-assembly.asm
 pause
