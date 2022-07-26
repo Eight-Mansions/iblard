@@ -2,6 +2,7 @@
 #define PLATFORM_H_
 
 #include <stdint.h>
+#include "core.h"
 
 typedef uint8_t u8;
 typedef uint16_t u16;

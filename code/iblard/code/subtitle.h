@@ -21,6 +21,12 @@ extern "C" {
 
 	void ClearText();
 
+	void InitMovieSubtitle(const char* videoname);
+
+	void DrawMovieSubtitle(RECT* area, u16* image, u16* font, u32 curFrame);
+
+	extern int LoadImage(RECT* rect, u_long* p);
+
 	static int movieSubIdx = -1;
 }
 

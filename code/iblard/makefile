@@ -22,6 +22,7 @@ LINKOOPTS = /psx /p /c /li $(RELMODE)
 FONT_SRC = font.cpp
 SUB_SRC = subtitle.cpp generated_audio.cpp generated_movie.cpp
 TEXT_SRC = text.cpp
+FILE_SRC = loadfile.cpp
 
 ## build object names from types ##
 #CORE_OBJ	= $(patsubst %.c, $(RELMODE)/%.obj, ${CORE_SRC})
@@ -32,13 +33,14 @@ TEXT_SRC = text.cpp
 FONT_OBJ = $(patsubst %.cpp, $(RELMODE)/%.obj, ${FONT_SRC})
 SUB_OBJ = $(patsubst %.cpp, $(RELMODE)/%.obj, ${SUB_SRC})
 TEXT_OBJ = $(patsubst %.cpp, $(RELMODE)/%.obj, ${TEXT_SRC})
+FILE_OBJ = $(patsubst %.cpp, $(RELMODE)/%.obj, ${FILE_SRC})
 
 ## list of objects to use for linking ##
 ## NOTE: you still need to specify them in the ##
 ## .lk file or they will not be linked at all! ##
 #ALL_SRC = $(CORE_OBJ) $(MENU_OBJ) $(BATTLE_OBJ) $(FIELD_OBJ)
 #ALL_ASM = $(CORE_ASM)
-ALL_SRC = $(FONT_OBJ) $(SUB_OBJ) $(TEXT_OBJ)
+ALL_SRC = $(FONT_OBJ) $(SUB_OBJ) $(TEXT_OBJ) $(FILE_OBJ)
 
 
 #ALL_OBJ = $(ALL_SRC) $(ALL_ASM)

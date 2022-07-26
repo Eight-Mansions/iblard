@@ -232,10 +232,27 @@
 	j UpgradeItems
 	nop 
 	
+;---------- Movie Subtitle code
+
+; .org 0x8002d2d8
+	; j InitMovieSub
+	
+;---------------------------
+	
 .org 0x80096900
 ;	.importobj "code\iblard\obj\subtitle.obj"
 	.importobj "code\iblard\obj\text.obj"
 	.importobj "code\iblard\obj\font.obj"
+	
+InitMovieSub:
+	jal 0x8005944c ; Call whatever this is...
+	nop
+	jal InitMovieSubtitle
+	addu a0, r0, s1	; Load address of our STR name
+	
+	j 0x8002d2e0
+	nop
+	
 	
 InitSubs:
 	jal printf
