@@ -84,6 +84,7 @@ void DrawMovieSubtitle(RECT* area, u16* image, u16* font, u32 curFrame)
 
 	if (movieSubIdx >= 0)
 	{
+		printf("msi : %d\n", movieSubIdx);
 		MovieSubtitle subs = movieSubtitles[movieSubIdx];
 
 		for (int i = 0; i < subs.partsCount; i++)

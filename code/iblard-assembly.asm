@@ -252,6 +252,9 @@ SubFont:
 	;8002db3c : LW      00020001 (v1), 051c (800981dc (gp)) [800986f8]
 	j StoreFrameNumber
 	
+.org 0x8002d920
+	j DisplayMovieSubs
+	
 ;---------------------------
 
 ;----------- Load subtitles into RAM
@@ -415,6 +418,15 @@ SetTextSrcXY:
 	nop
 	jr ra
 	addiu sp, sp, 4
+	
+DisplayMovieSubs:
+	la a2, SubFont
+	la a3, framenum
+	jal DrawMovieSubtitle
+	lw a3, 0(a3)
+	
+	j 0x8002d928
+	nop
 	
 StoreFrameNumber:
 		la t0, framenum
