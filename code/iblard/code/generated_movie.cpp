@@ -1,93 +1,93 @@
 #include "generated.h"
 
-//MV00.STR;1 | Tending to those flowers, like
+//\YOZORA\MV00.STR;1 | Tending to those flowers, like
 const u8 partdata_0[] = { 19, 30, 39, 29, 34, 39, 32, 76, 45, 40, 76, 45, 33, 40, 44, 30, 76, 31, 37, 40, 48, 30, 43, 44, 53, 76, 37, 34, 36, 30 };
 
-//MV00.STR;1 | always.
+//\YOZORA\MV00.STR;1 | always.
 const u8 partdata_1[] = { 26, 37, 48, 26, 50, 44, 52 };
 
-//MV00.STR;1 | Why don't we invite him to hang out?
+//\YOZORA\MV00.STR;1 | Why don't we invite him to hang out?
 const u8 partdata_2[] = { 22, 33, 50, 76, 29, 40, 39, 62, 45, 76, 48, 30, 76, 34, 39, 47, 34, 45, 30, 76, 33, 34, 38, 76, 45, 40, 76, 33, 26, 39, 32, 76, 40, 46, 45, 55 };
 
-//MV00.STR;1 | I don't see that working.
+//\YOZORA\MV00.STR;1 | I don't see that working.
 const u8 partdata_3[] = { 8, 76, 29, 40, 39, 62, 45, 76, 44, 30, 30, 76, 45, 33, 26, 45, 76, 48, 40, 43, 36, 34, 39, 32, 52 };
 
-//MV00.STR;1 | He already turned us down before.
+//\YOZORA\MV00.STR;1 | He already turned us down before.
 const u8 partdata_4[] = { 7, 30, 76, 26, 37, 43, 30, 26, 29, 50, 76, 45, 46, 43, 39, 30, 29, 76, 46, 44, 76, 29, 40, 48, 39, 76, 27, 30, 31, 40, 43, 30, 52 };
 
-//MV00.STR;1 | "Sorry, I have to water my flowers
+//\YOZORA\MV00.STR;1 | "Sorry, I have to water my flowers
 const u8 partdata_5[] = { 56, 18, 40, 43, 43, 50, 53, 76, 8, 76, 33, 26, 47, 30, 76, 45, 40, 76, 48, 26, 45, 30, 43, 76, 38, 50, 76, 31, 37, 40, 48, 30, 43, 44 };
 
-//MV00.STR;1 | today!"
+//\YOZORA\MV00.STR;1 | today!"
 const u8 partdata_6[] = { 45, 40, 29, 26, 50, 54, 56 };
 
-//MV00.STR;1 | He hasn't changed.
+//\YOZORA\MV00.STR;1 | He hasn't changed.
 const u8 partdata_7[] = { 7, 30, 76, 33, 26, 44, 39, 62, 45, 76, 28, 33, 26, 39, 32, 30, 29, 52 };
 
-//MV00.STR;1 | You don't say...
+//\YOZORA\MV00.STR;1 | You don't say...
 const u8 partdata_8[] = { 24, 40, 46, 76, 29, 40, 39, 62, 45, 76, 44, 26, 50, 52, 52, 52 };
 
-//MV00.STR;1 | Eh, you can't win them all.
+//\YOZORA\MV00.STR;1 | Eh, you can't win them all.
 const u8 partdata_9[] = { 4, 33, 53, 76, 50, 40, 46, 76, 28, 26, 39, 62, 45, 76, 48, 34, 39, 76, 45, 33, 30, 38, 76, 26, 37, 37, 52 };
 
-//MV00.STR;1 | Speaking of, did you see today's
+//\YOZORA\MV00.STR;1 | Speaking of, did you see today's
 const u8 partdata_10[] = { 18, 41, 30, 26, 36, 34, 39, 32, 76, 40, 31, 53, 76, 29, 34, 29, 76, 50, 40, 46, 76, 44, 30, 30, 76, 45, 40, 29, 26, 50, 62, 44 };
 
-//MV00.STR;1 | game?
+//\YOZORA\MV00.STR;1 | game?
 const u8 partdata_11[] = { 32, 26, 38, 30, 55 };
 
-//MV00.STR;1 | It was awesome, right?
+//\YOZORA\MV00.STR;1 | It was awesome, right?
 const u8 partdata_12[] = { 8, 45, 76, 48, 26, 44, 76, 26, 48, 30, 44, 40, 38, 30, 53, 76, 43, 34, 32, 33, 45, 55 };
 
-//MV00.STR;1 | What a team!
+//\YOZORA\MV00.STR;1 | What a team!
 const u8 partdata_13[] = { 22, 33, 26, 45, 76, 26, 76, 45, 30, 26, 38, 54 };
 
-//MV00.STR;1 | You're such a gentle young man.
+//\YOZORA\MV00.STR;1 | You're such a gentle young man.
 const u8 partdata_14[] = { 24, 40, 46, 62, 43, 30, 76, 44, 46, 28, 33, 76, 26, 76, 32, 30, 39, 45, 37, 30, 76, 50, 40, 46, 39, 32, 76, 38, 26, 39, 52 };
 
-//MV00.STR;1 | Ninya?
+//\YOZORA\MV00.STR;1 | Ninya?
 const u8 partdata_15[] = { 13, 34, 39, 50, 26, 55 };
 
-//MV00.STR;1 | But you know,
+//\YOZORA\MV00.STR;1 | But you know,
 const u8 partdata_16[] = { 1, 46, 45, 76, 50, 40, 46, 76, 36, 39, 40, 48, 53 };
 
-//MV00.STR;1 | gentleness isn't always enough.
+//\YOZORA\MV00.STR;1 | gentleness isn't always enough.
 const u8 partdata_17[] = { 32, 30, 39, 45, 37, 30, 39, 30, 44, 44, 76, 34, 44, 39, 62, 45, 76, 26, 37, 48, 26, 50, 44, 76, 30, 39, 40, 46, 32, 33, 52 };
 
-//MV00.STR;1 | You need to be a little more
+//\YOZORA\MV00.STR;1 | You need to be a little more
 const u8 partdata_18[] = { 24, 40, 46, 76, 39, 30, 30, 29, 76, 45, 40, 76, 27, 30, 76, 26, 76, 37, 34, 45, 45, 37, 30, 76, 38, 40, 43, 30 };
 
-//MV00.STR;1 | assertive.
+//\YOZORA\MV00.STR;1 | assertive.
 const u8 partdata_19[] = { 26, 44, 44, 30, 43, 45, 34, 47, 30, 52 };
 
-//MV00.STR;1 | How can I?
+//\YOZORA\MV00.STR;1 | How can I?
 const u8 partdata_20[] = { 7, 40, 48, 76, 28, 26, 39, 76, 8, 55 };
 
-//MV00.STR;1 | Return to the forest, and speak to
+//\YOZORA\MV00.STR;1 | Return to the forest, and speak to
 const u8 partdata_21[] = { 17, 30, 45, 46, 43, 39, 76, 45, 40, 76, 45, 33, 30, 76, 31, 40, 43, 30, 44, 45, 53, 76, 26, 39, 29, 76, 44, 41, 30, 26, 36, 76, 45, 40 };
 
-//MV00.STR;1 | Burgalad.
+//\YOZORA\MV00.STR;1 | Burgalad.
 const u8 partdata_22[] = { 1, 46, 43, 32, 26, 37, 26, 29, 52 };
 
-//MV00.STR;1 | He will give you the extra push you
+//\YOZORA\MV00.STR;1 | He will give you the extra push you
 const u8 partdata_23[] = { 7, 30, 76, 48, 34, 37, 37, 76, 32, 34, 47, 30, 76, 50, 40, 46, 76, 45, 33, 30, 76, 30, 49, 45, 43, 26, 76, 41, 46, 44, 33, 76, 50, 40, 46 };
 
-//MV00.STR;1 | need.
+//\YOZORA\MV00.STR;1 | need.
 const u8 partdata_24[] = { 39, 30, 30, 29, 52 };
 
-//MV00.STR;1 | But I can't understand him!
+//\YOZORA\MV00.STR;1 | But I can't understand him!
 const u8 partdata_25[] = { 1, 46, 45, 76, 8, 76, 28, 26, 39, 62, 45, 76, 46, 39, 29, 30, 43, 44, 45, 26, 39, 29, 76, 33, 34, 38, 54 };
 
-//MV00.STR;1 | You'll need to use a decipher stone
+//\YOZORA\MV00.STR;1 | You'll need to use a decipher stone
 const u8 partdata_26[] = { 24, 40, 46, 62, 37, 37, 76, 39, 30, 30, 29, 76, 45, 40, 76, 46, 44, 30, 76, 26, 76, 29, 30, 28, 34, 41, 33, 30, 43, 76, 44, 45, 40, 39, 30 };
 
-//MV00.STR;1 | to speak with him.
+//\YOZORA\MV00.STR;1 | to speak with him.
 const u8 partdata_27[] = { 45, 40, 76, 44, 41, 30, 26, 36, 76, 48, 34, 45, 33, 76, 33, 34, 38, 52 };
 
-//MV00.STR;1 | A decipher stone? From where?!
+//\YOZORA\MV00.STR;1 | A decipher stone? From where?!
 const u8 partdata_28[] = { 0, 76, 29, 30, 28, 34, 41, 33, 30, 43, 76, 44, 45, 40, 39, 30, 55, 76, 5, 43, 40, 38, 76, 48, 33, 30, 43, 30, 55, 54 };
 
-//MV00.STR;1 | Ninya, wait!
+//\YOZORA\MV00.STR;1 | Ninya, wait!
 const u8 partdata_29[] = { 13, 34, 39, 50, 26, 53, 76, 48, 26, 34, 45, 54 };
 
 MovieSubtitlePart sub0_parts[] = {
@@ -202,79 +202,79 @@ MovieSubtitlePart sub1_parts[] = {
 	{(const char*)partdata_48, 11, 255, 547, 630, 112, 160, 112, 160},
 };
 
-//MV02.STR;1 | Not again...
+//\EKI\MV02.STR;1 | Not again...
 const u8 partdata_49[] = { 13, 40, 45, 76, 26, 32, 26, 34, 39, 52, 52, 52 };
 
-//MV02.STR;1 | No matter how hard I tend to these
+//\EKI\MV02.STR;1 | No matter how hard I tend to these
 const u8 partdata_50[] = { 13, 40, 76, 38, 26, 45, 45, 30, 43, 76, 33, 40, 48, 76, 33, 26, 43, 29, 76, 8, 76, 45, 30, 39, 29, 76, 45, 40, 76, 45, 33, 30, 44, 30 };
 
-//MV02.STR;1 | plants, they all die.
+//\EKI\MV02.STR;1 | plants, they all die.
 const u8 partdata_51[] = { 41, 37, 26, 39, 45, 44, 53, 76, 45, 33, 30, 50, 76, 26, 37, 37, 76, 29, 34, 30, 52 };
 
-//MV02.STR;1 | "The Laputa Nest"
+//\EKI\MV02.STR;1 | "The Laputa Nest"
 const u8 partdata_52[] = { 56, 19, 33, 30, 76, 11, 26, 41, 46, 45, 26, 76, 13, 30, 44, 45, 56 };
 
-//MV02.STR;1 | "Illustrated here is the change in
+//\EKI\MV02.STR;1 | "Illustrated here is the change in
 const u8 partdata_53[] = { 56, 8, 37, 37, 46, 44, 45, 43, 26, 45, 30, 29, 76, 33, 30, 43, 30, 76, 34, 44, 76, 45, 33, 30, 76, 28, 33, 26, 39, 32, 30, 76, 34, 39 };
 
-//MV02.STR;1 | a laputa's appearance,
+//\EKI\MV02.STR;1 | a laputa's appearance,
 const u8 partdata_54[] = { 26, 76, 37, 26, 41, 46, 45, 26, 62, 44, 76, 26, 41, 41, 30, 26, 43, 26, 39, 28, 30, 53 };
 
-//MV02.STR;1 | akin to a snake molting its skin in
+//\EKI\MV02.STR;1 | akin to a snake molting its skin in
 const u8 partdata_55[] = { 26, 36, 34, 39, 76, 45, 40, 76, 26, 76, 44, 39, 26, 36, 30, 76, 38, 40, 37, 45, 34, 39, 32, 76, 34, 45, 44, 76, 44, 36, 34, 39, 76, 34, 39 };
 
-//MV02.STR;1 | a nest of cloud and star.
+//\EKI\MV02.STR;1 | a nest of cloud and star.
 const u8 partdata_56[] = { 26, 76, 39, 30, 44, 45, 76, 40, 31, 76, 28, 37, 40, 46, 29, 76, 26, 39, 29, 76, 44, 45, 26, 43, 52 };
 
-//MV02.STR;1 | 'The shells discarded by the laputa
+//\EKI\MV02.STR;1 | 'The shells discarded by the laputa
 const u8 partdata_57[] = { 62, 19, 33, 30, 76, 44, 33, 30, 37, 37, 44, 76, 29, 34, 44, 28, 26, 43, 29, 30, 29, 76, 27, 50, 76, 45, 33, 30, 76, 37, 26, 41, 46, 45, 26 };
 
-//MV02.STR;1 | hold mysterious powers that
+//\EKI\MV02.STR;1 | hold mysterious powers that
 const u8 partdata_58[] = { 33, 40, 37, 29, 76, 38, 50, 44, 45, 30, 43, 34, 40, 46, 44, 76, 41, 40, 48, 30, 43, 44, 76, 45, 33, 26, 45 };
 
-//MV02.STR;1 | stimulate plant growth,'
+//\EKI\MV02.STR;1 | stimulate plant growth,'
 const u8 partdata_59[] = { 44, 45, 34, 38, 46, 37, 26, 45, 30, 76, 41, 37, 26, 39, 45, 76, 32, 43, 40, 48, 45, 33, 53, 62 };
 
-//MV02.STR;1 | ...or so they say, here in Iblard."
+//\EKI\MV02.STR;1 | ...or so they say, here in Iblard."
 const u8 partdata_60[] = { 52, 52, 52, 40, 43, 76, 44, 40, 76, 45, 33, 30, 50, 76, 44, 26, 50, 53, 76, 33, 30, 43, 30, 76, 34, 39, 76, 8, 27, 37, 26, 43, 29, 52, 56 };
 
-//MV02.STR;1 | A laputa shell?
+//\EKI\MV02.STR;1 | A laputa shell?
 const u8 partdata_61[] = { 0, 76, 37, 26, 41, 46, 45, 26, 76, 44, 33, 30, 37, 37, 55 };
 
-//MV02.STR;1 | If only such a thing existed.
+//\EKI\MV02.STR;1 | If only such a thing existed.
 const u8 partdata_62[] = { 8, 31, 76, 40, 39, 37, 50, 76, 44, 46, 28, 33, 76, 26, 76, 45, 33, 34, 39, 32, 76, 30, 49, 34, 44, 45, 30, 29, 52 };
 
-//MV02.STR;1 | Wait, aren't those...
+//\EKI\MV02.STR;1 | Wait, aren't those...
 const u8 partdata_63[] = { 22, 26, 34, 45, 53, 76, 26, 43, 30, 39, 62, 45, 76, 45, 33, 40, 44, 30, 52, 52, 52 };
 
-//MV02.STR;1 | ...characters from Grandpa's
+//\EKI\MV02.STR;1 | ...characters from Grandpa's
 const u8 partdata_64[] = { 52, 52, 52, 28, 33, 26, 43, 26, 28, 45, 30, 43, 44, 76, 31, 43, 40, 38, 76, 6, 43, 26, 39, 29, 41, 26, 62, 44 };
 
-//MV02.STR;1 | storybook?!
+//\EKI\MV02.STR;1 | storybook?!
 const u8 partdata_65[] = { 44, 45, 40, 43, 50, 27, 40, 40, 36, 55, 54 };
 
-//MV02.STR;1 | But how?
+//\EKI\MV02.STR;1 | But how?
 const u8 partdata_66[] = { 1, 46, 45, 76, 33, 40, 48, 55 };
 
-//MV02.STR;1 | Look, look!
+//\EKI\MV02.STR;1 | Look, look!
 const u8 partdata_67[] = { 11, 40, 40, 36, 53, 76, 37, 40, 40, 36, 54 };
 
-//MV02.STR;1 | Here it is!
+//\EKI\MV02.STR;1 | Here it is!
 const u8 partdata_68[] = { 7, 30, 43, 30, 76, 34, 45, 76, 34, 44, 54 };
 
-//MV02.STR;1 | Yes! We found it!
+//\EKI\MV02.STR;1 | Yes! We found it!
 const u8 partdata_69[] = { 24, 30, 44, 54, 76, 22, 30, 76, 31, 40, 46, 39, 29, 76, 34, 45, 54 };
 
-//MV02.STR;1 | What on Earth was that?
+//\EKI\MV02.STR;1 | What on Earth was that?
 const u8 partdata_70[] = { 22, 33, 26, 45, 76, 40, 39, 76, 4, 26, 43, 45, 33, 76, 48, 26, 44, 76, 45, 33, 26, 45, 55 };
 
-//MV02.STR;1 | They dropped this.
+//\EKI\MV02.STR;1 | They dropped this.
 const u8 partdata_71[] = { 19, 33, 30, 50, 76, 29, 43, 40, 41, 41, 30, 29, 76, 45, 33, 34, 44, 52 };
 
-//MV02.STR;1 | And with that, I began my journey
+//\EKI\MV02.STR;1 | And with that, I began my journey
 const u8 partdata_72[] = { 0, 39, 29, 76, 48, 34, 45, 33, 76, 45, 33, 26, 45, 53, 76, 8, 76, 27, 30, 32, 26, 39, 76, 38, 50, 76, 35, 40, 46, 43, 39, 30, 50 };
 
-//MV02.STR;1 | through Iblard.
+//\EKI\MV02.STR;1 | through Iblard.
 const u8 partdata_73[] = { 45, 33, 43, 40, 46, 32, 33, 76, 8, 27, 37, 26, 43, 29, 52 };
 
 MovieSubtitlePart sub2_parts[] = {
@@ -305,154 +305,154 @@ MovieSubtitlePart sub2_parts[] = {
 	{(const char*)partdata_73, 15, 255, 2087, 2154, 96, 160, 96, 160},
 };
 
-//MV03.STR;1 | Thank goodness those blasted
+//\EKI\MV03.STR;1 | Thank goodness those blasted
 const u8 partdata_74[] = { 19, 33, 26, 39, 36, 76, 32, 40, 40, 29, 39, 30, 44, 44, 76, 45, 33, 40, 44, 30, 76, 27, 37, 26, 44, 45, 30, 29 };
 
-//MV03.STR;1 | Takatsung airships flew off.
+//\EKI\MV03.STR;1 | Takatsung airships flew off.
 const u8 partdata_75[] = { 19, 26, 36, 26, 45, 44, 46, 39, 32, 76, 26, 34, 43, 44, 33, 34, 41, 44, 76, 31, 37, 30, 48, 76, 40, 31, 31, 52 };
 
-//MV03.STR;1 | Although, I've no doubt they're
+//\EKI\MV03.STR;1 | Although, I've no doubt they're
 const u8 partdata_76[] = { 0, 37, 45, 33, 40, 46, 32, 33, 53, 76, 8, 62, 47, 30, 76, 39, 40, 76, 29, 40, 46, 27, 45, 76, 45, 33, 30, 50, 62, 43, 30 };
 
-//MV03.STR;1 | plotting a comeback.
+//\EKI\MV03.STR;1 | plotting a comeback.
 const u8 partdata_77[] = { 41, 37, 40, 45, 45, 34, 39, 32, 76, 26, 76, 28, 40, 38, 30, 27, 26, 28, 36, 52 };
 
-//MV03.STR;1 | Ack! Who are you?!
+//\EKI\MV03.STR;1 | Ack! Who are you?!
 const u8 partdata_78[] = { 0, 28, 36, 54, 76, 22, 33, 40, 76, 26, 43, 30, 76, 50, 40, 46, 55, 54 };
 
-//MV03.STR;1 | You're not from this land, are you?
+//\EKI\MV03.STR;1 | You're not from this land, are you?
 const u8 partdata_79[] = { 24, 40, 46, 62, 43, 30, 76, 39, 40, 45, 76, 31, 43, 40, 38, 76, 45, 33, 34, 44, 76, 37, 26, 39, 29, 53, 76, 26, 43, 30, 76, 50, 40, 46, 55 };
 
-//MV03.STR;1 | No, you followed us here from that
+//\EKI\MV03.STR;1 | No, you followed us here from that
 const u8 partdata_80[] = { 13, 40, 53, 76, 50, 40, 46, 76, 31, 40, 37, 37, 40, 48, 30, 29, 76, 46, 44, 76, 33, 30, 43, 30, 76, 31, 43, 40, 38, 76, 45, 33, 26, 45 };
 
-//MV03.STR;1 | city!
+//\EKI\MV03.STR;1 | city!
 const u8 partdata_81[] = { 28, 34, 45, 50, 54 };
 
-//MV03.STR;1 | Oh, this won't do!
+//\EKI\MV03.STR;1 | Oh, this won't do!
 const u8 partdata_82[] = { 14, 33, 53, 76, 45, 33, 34, 44, 76, 48, 40, 39, 62, 45, 76, 29, 40, 54 };
 
-//MV03.STR;1 | That rift in space-time has long
+//\EKI\MV03.STR;1 | That rift in space-time has long
 const u8 partdata_83[] = { 19, 33, 26, 45, 76, 43, 34, 31, 45, 76, 34, 39, 76, 44, 41, 26, 28, 30, 63, 45, 34, 38, 30, 76, 33, 26, 44, 76, 37, 40, 39, 32 };
 
-//MV03.STR;1 | since closed up!
+//\EKI\MV03.STR;1 | since closed up!
 const u8 partdata_84[] = { 44, 34, 39, 28, 30, 76, 28, 37, 40, 44, 30, 29, 76, 46, 41, 54 };
 
-//MV03.STR;1 | I traveled through space-time?!
+//\EKI\MV03.STR;1 | I traveled through space-time?!
 const u8 partdata_85[] = { 8, 76, 45, 43, 26, 47, 30, 37, 30, 29, 76, 45, 33, 43, 40, 46, 32, 33, 76, 44, 41, 26, 28, 30, 63, 45, 34, 38, 30, 55, 54 };
 
-//MV03.STR;1 | Yes, you followed us to Iblard from
+//\EKI\MV03.STR;1 | Yes, you followed us to Iblard from
 const u8 partdata_86[] = { 24, 30, 44, 53, 76, 50, 40, 46, 76, 31, 40, 37, 37, 40, 48, 30, 29, 76, 46, 44, 76, 45, 40, 76, 8, 27, 37, 26, 43, 29, 76, 31, 43, 40, 38 };
 
-//MV03.STR;1 | your world.
+//\EKI\MV03.STR;1 | your world.
 const u8 partdata_87[] = { 50, 40, 46, 43, 76, 48, 40, 43, 37, 29, 52 };
 
-//MV03.STR;1 | Are we in Iblard right now?
+//\EKI\MV03.STR;1 | Are we in Iblard right now?
 const u8 partdata_88[] = { 0, 43, 30, 76, 48, 30, 76, 34, 39, 76, 8, 27, 37, 26, 43, 29, 76, 43, 34, 32, 33, 45, 76, 39, 40, 48, 55 };
 
-//MV03.STR;1 | You've heard of Iblard?!
+//\EKI\MV03.STR;1 | You've heard of Iblard?!
 const u8 partdata_89[] = { 24, 40, 46, 62, 47, 30, 76, 33, 30, 26, 43, 29, 76, 40, 31, 76, 8, 27, 37, 26, 43, 29, 55, 54 };
 
-//MV03.STR;1 | Yes, but I never knew it really
+//\EKI\MV03.STR;1 | Yes, but I never knew it really
 const u8 partdata_90[] = { 24, 30, 44, 53, 76, 27, 46, 45, 76, 8, 76, 39, 30, 47, 30, 43, 76, 36, 39, 30, 48, 76, 34, 45, 76, 43, 30, 26, 37, 37, 50 };
 
-//MV03.STR;1 | existed!
+//\EKI\MV03.STR;1 | existed!
 const u8 partdata_91[] = { 30, 49, 34, 44, 45, 30, 29, 54 };
 
-//MV03.STR;1 | It's just like Grandpa's storybook!
+//\EKI\MV03.STR;1 | It's just like Grandpa's storybook!
 const u8 partdata_92[] = { 8, 45, 62, 44, 76, 35, 46, 44, 45, 76, 37, 34, 36, 30, 76, 6, 43, 26, 39, 29, 41, 26, 62, 44, 76, 44, 45, 40, 43, 50, 27, 40, 40, 36, 54 };
 
-//MV03.STR;1 | That doesn't make sense.
+//\EKI\MV03.STR;1 | That doesn't make sense.
 const u8 partdata_93[] = { 19, 33, 26, 45, 76, 29, 40, 30, 44, 39, 62, 45, 76, 38, 26, 36, 30, 76, 44, 30, 39, 44, 30, 52 };
 
-//MV03.STR;1 | Your Grandfather came to Iblard and
+//\EKI\MV03.STR;1 | Your Grandfather came to Iblard and
 const u8 partdata_94[] = { 24, 40, 46, 43, 76, 6, 43, 26, 39, 29, 31, 26, 45, 33, 30, 43, 76, 28, 26, 38, 30, 76, 45, 40, 76, 8, 27, 37, 26, 43, 29, 76, 26, 39, 29 };
 
-//MV03.STR;1 | went back home? Impossible!
+//\EKI\MV03.STR;1 | went back home? Impossible!
 const u8 partdata_95[] = { 48, 30, 39, 45, 76, 27, 26, 28, 36, 76, 33, 40, 38, 30, 55, 76, 8, 38, 41, 40, 44, 44, 34, 27, 37, 30, 54 };
 
-//MV03.STR;1 | You say that like there's
+//\EKI\MV03.STR;1 | You say that like there's
 const u8 partdata_96[] = { 24, 40, 46, 76, 44, 26, 50, 76, 45, 33, 26, 45, 76, 37, 34, 36, 30, 76, 45, 33, 30, 43, 30, 62, 44 };
 
-//MV03.STR;1 | no way for me to do the same.
+//\EKI\MV03.STR;1 | no way for me to do the same.
 const u8 partdata_97[] = { 39, 40, 76, 48, 26, 50, 76, 31, 40, 43, 76, 38, 30, 76, 45, 40, 76, 29, 40, 76, 45, 33, 30, 76, 44, 26, 38, 30, 52 };
 
-//MV03.STR;1 | I hate to tell you this,
+//\EKI\MV03.STR;1 | I hate to tell you this,
 const u8 partdata_98[] = { 8, 76, 33, 26, 45, 30, 76, 45, 40, 76, 45, 30, 37, 37, 76, 50, 40, 46, 76, 45, 33, 34, 44, 53 };
 
-//MV03.STR;1 | but that's is what I'm saying.
+//\EKI\MV03.STR;1 | but that's is what I'm saying.
 const u8 partdata_99[] = { 27, 46, 45, 76, 45, 33, 26, 45, 62, 44, 76, 34, 44, 76, 48, 33, 26, 45, 76, 8, 62, 38, 76, 44, 26, 50, 34, 39, 32, 52 };
 
-//MV03.STR;1 | You're kidding!
+//\EKI\MV03.STR;1 | You're kidding!
 const u8 partdata_100[] = { 24, 40, 46, 62, 43, 30, 76, 36, 34, 29, 29, 34, 39, 32, 54 };
 
-//MV03.STR;1 | Let me think...
+//\EKI\MV03.STR;1 | Let me think...
 const u8 partdata_101[] = { 11, 30, 45, 76, 38, 30, 76, 45, 33, 34, 39, 36, 52, 52, 52 };
 
-//MV03.STR;1 | To find another rift in space-time,
+//\EKI\MV03.STR;1 | To find another rift in space-time,
 const u8 partdata_102[] = { 19, 40, 76, 31, 34, 39, 29, 76, 26, 39, 40, 45, 33, 30, 43, 76, 43, 34, 31, 45, 76, 34, 39, 76, 44, 41, 26, 28, 30, 63, 45, 34, 38, 30, 53 };
 
-//MV03.STR;1 | your only hope is to find a laputa
+//\EKI\MV03.STR;1 | your only hope is to find a laputa
 const u8 partdata_103[] = { 50, 40, 46, 43, 76, 40, 39, 37, 50, 76, 33, 40, 41, 30, 76, 34, 44, 76, 45, 40, 76, 31, 34, 39, 29, 76, 26, 76, 37, 26, 41, 46, 45, 26 };
 
-//MV03.STR;1 | as it hatches.
+//\EKI\MV03.STR;1 | as it hatches.
 const u8 partdata_104[] = { 26, 44, 76, 34, 45, 76, 33, 26, 45, 28, 33, 30, 44, 52 };
 
-//MV03.STR;1 | A laputa...as it hatches?
+//\EKI\MV03.STR;1 | A laputa...as it hatches?
 const u8 partdata_105[] = { 0, 76, 37, 26, 41, 46, 45, 26, 52, 52, 52, 26, 44, 76, 34, 45, 76, 33, 26, 45, 28, 33, 30, 44, 55 };
 
-//MV03.STR;1 | That's when a new floating island
+//\EKI\MV03.STR;1 | That's when a new floating island
 const u8 partdata_106[] = { 19, 33, 26, 45, 62, 44, 76, 48, 33, 30, 39, 76, 26, 76, 39, 30, 48, 76, 31, 37, 40, 26, 45, 34, 39, 32, 76, 34, 44, 37, 26, 39, 29 };
 
-//MV03.STR;1 | is born, right—
+//\EKI\MV03.STR;1 | is born, right—
 const u8 partdata_107[] = { 34, 44, 76, 27, 40, 43, 39, 53, 76, 43, 34, 32, 33, 45, -1 };
 
-//MV03.STR;1 | Uh-oh! Just look at the time!
+//\EKI\MV03.STR;1 | Uh-oh! Just look at the time!
 const u8 partdata_108[] = { 20, 33, 63, 40, 33, 54, 76, 9, 46, 44, 45, 76, 37, 40, 40, 36, 76, 26, 45, 76, 45, 33, 30, 76, 45, 34, 38, 30, 54 };
 
-//MV03.STR;1 | I've other preparations to make!
+//\EKI\MV03.STR;1 | I've other preparations to make!
 const u8 partdata_109[] = { 8, 62, 47, 30, 76, 40, 45, 33, 30, 43, 76, 41, 43, 30, 41, 26, 43, 26, 45, 34, 40, 39, 44, 76, 45, 40, 76, 38, 26, 36, 30, 54 };
 
-//MV03.STR;1 | Hey, wait, you!
+//\EKI\MV03.STR;1 | Hey, wait, you!
 const u8 partdata_110[] = { 7, 30, 50, 53, 76, 48, 26, 34, 45, 53, 76, 50, 40, 46, 54 };
 
-//MV03.STR;1 | When and where does do the laputa
+//\EKI\MV03.STR;1 | When and where does do the laputa
 const u8 partdata_111[] = { 22, 33, 30, 39, 76, 26, 39, 29, 76, 48, 33, 30, 43, 30, 76, 29, 40, 30, 44, 76, 29, 40, 76, 45, 33, 30, 76, 37, 26, 41, 46, 45, 26 };
 
-//MV03.STR;1 | hatch?!
+//\EKI\MV03.STR;1 | hatch?!
 const u8 partdata_112[] = { 33, 26, 45, 28, 33, 55, 54 };
 
-//MV03.STR;1 | "You" is Schopello, thank you!
+//\EKI\MV03.STR;1 | "You" is Schopello, thank you!
 const u8 partdata_113[] = { 56, 24, 40, 46, 56, 76, 34, 44, 76, 18, 28, 33, 40, 41, 30, 37, 37, 40, 53, 76, 45, 33, 26, 39, 36, 76, 50, 40, 46, 54 };
 
-//MV03.STR;1 | And you'll have to ask a magician
+//\EKI\MV03.STR;1 | And you'll have to ask a magician
 const u8 partdata_114[] = { 0, 39, 29, 76, 50, 40, 46, 62, 37, 37, 76, 33, 26, 47, 30, 76, 45, 40, 76, 26, 44, 36, 76, 26, 76, 38, 26, 32, 34, 28, 34, 26, 39 };
 
-//MV03.STR;1 | for a better answer to that.
+//\EKI\MV03.STR;1 | for a better answer to that.
 const u8 partdata_115[] = { 31, 40, 43, 76, 26, 76, 27, 30, 45, 45, 30, 43, 76, 26, 39, 44, 48, 30, 43, 76, 45, 40, 76, 45, 33, 26, 45, 52 };
 
-//MV03.STR;1 | Here. This will get you to the next
+//\EKI\MV03.STR;1 | Here. This will get you to the next
 const u8 partdata_116[] = { 7, 30, 43, 30, 52, 76, 19, 33, 34, 44, 76, 48, 34, 37, 37, 76, 32, 30, 45, 76, 50, 40, 46, 76, 45, 40, 76, 45, 33, 30, 76, 39, 30, 49, 45 };
 
-//MV03.STR;1 | station.
+//\EKI\MV03.STR;1 | station.
 const u8 partdata_117[] = { 44, 45, 26, 45, 34, 40, 39, 52 };
 
-//MV03.STR;1 | My friend, Melkinso, lives on a
+//\EKI\MV03.STR;1 | My friend, Melkinso, lives on a
 const u8 partdata_118[] = { 12, 50, 76, 31, 43, 34, 30, 39, 29, 53, 76, 12, 30, 37, 36, 34, 39, 44, 40, 53, 76, 37, 34, 47, 30, 44, 76, 40, 39, 76, 26 };
 
-//MV03.STR;1 | pond down the way.
+//\EKI\MV03.STR;1 | pond down the way.
 const u8 partdata_119[] = { 41, 40, 39, 29, 76, 29, 40, 48, 39, 76, 45, 33, 30, 76, 48, 26, 50, 52 };
 
-//MV03.STR;1 | He'll be happy to help you with
+//\EKI\MV03.STR;1 | He'll be happy to help you with
 const u8 partdata_120[] = { 7, 30, 62, 37, 37, 76, 27, 30, 76, 33, 26, 41, 41, 50, 76, 45, 40, 76, 33, 30, 37, 41, 76, 50, 40, 46, 76, 48, 34, 45, 33 };
 
-//MV03.STR;1 | your laputa problem.
+//\EKI\MV03.STR;1 | your laputa problem.
 const u8 partdata_121[] = { 50, 40, 46, 43, 76, 37, 26, 41, 46, 45, 26, 76, 41, 43, 40, 27, 37, 30, 38, 52 };
 
-//MV03.STR;1 | Good luck!
+//\EKI\MV03.STR;1 | Good luck!
 const u8 partdata_122[] = { 6, 40, 40, 29, 76, 37, 46, 28, 36, 54 };
 
-//MV03.STR;1 | Darn!
+//\EKI\MV03.STR;1 | Darn!
 const u8 partdata_123[] = { 3, 26, 43, 39, 54 };
 
 MovieSubtitlePart sub3_parts[] = {
@@ -508,172 +508,172 @@ MovieSubtitlePart sub3_parts[] = {
 	{(const char*)partdata_123, 5, 255, 1577, 1595, 136, 144, 136, 144},
 };
 
-//MV06.STR;1 | Hello there!
+//\MEKIN\MV06.STR;1 | Hello there!
 const u8 partdata_124[] = { 7, 30, 37, 37, 40, 76, 45, 33, 30, 43, 30, 54 };
 
-//MV06.STR;1 | We're glad to see you!
+//\MEKIN\MV06.STR;1 | We're glad to see you!
 const u8 partdata_125[] = { 22, 30, 62, 43, 30, 76, 32, 37, 26, 29, 76, 45, 40, 76, 44, 30, 30, 76, 50, 40, 46, 54 };
 
-//MV06.STR;1 | Allow me to introduce you to my
+//\MEKIN\MV06.STR;1 | Allow me to introduce you to my
 const u8 partdata_126[] = { 0, 37, 37, 40, 48, 76, 38, 30, 76, 45, 40, 76, 34, 39, 45, 43, 40, 29, 46, 28, 30, 76, 50, 40, 46, 76, 45, 40, 76, 38, 50 };
 
-//MV06.STR;1 | friend, Melkinso.
+//\MEKIN\MV06.STR;1 | friend, Melkinso.
 const u8 partdata_127[] = { 31, 43, 34, 30, 39, 29, 53, 76, 12, 30, 37, 36, 34, 39, 44, 40, 52 };
 
-//MV06.STR;1 | How can I help?
+//\MEKIN\MV06.STR;1 | How can I help?
 const u8 partdata_128[] = { 7, 40, 48, 76, 28, 26, 39, 76, 8, 76, 33, 30, 37, 41, 55 };
 
-//MV06.STR;1 | Schopello said I'd learn about
+//\MEKIN\MV06.STR;1 | Schopello said I'd learn about
 const u8 partdata_129[] = { 18, 28, 33, 40, 41, 30, 37, 37, 40, 76, 44, 26, 34, 29, 76, 8, 62, 29, 76, 37, 30, 26, 43, 39, 76, 26, 27, 40, 46, 45 };
 
-//MV06.STR;1 | hatching Laputa here.
+//\MEKIN\MV06.STR;1 | hatching Laputa here.
 const u8 partdata_130[] = { 33, 26, 45, 28, 33, 34, 39, 32, 76, 11, 26, 41, 46, 45, 26, 76, 33, 30, 43, 30, 52 };
 
-//MV06.STR;1 | Yes, a task that requires
+//\MEKIN\MV06.STR;1 | Yes, a task that requires
 const u8 partdata_131[] = { 24, 30, 44, 53, 76, 26, 76, 45, 26, 44, 36, 76, 45, 33, 26, 45, 76, 43, 30, 42, 46, 34, 43, 30, 44 };
 
-//MV06.STR;1 | the use of five special ores.
+//\MEKIN\MV06.STR;1 | the use of five special ores.
 const u8 partdata_132[] = { 45, 33, 30, 76, 46, 44, 30, 76, 40, 31, 76, 31, 34, 47, 30, 76, 44, 41, 30, 28, 34, 26, 37, 76, 40, 43, 30, 44, 52 };
 
-//MV06.STR;1 | I need rocks for this?
+//\MEKIN\MV06.STR;1 | I need rocks for this?
 const u8 partdata_133[] = { 8, 76, 39, 30, 30, 29, 76, 43, 40, 28, 36, 44, 76, 31, 40, 43, 76, 45, 33, 34, 44, 55 };
 
-//MV06.STR;1 | The lapis lazuli,
+//\MEKIN\MV06.STR;1 | The lapis lazuli,
 const u8 partdata_134[] = { 19, 33, 30, 76, 37, 26, 41, 34, 44, 76, 37, 26, 51, 46, 37, 34, 53 };
 
-//MV06.STR;1 | the biome seed,
+//\MEKIN\MV06.STR;1 | the biome seed,
 const u8 partdata_135[] = { 45, 33, 30, 76, 27, 34, 40, 38, 30, 76, 44, 30, 30, 29, 53 };
 
-//MV06.STR;1 | the high-grade synthester,
+//\MEKIN\MV06.STR;1 | the high-grade synthester,
 const u8 partdata_136[] = { 45, 33, 30, 76, 33, 34, 32, 33, 63, 32, 43, 26, 29, 30, 76, 44, 50, 39, 45, 33, 30, 44, 45, 30, 43, 53 };
 
-//MV06.STR;1 | the flying stone,
+//\MEKIN\MV06.STR;1 | the flying stone,
 const u8 partdata_137[] = { 45, 33, 30, 76, 31, 37, 50, 34, 39, 32, 76, 44, 45, 40, 39, 30, 53 };
 
-//MV06.STR;1 | and finally, the low-grade
+//\MEKIN\MV06.STR;1 | and finally, the low-grade
 const u8 partdata_138[] = { 26, 39, 29, 76, 31, 34, 39, 26, 37, 37, 50, 53, 76, 45, 33, 30, 76, 37, 40, 48, 63, 32, 43, 26, 29, 30 };
 
-//MV06.STR;1 | synthester.
+//\MEKIN\MV06.STR;1 | synthester.
 const u8 partdata_139[] = { 44, 50, 39, 45, 33, 30, 44, 45, 30, 43, 52 };
 
-//MV06.STR;1 | Recently, we tried to collect all
+//\MEKIN\MV06.STR;1 | Recently, we tried to collect all
 const u8 partdata_140[] = { 17, 30, 28, 30, 39, 45, 37, 50, 53, 76, 48, 30, 76, 45, 43, 34, 30, 29, 76, 45, 40, 76, 28, 40, 37, 37, 30, 28, 45, 76, 26, 37, 37 };
 
-//MV06.STR;1 | five ores,
+//\MEKIN\MV06.STR;1 | five ores,
 const u8 partdata_141[] = { 31, 34, 47, 30, 76, 40, 43, 30, 44, 53 };
 
-//MV06.STR;1 | and take them to the quiet laputa
+//\MEKIN\MV06.STR;1 | and take them to the quiet laputa
 const u8 partdata_142[] = { 26, 39, 29, 76, 45, 26, 36, 30, 76, 45, 33, 30, 38, 76, 45, 40, 76, 45, 33, 30, 76, 42, 46, 34, 30, 45, 76, 37, 26, 41, 46, 45, 26 };
 
-//MV06.STR;1 | nest.
+//\MEKIN\MV06.STR;1 | nest.
 const u8 partdata_143[] = { 39, 30, 44, 45, 52 };
 
-//MV06.STR;1 | But before we could land,
+//\MEKIN\MV06.STR;1 | But before we could land,
 const u8 partdata_144[] = { 1, 46, 45, 76, 27, 30, 31, 40, 43, 30, 76, 48, 30, 76, 28, 40, 46, 37, 29, 76, 37, 26, 39, 29, 53 };
 
-//MV06.STR;1 | Takatsung airships interfered!
+//\MEKIN\MV06.STR;1 | Takatsung airships interfered!
 const u8 partdata_145[] = { 19, 26, 36, 26, 45, 44, 46, 39, 32, 76, 26, 34, 43, 44, 33, 34, 41, 44, 76, 34, 39, 45, 30, 43, 31, 30, 43, 30, 29, 54 };
 
-//MV06.STR;1 | The Takatsung forces want to use
+//\MEKIN\MV06.STR;1 | The Takatsung forces want to use
 const u8 partdata_146[] = { 19, 33, 30, 76, 19, 26, 36, 26, 45, 44, 46, 39, 32, 76, 31, 40, 43, 28, 30, 44, 76, 48, 26, 39, 45, 76, 45, 40, 76, 46, 44, 30 };
 
-//MV06.STR;1 | the ores
+//\MEKIN\MV06.STR;1 | the ores
 const u8 partdata_147[] = { 45, 33, 30, 76, 40, 43, 30, 44 };
 
-//MV06.STR;1 | to create a megezo so powerful
+//\MEKIN\MV06.STR;1 | to create a megezo so powerful
 const u8 partdata_148[] = { 45, 40, 76, 28, 43, 30, 26, 45, 30, 76, 26, 76, 38, 30, 32, 30, 51, 40, 76, 44, 40, 76, 41, 40, 48, 30, 43, 31, 46, 37 };
 
-//MV06.STR;1 | it sucks up all the magic from us
+//\MEKIN\MV06.STR;1 | it sucks up all the magic from us
 const u8 partdata_149[] = { 34, 45, 76, 44, 46, 28, 36, 44, 76, 46, 41, 76, 26, 37, 37, 76, 45, 33, 30, 76, 38, 26, 32, 34, 28, 76, 31, 43, 40, 38, 76, 46, 44 };
 
-//MV06.STR;1 | magicians of Iblard!
+//\MEKIN\MV06.STR;1 | magicians of Iblard!
 const u8 partdata_150[] = { 38, 26, 32, 34, 28, 34, 26, 39, 44, 76, 40, 31, 76, 8, 27, 37, 26, 43, 29, 54 };
 
-//MV06.STR;1 | The ores fell out!
+//\MEKIN\MV06.STR;1 | The ores fell out!
 const u8 partdata_151[] = { 19, 33, 30, 76, 40, 43, 30, 44, 76, 31, 30, 37, 37, 76, 40, 46, 45, 54 };
 
-//MV06.STR;1 | Oh no! The synthesters—
+//\MEKIN\MV06.STR;1 | Oh no! The synthesters—
 const u8 partdata_152[] = { 14, 33, 76, 39, 40, 54, 76, 19, 33, 30, 76, 44, 50, 39, 45, 33, 30, 44, 45, 30, 43, 44, -1 };
 
-//MV06.STR;1 | They triggered a rift in space-time!
+//\MEKIN\MV06.STR;1 | They triggered a rift in space-time!
 const u8 partdata_153[] = { 19, 33, 30, 50, 76, 45, 43, 34, 32, 32, 30, 43, 30, 29, 76, 26, 76, 43, 34, 31, 45, 76, 34, 39, 76, 44, 41, 26, 28, 30, 63, 45, 34, 38, 30, 54 };
 
-//MV06.STR;1 | Four ores landed safely in Iblard,
+//\MEKIN\MV06.STR;1 | Four ores landed safely in Iblard,
 const u8 partdata_154[] = { 5, 40, 46, 43, 76, 40, 43, 30, 44, 76, 37, 26, 39, 29, 30, 29, 76, 44, 26, 31, 30, 37, 50, 76, 34, 39, 76, 8, 27, 37, 26, 43, 29, 53 };
 
-//MV06.STR;1 | but one, the low-grade synthester,
+//\MEKIN\MV06.STR;1 | but one, the low-grade synthester,
 const u8 partdata_155[] = { 27, 46, 45, 76, 40, 39, 30, 53, 76, 45, 33, 30, 76, 37, 40, 48, 63, 32, 43, 26, 29, 30, 76, 44, 50, 39, 45, 33, 30, 44, 45, 30, 43, 53 };
 
-//MV06.STR;1 | slipped through space-time and
+//\MEKIN\MV06.STR;1 | slipped through space-time and
 const u8 partdata_156[] = { 44, 37, 34, 41, 41, 30, 29, 76, 45, 33, 43, 40, 46, 32, 33, 76, 44, 41, 26, 28, 30, 63, 45, 34, 38, 30, 76, 26, 39, 29 };
 
-//MV06.STR;1 | landed in your world!
+//\MEKIN\MV06.STR;1 | landed in your world!
 const u8 partdata_157[] = { 37, 26, 39, 29, 30, 29, 76, 34, 39, 76, 50, 40, 46, 43, 76, 48, 40, 43, 37, 29, 54 };
 
-//MV06.STR;1 | As for your plight,
+//\MEKIN\MV06.STR;1 | As for your plight,
 const u8 partdata_158[] = { 0, 44, 76, 31, 40, 43, 76, 50, 40, 46, 43, 76, 41, 37, 34, 32, 33, 45, 53 };
 
-//MV06.STR;1 | those ores trigger a similar rift
+//\MEKIN\MV06.STR;1 | those ores trigger a similar rift
 const u8 partdata_159[] = { 45, 33, 40, 44, 30, 76, 40, 43, 30, 44, 76, 45, 43, 34, 32, 32, 30, 43, 76, 26, 76, 44, 34, 38, 34, 37, 26, 43, 76, 43, 34, 31, 45 };
 
-//MV06.STR;1 | when hatching a laputa.
+//\MEKIN\MV06.STR;1 | when hatching a laputa.
 const u8 partdata_160[] = { 48, 33, 30, 39, 76, 33, 26, 45, 28, 33, 34, 39, 32, 76, 26, 76, 37, 26, 41, 46, 45, 26, 52 };
 
-//MV06.STR;1 | Do you get it? That rift should be
+//\MEKIN\MV06.STR;1 | Do you get it? That rift should be
 const u8 partdata_161[] = { 3, 40, 76, 50, 40, 46, 76, 32, 30, 45, 76, 34, 45, 55, 76, 19, 33, 26, 45, 76, 43, 34, 31, 45, 76, 44, 33, 40, 46, 37, 29, 76, 27, 30 };
 
-//MV06.STR;1 | able to send you home!
+//\MEKIN\MV06.STR;1 | able to send you home!
 const u8 partdata_162[] = { 26, 27, 37, 30, 76, 45, 40, 76, 44, 30, 39, 29, 76, 50, 40, 46, 76, 33, 40, 38, 30, 54 };
 
-//MV06.STR;1 | Actually, we were hoping you could
+//\MEKIN\MV06.STR;1 | Actually, we were hoping you could
 const u8 partdata_163[] = { 0, 28, 45, 46, 26, 37, 37, 50, 53, 76, 48, 30, 76, 48, 30, 43, 30, 76, 33, 40, 41, 34, 39, 32, 76, 50, 40, 46, 76, 28, 40, 46, 37, 29 };
 
-//MV06.STR;1 | help us find the ores.
+//\MEKIN\MV06.STR;1 | help us find the ores.
 const u8 partdata_164[] = { 33, 30, 37, 41, 76, 46, 44, 76, 31, 34, 39, 29, 76, 45, 33, 30, 76, 40, 43, 30, 44, 52 };
 
-//MV06.STR;1 | With the Takatsung out there, we
+//\MEKIN\MV06.STR;1 | With the Takatsung out there, we
 const u8 partdata_165[] = { 22, 34, 45, 33, 76, 45, 33, 30, 76, 19, 26, 36, 26, 45, 44, 46, 39, 32, 76, 40, 46, 45, 76, 45, 33, 30, 43, 30, 53, 76, 48, 30 };
 
-//MV06.STR;1 | can't do it alone.
+//\MEKIN\MV06.STR;1 | can't do it alone.
 const u8 partdata_166[] = { 28, 26, 39, 62, 45, 76, 29, 40, 76, 34, 45, 76, 26, 37, 40, 39, 30, 52 };
 
-//MV06.STR;1 | Do you know where the ores have
+//\MEKIN\MV06.STR;1 | Do you know where the ores have
 const u8 partdata_167[] = { 3, 40, 76, 50, 40, 46, 76, 36, 39, 40, 48, 76, 48, 33, 30, 43, 30, 76, 45, 33, 30, 76, 40, 43, 30, 44, 76, 33, 26, 47, 30 };
 
-//MV06.STR;1 | fallen?
+//\MEKIN\MV06.STR;1 | fallen?
 const u8 partdata_168[] = { 31, 26, 37, 37, 30, 39, 55 };
 
-//MV06.STR;1 | Ninya will know.
+//\MEKIN\MV06.STR;1 | Ninya will know.
 const u8 partdata_169[] = { 13, 34, 39, 50, 26, 76, 48, 34, 37, 37, 76, 36, 39, 40, 48, 52 };
 
-//MV06.STR;1 | You should visit her shop in the
+//\MEKIN\MV06.STR;1 | You should visit her shop in the
 const u8 partdata_170[] = { 24, 40, 46, 76, 44, 33, 40, 46, 37, 29, 76, 47, 34, 44, 34, 45, 76, 33, 30, 43, 76, 44, 33, 40, 41, 76, 34, 39, 76, 45, 33, 30 };
 
-//MV06.STR;1 | next town over.
+//\MEKIN\MV06.STR;1 | next town over.
 const u8 partdata_171[] = { 39, 30, 49, 45, 76, 45, 40, 48, 39, 76, 40, 47, 30, 43, 52 };
 
-//MV06.STR;1 | Is Ninya the woman I saw you two
+//\MEKIN\MV06.STR;1 | Is Ninya the woman I saw you two
 const u8 partdata_172[] = { 8, 44, 76, 13, 34, 39, 50, 26, 76, 45, 33, 30, 76, 48, 40, 38, 26, 39, 76, 8, 76, 44, 26, 48, 76, 50, 40, 46, 76, 45, 48, 40 };
 
-//MV06.STR;1 | with?
+//\MEKIN\MV06.STR;1 | with?
 const u8 partdata_173[] = { 48, 34, 45, 33, 55 };
 
-//MV06.STR;1 | Yes. Now, I'll lend you my airship.
+//\MEKIN\MV06.STR;1 | Yes. Now, I'll lend you my airship.
 const u8 partdata_174[] = { 24, 30, 44, 52, 76, 13, 40, 48, 53, 76, 8, 62, 37, 37, 76, 37, 30, 39, 29, 76, 50, 40, 46, 76, 38, 50, 76, 26, 34, 43, 44, 33, 34, 41, 52 };
 
-//MV06.STR;1 | It's old, but it's reliable.
+//\MEKIN\MV06.STR;1 | It's old, but it's reliable.
 const u8 partdata_175[] = { 8, 45, 62, 44, 76, 40, 37, 29, 53, 76, 27, 46, 45, 76, 34, 45, 62, 44, 76, 43, 30, 37, 34, 26, 27, 37, 30, 52 };
 
-//MV06.STR;1 | I think its energy source is
+//\MEKIN\MV06.STR;1 | I think its energy source is
 const u8 partdata_176[] = { 8, 76, 45, 33, 34, 39, 36, 76, 34, 45, 44, 76, 30, 39, 30, 43, 32, 50, 76, 44, 40, 46, 43, 28, 30, 76, 34, 44 };
 
-//MV06.STR;1 | running low, though.
+//\MEKIN\MV06.STR;1 | running low, though.
 const u8 partdata_177[] = { 43, 46, 39, 39, 34, 39, 32, 76, 37, 40, 48, 53, 76, 45, 33, 40, 46, 32, 33, 52 };
 
-//MV06.STR;1 | Thank you both.
+//\MEKIN\MV06.STR;1 | Thank you both.
 const u8 partdata_178[] = { 19, 33, 26, 39, 36, 76, 50, 40, 46, 76, 27, 40, 45, 33, 52 };
 
-//MV06.STR;1 | I'll be off now!
+//\MEKIN\MV06.STR;1 | I'll be off now!
 const u8 partdata_179[] = { 8, 62, 37, 37, 76, 27, 30, 76, 40, 31, 31, 76, 39, 40, 48, 54 };
 
 MovieSubtitlePart sub4_parts[] = {
@@ -735,136 +735,136 @@ MovieSubtitlePart sub4_parts[] = {
 	{(const char*)partdata_179, 16, 255, 2106, 2136, 96, 144, 96, 144},
 };
 
-//MV07.STR;1 | Why hello. How can I assist you?
+//\NINYA2\MV07.STR;1 | Why hello. How can I assist you?
 const u8 partdata_180[] = { 22, 33, 50, 76, 33, 30, 37, 37, 40, 52, 76, 7, 40, 48, 76, 28, 26, 39, 76, 8, 76, 26, 44, 44, 34, 44, 45, 76, 50, 40, 46, 55 };
 
-//MV07.STR;1 | You're...Ninya, aren't you?
+//\NINYA2\MV07.STR;1 | You're...Ninya, aren't you?
 const u8 partdata_181[] = { 24, 40, 46, 62, 43, 30, 52, 52, 52, 13, 34, 39, 50, 26, 53, 76, 26, 43, 30, 39, 62, 45, 76, 50, 40, 46, 55 };
 
-//MV07.STR;1 | It is.
+//\NINYA2\MV07.STR;1 | It is.
 const u8 partdata_182[] = { 8, 45, 76, 34, 44, 52 };
 
-//MV07.STR;1 | In a way, we've met before, no?
+//\NINYA2\MV07.STR;1 | In a way, we've met before, no?
 const u8 partdata_183[] = { 8, 39, 76, 26, 76, 48, 26, 50, 53, 76, 48, 30, 62, 47, 30, 76, 38, 30, 45, 76, 27, 30, 31, 40, 43, 30, 53, 76, 39, 40, 55 };
 
-//MV07.STR;1 | How did you get to Iblard?
+//\NINYA2\MV07.STR;1 | How did you get to Iblard?
 const u8 partdata_184[] = { 7, 40, 48, 76, 29, 34, 29, 76, 50, 40, 46, 76, 32, 30, 45, 76, 45, 40, 76, 8, 27, 37, 26, 43, 29, 55 };
 
-//MV07.STR;1 | Well, uh...you see...
+//\NINYA2\MV07.STR;1 | Well, uh...you see...
 const u8 partdata_185[] = { 22, 30, 37, 37, 53, 76, 46, 33, 52, 52, 52, 50, 40, 46, 76, 44, 30, 30, 52, 52, 52 };
 
-//MV07.STR;1 | ...and now I'm here.
+//\NINYA2\MV07.STR;1 | ...and now I'm here.
 const u8 partdata_186[] = { 52, 52, 52, 26, 39, 29, 76, 39, 40, 48, 76, 8, 62, 38, 76, 33, 30, 43, 30, 52 };
 
-//MV07.STR;1 | I see now.
+//\NINYA2\MV07.STR;1 | I see now.
 const u8 partdata_187[] = { 8, 76, 44, 30, 30, 76, 39, 40, 48, 52 };
 
-//MV07.STR;1 | So, if we can hatch a Laputa, you
+//\NINYA2\MV07.STR;1 | So, if we can hatch a Laputa, you
 const u8 partdata_188[] = { 18, 40, 53, 76, 34, 31, 76, 48, 30, 76, 28, 26, 39, 76, 33, 26, 45, 28, 33, 76, 26, 76, 11, 26, 41, 46, 45, 26, 53, 76, 50, 40, 46 };
 
-//MV07.STR;1 | can return to your world.
+//\NINYA2\MV07.STR;1 | can return to your world.
 const u8 partdata_189[] = { 28, 26, 39, 76, 43, 30, 45, 46, 43, 39, 76, 45, 40, 76, 50, 40, 46, 43, 76, 48, 40, 43, 37, 29, 52 };
 
-//MV07.STR;1 | Actually, did you speak to Burgalad
+//\NINYA2\MV07.STR;1 | Actually, did you speak to Burgalad
 const u8 partdata_190[] = { 0, 28, 45, 46, 26, 37, 37, 50, 53, 76, 29, 34, 29, 76, 50, 40, 46, 76, 44, 41, 30, 26, 36, 76, 45, 40, 76, 1, 46, 43, 32, 26, 37, 26, 29 };
 
-//MV07.STR;1 | in the forest?
+//\NINYA2\MV07.STR;1 | in the forest?
 const u8 partdata_191[] = { 34, 39, 76, 45, 33, 30, 76, 31, 40, 43, 30, 44, 45, 55 };
 
-//MV07.STR;1 | Burgalad? Was he the guy covered in
+//\NINYA2\MV07.STR;1 | Burgalad? Was he the guy covered in
 const u8 partdata_192[] = { 1, 46, 43, 32, 26, 37, 26, 29, 55, 76, 22, 26, 44, 76, 33, 30, 76, 45, 33, 30, 76, 32, 46, 50, 76, 28, 40, 47, 30, 43, 30, 29, 76, 34, 39 };
 
-//MV07.STR;1 | leaves?
+//\NINYA2\MV07.STR;1 | leaves?
 const u8 partdata_193[] = { 37, 30, 26, 47, 30, 44, 55 };
 
-//MV07.STR;1 | Yes, that's Burgalad.
+//\NINYA2\MV07.STR;1 | Yes, that's Burgalad.
 const u8 partdata_194[] = { 24, 30, 44, 53, 76, 45, 33, 26, 45, 62, 44, 76, 1, 46, 43, 32, 26, 37, 26, 29, 52 };
 
-//MV07.STR;1 | He's the wise man of the forest.
+//\NINYA2\MV07.STR;1 | He's the wise man of the forest.
 const u8 partdata_195[] = { 7, 30, 62, 44, 76, 45, 33, 30, 76, 48, 34, 44, 30, 76, 38, 26, 39, 76, 40, 31, 76, 45, 33, 30, 76, 31, 40, 43, 30, 44, 45, 52 };
 
-//MV07.STR;1 | If you speak with him, he has a
+//\NINYA2\MV07.STR;1 | If you speak with him, he has a
 const u8 partdata_196[] = { 8, 31, 76, 50, 40, 46, 76, 44, 41, 30, 26, 36, 76, 48, 34, 45, 33, 76, 33, 34, 38, 53, 76, 33, 30, 76, 33, 26, 44, 76, 26 };
 
-//MV07.STR;1 | wealth of knowledge to share.
+//\NINYA2\MV07.STR;1 | wealth of knowledge to share.
 const u8 partdata_197[] = { 48, 30, 26, 37, 45, 33, 76, 40, 31, 76, 36, 39, 40, 48, 37, 30, 29, 32, 30, 76, 45, 40, 76, 44, 33, 26, 43, 30, 52 };
 
-//MV07.STR;1 | I couldn't understand his language.
+//\NINYA2\MV07.STR;1 | I couldn't understand his language.
 const u8 partdata_198[] = { 8, 76, 28, 40, 46, 37, 29, 39, 62, 45, 76, 46, 39, 29, 30, 43, 44, 45, 26, 39, 29, 76, 33, 34, 44, 76, 37, 26, 39, 32, 46, 26, 32, 30, 52 };
 
-//MV07.STR;1 | Tee hee!
+//\NINYA2\MV07.STR;1 | Tee hee!
 const u8 partdata_199[] = { 19, 30, 30, 76, 33, 30, 30, 54 };
 
-//MV07.STR;1 | That would be a roadblock, wouldn't
+//\NINYA2\MV07.STR;1 | That would be a roadblock, wouldn't
 const u8 partdata_200[] = { 19, 33, 26, 45, 76, 48, 40, 46, 37, 29, 76, 27, 30, 76, 26, 76, 43, 40, 26, 29, 27, 37, 40, 28, 36, 53, 76, 48, 40, 46, 37, 29, 39, 62, 45 };
 
-//MV07.STR;1 | it?
+//\NINYA2\MV07.STR;1 | it?
 const u8 partdata_201[] = { 34, 45, 55 };
 
-//MV07.STR;1 | After all, you're not a magician
+//\NINYA2\MV07.STR;1 | After all, you're not a magician
 const u8 partdata_202[] = { 0, 31, 45, 30, 43, 76, 26, 37, 37, 53, 76, 50, 40, 46, 62, 43, 30, 76, 39, 40, 45, 76, 26, 76, 38, 26, 32, 34, 28, 34, 26, 39 };
 
-//MV07.STR;1 | like we are.
+//\NINYA2\MV07.STR;1 | like we are.
 const u8 partdata_203[] = { 37, 34, 36, 30, 76, 48, 30, 76, 26, 43, 30, 52 };
 
-//MV07.STR;1 | May I see your map for a moment?
+//\NINYA2\MV07.STR;1 | May I see your map for a moment?
 const u8 partdata_204[] = { 12, 26, 50, 76, 8, 76, 44, 30, 30, 76, 50, 40, 46, 43, 76, 38, 26, 41, 76, 31, 40, 43, 76, 26, 76, 38, 40, 38, 30, 39, 45, 55 };
 
-//MV07.STR;1 | I'll mark the locations of the ores
+//\NINYA2\MV07.STR;1 | I'll mark the locations of the ores
 const u8 partdata_205[] = { 8, 62, 37, 37, 76, 38, 26, 43, 36, 76, 45, 33, 30, 76, 37, 40, 28, 26, 45, 34, 40, 39, 44, 76, 40, 31, 76, 45, 33, 30, 76, 40, 43, 30, 44 };
 
-//MV07.STR;1 | we need.
+//\NINYA2\MV07.STR;1 | we need.
 const u8 partdata_206[] = { 48, 30, 76, 39, 30, 30, 29, 52 };
 
-//MV07.STR;1 | Thanks.
+//\NINYA2\MV07.STR;1 | Thanks.
 const u8 partdata_207[] = { 19, 33, 26, 39, 36, 44, 52 };
 
-//MV07.STR;1 | I left the low-grade synthester we
+//\NINYA2\MV07.STR;1 | I left the low-grade synthester we
 const u8 partdata_208[] = { 8, 76, 37, 30, 31, 45, 76, 45, 33, 30, 76, 37, 40, 48, 63, 32, 43, 26, 29, 30, 76, 44, 50, 39, 45, 33, 30, 44, 45, 30, 43, 76, 48, 30 };
 
-//MV07.STR;1 | found in your world
+//\NINYA2\MV07.STR;1 | found in your world
 const u8 partdata_209[] = { 31, 40, 46, 39, 29, 76, 34, 39, 76, 50, 40, 46, 43, 76, 48, 40, 43, 37, 29 };
 
-//MV07.STR;1 | with a young man named Qi Nona.
+//\NINYA2\MV07.STR;1 | with a young man named Qi Nona.
 const u8 partdata_210[] = { 48, 34, 45, 33, 76, 26, 76, 50, 40, 46, 39, 32, 76, 38, 26, 39, 76, 39, 26, 38, 30, 29, 76, 16, 34, 76, 13, 40, 39, 26, 52 };
 
-//MV07.STR;1 | He too is a magician.
+//\NINYA2\MV07.STR;1 | He too is a magician.
 const u8 partdata_211[] = { 7, 30, 76, 45, 40, 40, 76, 34, 44, 76, 26, 76, 38, 26, 32, 34, 28, 34, 26, 39, 52 };
 
-//MV07.STR;1 | He lives in the Nona family house
+//\NINYA2\MV07.STR;1 | He lives in the Nona family house
 const u8 partdata_212[] = { 7, 30, 76, 37, 34, 47, 30, 44, 76, 34, 39, 76, 45, 33, 30, 76, 13, 40, 39, 26, 76, 31, 26, 38, 34, 37, 50, 76, 33, 40, 46, 44, 30 };
 
-//MV07.STR;1 | on a nearby hill.
+//\NINYA2\MV07.STR;1 | on a nearby hill.
 const u8 partdata_213[] = { 40, 39, 76, 26, 76, 39, 30, 26, 43, 27, 50, 76, 33, 34, 37, 37, 52 };
 
-//MV07.STR;1 | Okay then.
+//\NINYA2\MV07.STR;1 | Okay then.
 const u8 partdata_214[] = { 14, 36, 26, 50, 76, 45, 33, 30, 39, 52 };
 
-//MV07.STR;1 | I'll visit Qi Nona's house next.
+//\NINYA2\MV07.STR;1 | I'll visit Qi Nona's house next.
 const u8 partdata_215[] = { 8, 62, 37, 37, 76, 47, 34, 44, 34, 45, 76, 16, 34, 76, 13, 40, 39, 26, 62, 44, 76, 33, 40, 46, 44, 30, 76, 39, 30, 49, 45, 52 };
 
-//MV07.STR;1 | I'll give you this too.
+//\NINYA2\MV07.STR;1 | I'll give you this too.
 const u8 partdata_216[] = { 8, 62, 37, 37, 76, 32, 34, 47, 30, 76, 50, 40, 46, 76, 45, 33, 34, 44, 76, 45, 40, 40, 52 };
 
-//MV07.STR;1 | That's an airship energy source.
+//\NINYA2\MV07.STR;1 | That's an airship energy source.
 const u8 partdata_217[] = { 19, 33, 26, 45, 62, 44, 76, 26, 39, 76, 26, 34, 43, 44, 33, 34, 41, 76, 30, 39, 30, 43, 32, 50, 76, 44, 40, 46, 43, 28, 30, 52 };
 
-//MV07.STR;1 | If your airship runs out of energy
+//\NINYA2\MV07.STR;1 | If your airship runs out of energy
 const u8 partdata_218[] = { 8, 31, 76, 50, 40, 46, 43, 76, 26, 34, 43, 44, 33, 34, 41, 76, 43, 46, 39, 44, 76, 40, 46, 45, 76, 40, 31, 76, 30, 39, 30, 43, 32, 50 };
 
-//MV07.STR;1 | keep a look out for energy sources.
+//\NINYA2\MV07.STR;1 | keep a look out for energy sources.
 const u8 partdata_219[] = { 36, 30, 30, 41, 76, 26, 76, 37, 40, 40, 36, 76, 40, 46, 45, 76, 31, 40, 43, 76, 30, 39, 30, 43, 32, 50, 76, 44, 40, 46, 43, 28, 30, 44, 52 };
 
-//MV07.STR;1 | Thank you very much.
+//\NINYA2\MV07.STR;1 | Thank you very much.
 const u8 partdata_220[] = { 19, 33, 26, 39, 36, 76, 50, 40, 46, 76, 47, 30, 43, 50, 76, 38, 46, 28, 33, 52 };
 
-//MV07.STR;1 | You and Qi Nona are what I'd call
+//\NINYA2\MV07.STR;1 | You and Qi Nona are what I'd call
 const u8 partdata_221[] = { 24, 40, 46, 76, 26, 39, 29, 76, 16, 34, 76, 13, 40, 39, 26, 76, 26, 43, 30, 76, 48, 33, 26, 45, 76, 8, 62, 29, 76, 28, 26, 37, 37 };
 
-//MV07.STR;1 | "kindred spirits".
+//\NINYA2\MV07.STR;1 | "kindred spirits".
 const u8 partdata_222[] = { 56, 36, 34, 39, 29, 43, 30, 29, 76, 44, 41, 34, 43, 34, 45, 44, 56, 52 };
 
-//MV07.STR;1 | Let's find the ores together.
+//\NINYA2\MV07.STR;1 | Let's find the ores together.
 const u8 partdata_223[] = { 11, 30, 45, 62, 44, 76, 31, 34, 39, 29, 76, 45, 33, 30, 76, 40, 43, 30, 44, 76, 45, 40, 32, 30, 45, 33, 30, 43, 52 };
 
 MovieSubtitlePart sub5_parts[] = {
@@ -914,124 +914,124 @@ MovieSubtitlePart sub5_parts[] = {
 	{(const char*)partdata_223, 29, 255, 1632, 1672, 40, 144, 40, 144},
 };
 
-//MV08.STR;1 | This book...
+//\NONA\MV08.STR;1 | This book...
 const u8 partdata_224[] = { 19, 33, 34, 44, 76, 27, 40, 40, 36, 52, 52, 52 };
 
-//MV08.STR;1 | What is Grandfather's
+//\NONA\MV08.STR;1 | What is Grandfather's
 const u8 partdata_225[] = { 22, 33, 26, 45, 76, 34, 44, 76, 6, 43, 26, 39, 29, 31, 26, 45, 33, 30, 43, 62, 44 };
 
-//MV08.STR;1 | storybook doing here?
+//\NONA\MV08.STR;1 | storybook doing here?
 const u8 partdata_226[] = { 44, 45, 40, 43, 50, 27, 40, 40, 36, 76, 29, 40, 34, 39, 32, 76, 33, 30, 43, 30, 55 };
 
-//MV08.STR;1 | Hello!
+//\NONA\MV08.STR;1 | Hello!
 const u8 partdata_227[] = { 7, 30, 37, 37, 40, 54 };
 
-//MV08.STR;1 | What brings you here?
+//\NONA\MV08.STR;1 | What brings you here?
 const u8 partdata_228[] = { 22, 33, 26, 45, 76, 27, 43, 34, 39, 32, 44, 76, 50, 40, 46, 76, 33, 30, 43, 30, 55 };
 
-//MV08.STR;1 | Sorry...
+//\NONA\MV08.STR;1 | Sorry...
 const u8 partdata_229[] = { 18, 40, 43, 43, 50, 52, 52, 52 };
 
-//MV08.STR;1 | Are you Qi Nona?
+//\NONA\MV08.STR;1 | Are you Qi Nona?
 const u8 partdata_230[] = { 0, 43, 30, 76, 50, 40, 46, 76, 16, 34, 76, 13, 40, 39, 26, 55 };
 
-//MV08.STR;1 | Ninya sent me to speak with you.
+//\NONA\MV08.STR;1 | Ninya sent me to speak with you.
 const u8 partdata_231[] = { 13, 34, 39, 50, 26, 76, 44, 30, 39, 45, 76, 38, 30, 76, 45, 40, 76, 44, 41, 30, 26, 36, 76, 48, 34, 45, 33, 76, 50, 40, 46, 52 };
 
-//MV08.STR;1 | Ah. So, you're helping her hatch
+//\NONA\MV08.STR;1 | Ah. So, you're helping her hatch
 const u8 partdata_232[] = { 0, 33, 52, 76, 18, 40, 53, 76, 50, 40, 46, 62, 43, 30, 76, 33, 30, 37, 41, 34, 39, 32, 76, 33, 30, 43, 76, 33, 26, 45, 28, 33 };
 
-//MV08.STR;1 | the laputa?
+//\NONA\MV08.STR;1 | the laputa?
 const u8 partdata_233[] = { 45, 33, 30, 76, 37, 26, 41, 46, 45, 26, 55 };
 
-//MV08.STR;1 | Here. Take the low-grade synthester
+//\NONA\MV08.STR;1 | Here. Take the low-grade synthester
 const u8 partdata_234[] = { 7, 30, 43, 30, 52, 76, 19, 26, 36, 30, 76, 45, 33, 30, 76, 37, 40, 48, 63, 32, 43, 26, 29, 30, 76, 44, 50, 39, 45, 33, 30, 44, 45, 30, 43 };
 
-//MV08.STR;1 | she left with me,
+//\NONA\MV08.STR;1 | she left with me,
 const u8 partdata_235[] = { 44, 33, 30, 76, 37, 30, 31, 45, 76, 48, 34, 45, 33, 76, 38, 30, 53 };
 
-//MV08.STR;1 | but first, may I say something
+//\NONA\MV08.STR;1 | but first, may I say something
 const u8 partdata_236[] = { 27, 46, 45, 76, 31, 34, 43, 44, 45, 53, 76, 38, 26, 50, 76, 8, 76, 44, 26, 50, 76, 44, 40, 38, 30, 45, 33, 34, 39, 32 };
 
-//MV08.STR;1 | strange?
+//\NONA\MV08.STR;1 | strange?
 const u8 partdata_237[] = { 44, 45, 43, 26, 39, 32, 30, 55 };
 
-//MV08.STR;1 | You see, I can't shake this feeling
+//\NONA\MV08.STR;1 | You see, I can't shake this feeling
 const u8 partdata_238[] = { 24, 40, 46, 76, 44, 30, 30, 53, 76, 8, 76, 28, 26, 39, 62, 45, 76, 44, 33, 26, 36, 30, 76, 45, 33, 34, 44, 76, 31, 30, 30, 37, 34, 39, 32 };
 
-//MV08.STR;1 | that we've met before.
+//\NONA\MV08.STR;1 | that we've met before.
 const u8 partdata_239[] = { 45, 33, 26, 45, 76, 48, 30, 62, 47, 30, 76, 38, 30, 45, 76, 27, 30, 31, 40, 43, 30, 52 };
 
-//MV08.STR;1 | Really?
+//\NONA\MV08.STR;1 | Really?
 const u8 partdata_240[] = { 17, 30, 26, 37, 37, 50, 55 };
 
-//MV08.STR;1 | Maybe you can tell me about this
+//\NONA\MV08.STR;1 | Maybe you can tell me about this
 const u8 partdata_241[] = { 12, 26, 50, 27, 30, 76, 50, 40, 46, 76, 28, 26, 39, 76, 45, 30, 37, 37, 76, 38, 30, 76, 26, 27, 40, 46, 45, 76, 45, 33, 34, 44 };
 
-//MV08.STR;1 | book then.
+//\NONA\MV08.STR;1 | book then.
 const u8 partdata_242[] = { 27, 40, 40, 36, 76, 45, 33, 30, 39, 52 };
 
-//MV08.STR;1 | I have a copy just like it,
+//\NONA\MV08.STR;1 | I have a copy just like it,
 const u8 partdata_243[] = { 8, 76, 33, 26, 47, 30, 76, 26, 76, 28, 40, 41, 50, 76, 35, 46, 44, 45, 76, 37, 34, 36, 30, 76, 34, 45, 53 };
 
-//MV08.STR;1 | so I was surprised to see it here.
+//\NONA\MV08.STR;1 | so I was surprised to see it here.
 const u8 partdata_244[] = { 44, 40, 76, 8, 76, 48, 26, 44, 76, 44, 46, 43, 41, 43, 34, 44, 30, 29, 76, 45, 40, 76, 44, 30, 30, 76, 34, 45, 76, 33, 30, 43, 30, 52 };
 
-//MV08.STR;1 | Hmm.
+//\NONA\MV08.STR;1 | Hmm.
 const u8 partdata_245[] = { 7, 38, 38, 52 };
 
-//MV08.STR;1 | There's this old wives' tale.
+//\NONA\MV08.STR;1 | There's this old wives' tale.
 const u8 partdata_246[] = { 19, 33, 30, 43, 30, 62, 44, 76, 45, 33, 34, 44, 76, 40, 37, 29, 76, 48, 34, 47, 30, 44, 62, 76, 45, 26, 37, 30, 52 };
 
-//MV08.STR;1 | It says that, like a coin, there's
+//\NONA\MV08.STR;1 | It says that, like a coin, there's
 const u8 partdata_247[] = { 8, 45, 76, 44, 26, 50, 44, 76, 45, 33, 26, 45, 53, 76, 37, 34, 36, 30, 76, 26, 76, 28, 40, 34, 39, 53, 76, 45, 33, 30, 43, 30, 62, 44 };
 
-//MV08.STR;1 | another world on the opposite side
+//\NONA\MV08.STR;1 | another world on the opposite side
 const u8 partdata_248[] = { 26, 39, 40, 45, 33, 30, 43, 76, 48, 40, 43, 37, 29, 76, 40, 39, 76, 45, 33, 30, 76, 40, 41, 41, 40, 44, 34, 45, 30, 76, 44, 34, 29, 30 };
 
-//MV08.STR;1 | of Iblard.
+//\NONA\MV08.STR;1 | of Iblard.
 const u8 partdata_249[] = { 40, 31, 76, 8, 27, 37, 26, 43, 29, 52 };
 
-//MV08.STR;1 | If the two of us owning the same
+//\NONA\MV08.STR;1 | If the two of us owning the same
 const u8 partdata_250[] = { 8, 31, 76, 45, 33, 30, 76, 45, 48, 40, 76, 40, 31, 76, 46, 44, 76, 40, 48, 39, 34, 39, 32, 76, 45, 33, 30, 76, 44, 26, 38, 30 };
 
-//MV08.STR;1 | book is anything to go by,
+//\NONA\MV08.STR;1 | book is anything to go by,
 const u8 partdata_251[] = { 27, 40, 40, 36, 76, 34, 44, 76, 26, 39, 50, 45, 33, 34, 39, 32, 76, 45, 40, 76, 32, 40, 76, 27, 50, 53 };
 
-//MV08.STR;1 | I wonder if that particular tale is
+//\NONA\MV08.STR;1 | I wonder if that particular tale is
 const u8 partdata_252[] = { 8, 76, 48, 40, 39, 29, 30, 43, 76, 34, 31, 76, 45, 33, 26, 45, 76, 41, 26, 43, 45, 34, 28, 46, 37, 26, 43, 76, 45, 26, 37, 30, 76, 34, 44 };
 
-//MV08.STR;1 | true.
+//\NONA\MV08.STR;1 | true.
 const u8 partdata_253[] = { 45, 43, 46, 30, 52 };
 
-//MV08.STR;1 | Tell me, friend, what is your world
+//\NONA\MV08.STR;1 | Tell me, friend, what is your world
 const u8 partdata_254[] = { 19, 30, 37, 37, 76, 38, 30, 53, 76, 31, 43, 34, 30, 39, 29, 53, 76, 48, 33, 26, 45, 76, 34, 44, 76, 50, 40, 46, 43, 76, 48, 40, 43, 37, 29 };
 
-//MV08.STR;1 | like?
+//\NONA\MV08.STR;1 | like?
 const u8 partdata_255[] = { 37, 34, 36, 30, 55 };
 
-//MV08.STR;1 | Very hectic! It's the opposite of
+//\NONA\MV08.STR;1 | Very hectic! It's the opposite of
 const u8 partdata_256[] = { 21, 30, 43, 50, 76, 33, 30, 28, 45, 34, 28, 54, 76, 8, 45, 62, 44, 76, 45, 33, 30, 76, 40, 41, 41, 40, 44, 34, 45, 30, 76, 40, 31 };
 
-//MV08.STR;1 | Iblard.
+//\NONA\MV08.STR;1 | Iblard.
 const u8 partdata_257[] = { 8, 27, 37, 26, 43, 29, 52 };
 
-//MV08.STR;1 | I see. Then maybe we are two sides
+//\NONA\MV08.STR;1 | I see. Then maybe we are two sides
 const u8 partdata_258[] = { 8, 76, 44, 30, 30, 52, 76, 19, 33, 30, 39, 76, 38, 26, 50, 27, 30, 76, 48, 30, 76, 26, 43, 30, 76, 45, 48, 40, 76, 44, 34, 29, 30, 44 };
 
-//MV08.STR;1 | of the same coin.
+//\NONA\MV08.STR;1 | of the same coin.
 const u8 partdata_259[] = { 40, 31, 76, 45, 33, 30, 76, 44, 26, 38, 30, 76, 28, 40, 34, 39, 52 };
 
-//MV08.STR;1 | Oh!
+//\NONA\MV08.STR;1 | Oh!
 const u8 partdata_260[] = { 14, 33, 54 };
 
-//MV08.STR;1 | I know! Why not take that book with
+//\NONA\MV08.STR;1 | I know! Why not take that book with
 const u8 partdata_261[] = { 8, 76, 36, 39, 40, 48, 54, 76, 22, 33, 50, 76, 39, 40, 45, 76, 45, 26, 36, 30, 76, 45, 33, 26, 45, 76, 27, 40, 40, 36, 76, 48, 34, 45, 33 };
 
-//MV08.STR;1 | you?
+//\NONA\MV08.STR;1 | you?
 const u8 partdata_262[] = { 50, 40, 46, 55 };
 
-//MV08.STR;1 | It might come in handy.
+//\NONA\MV08.STR;1 | It might come in handy.
 const u8 partdata_263[] = { 8, 45, 76, 38, 34, 32, 33, 45, 76, 28, 40, 38, 30, 76, 34, 39, 76, 33, 26, 39, 29, 50, 52 };
 
 MovieSubtitlePart sub6_parts[] = {
@@ -1077,55 +1077,55 @@ MovieSubtitlePart sub6_parts[] = {
 	{(const char*)partdata_263, 23, 255, 1261, 1284, 64, 144, 64, 144},
 };
 
-//MV13.STR;1 | Forgive us for our slow pace.
+//\LAPUTA01\MV13.STR;1 | Forgive us for our slow pace.
 const u8 partdata_264[] = { 5, 40, 43, 32, 34, 47, 30, 76, 46, 44, 76, 31, 40, 43, 76, 40, 46, 43, 76, 44, 37, 40, 48, 76, 41, 26, 28, 30, 52 };
 
-//MV13.STR;1 | Those Takatsung aren't letting up,
+//\LAPUTA01\MV13.STR;1 | Those Takatsung aren't letting up,
 const u8 partdata_265[] = { 19, 33, 40, 44, 30, 76, 19, 26, 36, 26, 45, 44, 46, 39, 32, 76, 26, 43, 30, 39, 62, 45, 76, 37, 30, 45, 45, 34, 39, 32, 76, 46, 41, 53 };
 
-//MV13.STR;1 | that's for sure!
+//\LAPUTA01\MV13.STR;1 | that's for sure!
 const u8 partdata_266[] = { 45, 33, 26, 45, 62, 44, 76, 31, 40, 43, 76, 44, 46, 43, 30, 54 };
 
-//MV13.STR;1 | This is bad.
+//\LAPUTA01\MV13.STR;1 | This is bad.
 const u8 partdata_267[] = { 19, 33, 34, 44, 76, 34, 44, 76, 27, 26, 29, 52 };
 
-//MV13.STR;1 | The laputa egg is far too unstable.
+//\LAPUTA01\MV13.STR;1 | The laputa egg is far too unstable.
 const u8 partdata_268[] = { 19, 33, 30, 76, 37, 26, 41, 46, 45, 26, 76, 30, 32, 32, 76, 34, 44, 76, 31, 26, 43, 76, 45, 40, 40, 76, 46, 39, 44, 45, 26, 27, 37, 30, 52 };
 
-//MV13.STR;1 | We must hatch it soon,
+//\LAPUTA01\MV13.STR;1 | We must hatch it soon,
 const u8 partdata_269[] = { 22, 30, 76, 38, 46, 44, 45, 76, 33, 26, 45, 28, 33, 76, 34, 45, 76, 44, 40, 40, 39, 53 };
 
-//MV13.STR;1 | but we need the lapis lazuli
+//\LAPUTA01\MV13.STR;1 | but we need the lapis lazuli
 const u8 partdata_270[] = { 27, 46, 45, 76, 48, 30, 76, 39, 30, 30, 29, 76, 45, 33, 30, 76, 37, 26, 41, 34, 44, 76, 37, 26, 51, 46, 37, 34 };
 
-//MV13.STR;1 | from the airport down the way.
+//\LAPUTA01\MV13.STR;1 | from the airport down the way.
 const u8 partdata_271[] = { 31, 43, 40, 38, 76, 45, 33, 30, 76, 26, 34, 43, 41, 40, 43, 45, 76, 29, 40, 48, 39, 76, 45, 33, 30, 76, 48, 26, 50, 52 };
 
-//MV13.STR;1 | Understood. I'll go get it.
+//\LAPUTA01\MV13.STR;1 | Understood. I'll go get it.
 const u8 partdata_272[] = { 20, 39, 29, 30, 43, 44, 45, 40, 40, 29, 52, 76, 8, 62, 37, 37, 76, 32, 40, 76, 32, 30, 45, 76, 34, 45, 52 };
 
-//MV13.STR;1 | Do be careful!
+//\LAPUTA01\MV13.STR;1 | Do be careful!
 const u8 partdata_273[] = { 3, 40, 76, 27, 30, 76, 28, 26, 43, 30, 31, 46, 37, 54 };
 
-//MV13.STR;1 | How's the airship faring out there?
+//\LAPUTA01\MV13.STR;1 | How's the airship faring out there?
 const u8 partdata_274[] = { 7, 40, 48, 62, 44, 76, 45, 33, 30, 76, 26, 34, 43, 44, 33, 34, 41, 76, 31, 26, 43, 34, 39, 32, 76, 40, 46, 45, 76, 45, 33, 30, 43, 30, 55 };
 
-//MV13.STR;1 | It works, but it needs a new energy
+//\LAPUTA01\MV13.STR;1 | It works, but it needs a new energy
 const u8 partdata_275[] = { 8, 45, 76, 48, 40, 43, 36, 44, 53, 76, 27, 46, 45, 76, 34, 45, 76, 39, 30, 30, 29, 44, 76, 26, 76, 39, 30, 48, 76, 30, 39, 30, 43, 32, 50 };
 
-//MV13.STR;1 | source.
+//\LAPUTA01\MV13.STR;1 | source.
 const u8 partdata_276[] = { 44, 40, 46, 43, 28, 30, 52 };
 
-//MV13.STR;1 | I thought you'd say that.
+//\LAPUTA01\MV13.STR;1 | I thought you'd say that.
 const u8 partdata_277[] = { 8, 76, 45, 33, 40, 46, 32, 33, 45, 76, 50, 40, 46, 62, 29, 76, 44, 26, 50, 76, 45, 33, 26, 45, 52 };
 
-//MV13.STR;1 | Here. Use this.
+//\LAPUTA01\MV13.STR;1 | Here. Use this.
 const u8 partdata_278[] = { 7, 30, 43, 30, 52, 76, 20, 44, 30, 76, 45, 33, 34, 44, 52 };
 
-//MV13.STR;1 | Thank you!
+//\LAPUTA01\MV13.STR;1 | Thank you!
 const u8 partdata_279[] = { 19, 33, 26, 39, 36, 76, 50, 40, 46, 54 };
 
-//MV13.STR;1 | All right, I'm heading out!
+//\LAPUTA01\MV13.STR;1 | All right, I'm heading out!
 const u8 partdata_280[] = { 0, 37, 37, 76, 43, 34, 32, 33, 45, 53, 76, 8, 62, 38, 76, 33, 30, 26, 29, 34, 39, 32, 76, 40, 46, 45, 54 };
 
 MovieSubtitlePart sub7_parts[] = {
@@ -1148,13 +1148,13 @@ MovieSubtitlePart sub7_parts[] = {
 	{(const char*)partdata_280, 27, 255, 540, 564, 48, 144, 48, 144},
 };
 
-//MV14.STR;1 | Now approaching the ancient airport.
+//\LAPUTA01\MV14.STR;1 | Now approaching the ancient airport.
 const u8 partdata_281[] = { 13, 40, 48, 76, 26, 41, 41, 43, 40, 26, 28, 33, 34, 39, 32, 76, 45, 33, 30, 76, 26, 39, 28, 34, 30, 39, 45, 76, 26, 34, 43, 41, 40, 43, 45, 52 };
 
-//MV14.STR;1 | We won't let some child
+//\LAPUTA01\MV14.STR;1 | We won't let some child
 const u8 partdata_282[] = { 22, 30, 76, 48, 40, 39, 62, 45, 76, 37, 30, 45, 76, 44, 40, 38, 30, 76, 28, 33, 34, 37, 29 };
 
-//MV14.STR;1 | beat us to the lapis lazuli!
+//\LAPUTA01\MV14.STR;1 | beat us to the lapis lazuli!
 const u8 partdata_283[] = { 27, 30, 26, 45, 76, 46, 44, 76, 45, 40, 76, 45, 33, 30, 76, 37, 26, 41, 34, 44, 76, 37, 26, 51, 46, 37, 34, 54 };
 
 MovieSubtitlePart sub8_parts[] = {
@@ -1163,25 +1163,25 @@ MovieSubtitlePart sub8_parts[] = {
 	{(const char*)partdata_283, 28, 255, 337, 374, 48, 144, 48, 144},
 };
 
-//MV16.STR;1 | That was impressive!
+//\HIKOU\MV16.STR;1 | That was impressive!
 const u8 partdata_284[] = { 19, 33, 26, 45, 76, 48, 26, 44, 76, 34, 38, 41, 43, 30, 44, 44, 34, 47, 30, 54 };
 
-//MV16.STR;1 | I admire your courage, young one.
+//\HIKOU\MV16.STR;1 | I admire your courage, young one.
 const u8 partdata_285[] = { 8, 76, 26, 29, 38, 34, 43, 30, 76, 50, 40, 46, 43, 76, 28, 40, 46, 43, 26, 32, 30, 53, 76, 50, 40, 46, 39, 32, 76, 40, 39, 30, 52 };
 
-//MV16.STR;1 | Here, take this.
+//\HIKOU\MV16.STR;1 | Here, take this.
 const u8 partdata_286[] = { 7, 30, 43, 30, 53, 76, 45, 26, 36, 30, 76, 45, 33, 34, 44, 52 };
 
-//MV16.STR;1 | It should be of use to you.
+//\HIKOU\MV16.STR;1 | It should be of use to you.
 const u8 partdata_287[] = { 8, 45, 76, 44, 33, 40, 46, 37, 29, 76, 27, 30, 76, 40, 31, 76, 46, 44, 30, 76, 45, 40, 76, 50, 40, 46, 52 };
 
-//MV16.STR;1 | I'll spare your life for today.
+//\HIKOU\MV16.STR;1 | I'll spare your life for today.
 const u8 partdata_288[] = { 8, 62, 37, 37, 76, 44, 41, 26, 43, 30, 76, 50, 40, 46, 43, 76, 37, 34, 31, 30, 76, 31, 40, 43, 76, 45, 40, 29, 26, 50, 52 };
 
-//MV16.STR;1 | But know this—my letting you go is
+//\HIKOU\MV16.STR;1 | But know this—my letting you go is
 const u8 partdata_289[] = { 1, 46, 45, 76, 36, 39, 40, 48, 76, 45, 33, 34, 44, -1, 38, 50, 76, 37, 30, 45, 45, 34, 39, 32, 76, 50, 40, 46, 76, 32, 40, 76, 34, 44 };
 
-//MV16.STR;1 | by no means a surrender!
+//\HIKOU\MV16.STR;1 | by no means a surrender!
 const u8 partdata_290[] = { 27, 50, 76, 39, 40, 76, 38, 30, 26, 39, 44, 76, 26, 76, 44, 46, 43, 43, 30, 39, 29, 30, 43, 54 };
 
 MovieSubtitlePart sub9_parts[] = {
@@ -1194,28 +1194,28 @@ MovieSubtitlePart sub9_parts[] = {
 	{(const char*)partdata_290, 24, 255, 500, 552, 64, 160, 64, 160},
 };
 
-//MV18.STR;1 | Is that the laputa shell?
+//\LAPUTA02\MV18.STR;1 | Is that the laputa shell?
 const u8 partdata_291[] = { 8, 44, 76, 45, 33, 26, 45, 76, 45, 33, 30, 76, 37, 26, 41, 46, 45, 26, 76, 44, 33, 30, 37, 37, 55 };
 
-//MV18.STR;1 | Ah, that it is!
+//\LAPUTA02\MV18.STR;1 | Ah, that it is!
 const u8 partdata_292[] = { 0, 33, 53, 76, 45, 33, 26, 45, 76, 34, 45, 76, 34, 44, 54 };
 
-//MV18.STR;1 | This is great!
+//\LAPUTA02\MV18.STR;1 | This is great!
 const u8 partdata_293[] = { 19, 33, 34, 44, 76, 34, 44, 76, 32, 43, 30, 26, 45, 54 };
 
-//MV18.STR;1 | You can use it to enter the rift!
+//\LAPUTA02\MV18.STR;1 | You can use it to enter the rift!
 const u8 partdata_294[] = { 24, 40, 46, 76, 28, 26, 39, 76, 46, 44, 30, 76, 34, 45, 76, 45, 40, 76, 30, 39, 45, 30, 43, 76, 45, 33, 30, 76, 43, 34, 31, 45, 54 };
 
-//MV18.STR;1 | I guess this means goodbye.
+//\LAPUTA02\MV18.STR;1 | I guess this means goodbye.
 const u8 partdata_295[] = { 8, 76, 32, 46, 30, 44, 44, 76, 45, 33, 34, 44, 76, 38, 30, 26, 39, 44, 76, 32, 40, 40, 29, 27, 50, 30, 52 };
 
-//MV18.STR;1 | No.
+//\LAPUTA02\MV18.STR;1 | No.
 const u8 partdata_296[] = { 13, 40, 52 };
 
-//MV18.STR;1 | We will surely meet again, someday.
+//\LAPUTA02\MV18.STR;1 | We will surely meet again, someday.
 const u8 partdata_297[] = { 22, 30, 76, 48, 34, 37, 37, 76, 44, 46, 43, 30, 37, 50, 76, 38, 30, 30, 45, 76, 26, 32, 26, 34, 39, 53, 76, 44, 40, 38, 30, 29, 26, 50, 52 };
 
-//MV18.STR;1 | So long, kid! Take care!
+//\LAPUTA02\MV18.STR;1 | So long, kid! Take care!
 const u8 partdata_298[] = { 18, 40, 76, 37, 40, 39, 32, 53, 76, 36, 34, 29, 54, 76, 19, 26, 36, 30, 76, 28, 26, 43, 30, 54 };
 
 MovieSubtitlePart sub10_parts[] = {
@@ -1229,19 +1229,19 @@ MovieSubtitlePart sub10_parts[] = {
 	{(const char*)partdata_298, 24, 255, 1011, 1048, 64, 144, 64, 144},
 };
 
-//MV19.STR;1 | The power of the laputa shell
+//\LAPUTA02\MV19.STR;1 | The power of the laputa shell
 const u8 partdata_299[] = { 19, 33, 30, 76, 41, 40, 48, 30, 43, 76, 40, 31, 76, 45, 33, 30, 76, 37, 26, 41, 46, 45, 26, 76, 44, 33, 30, 37, 37 };
 
-//MV19.STR;1 | was stronger than I ever imagined.
+//\LAPUTA02\MV19.STR;1 | was stronger than I ever imagined.
 const u8 partdata_300[] = { 48, 26, 44, 76, 44, 45, 43, 40, 39, 32, 30, 43, 76, 45, 33, 26, 39, 76, 8, 76, 30, 47, 30, 43, 76, 34, 38, 26, 32, 34, 39, 30, 29, 52 };
 
-//MV19.STR;1 | Not only did it revitalize my
+//\LAPUTA02\MV19.STR;1 | Not only did it revitalize my
 const u8 partdata_301[] = { 13, 40, 45, 76, 40, 39, 37, 50, 76, 29, 34, 29, 76, 34, 45, 76, 43, 30, 47, 34, 45, 26, 37, 34, 51, 30, 76, 38, 50 };
 
-//MV19.STR;1 | houseplants,
+//\LAPUTA02\MV19.STR;1 | houseplants,
 const u8 partdata_302[] = { 33, 40, 46, 44, 30, 41, 37, 26, 39, 45, 44, 53 };
 
-//MV19.STR;1 | it revitalized my entire world.
+//\LAPUTA02\MV19.STR;1 | it revitalized my entire world.
 const u8 partdata_303[] = { 34, 45, 76, 43, 30, 47, 34, 45, 26, 37, 34, 51, 30, 29, 76, 38, 50, 76, 30, 39, 45, 34, 43, 30, 76, 48, 40, 43, 37, 29, 52 };
 
 MovieSubtitlePart sub11_parts[] = {
@@ -1254,16 +1254,16 @@ MovieSubtitlePart sub11_parts[] = {
 
 const u32 movieSubtitlesCount = 12;
 MovieSubtitle movieSubtitles[] = {
-	{1804671138, 30, sub0_parts},
+	{845897864, 30, sub0_parts},
 	{-1882043353, 19, sub1_parts},
-	{401012132, 25, sub2_parts},
-	{-300817371, 50, sub3_parts},
-	{1888661416, 56, sub4_parts},
-	{1186831913, 44, sub5_parts},
-	{485002410, 40, sub6_parts},
-	{-1859938844, 17, sub7_parts},
-	{1733198949, 3, sub8_parts},
-	{329539943, 7, sub9_parts},
-	{-1074119063, 8, sub10_parts},
-	{-1775948566, 5, sub11_parts},
+	{-2082888167, 25, sub2_parts},
+	{1510249626, 50, sub3_parts},
+	{74889352, 56, sub4_parts},
+	{-1437032526, 44, sub5_parts},
+	{2059831350, 40, sub6_parts},
+	{-1307695620, 17, sub7_parts},
+	{-2009525123, 3, sub8_parts},
+	{1298303695, 7, sub9_parts},
+	{-301964992, 8, sub10_parts},
+	{-1003794495, 5, sub11_parts},
 };
