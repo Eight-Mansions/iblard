@@ -51,7 +51,7 @@ tools\armips.exe code\iblard-assembly.asm
 pause
 
 del exe_error.txt
-tools\atlas exe\SLPS_010.27 trans\SLPS_010.27.00001D90.txt >> exe_error.txt
+tools\atlas cd\iblard\ETC\SUBTITLES.DAT trans\SLPS_010.27.00001D90.txt >> exe_error.txt
 
 del cd\iblard\EKI\EKI.COD
 copy font\FNT.COD cd\iblard\EKI\EKI.COD

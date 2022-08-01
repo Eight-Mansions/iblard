@@ -1,7 +1,7 @@
 @echo off
 set filename=Iblard-English
 set file_type=BIN
-set patch_file=iblard-patch.xdelta3
+set patch_file=iblard-patch.xdelta
 
 pushd %~dp0
 if "%~1"=="" goto :NOISO

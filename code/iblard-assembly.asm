@@ -217,8 +217,8 @@ SubFont:
 	; addiu s3, s3, 1
 
 ; .org 0x80039bd0
-	; addiu v0, a0, 0x827F
-	; nop
+	; addiu v0, a0, 0x827f
+	; addiu fp, a0, 0x827f
 	; nop	
 
 ;----------------------------------
@@ -335,12 +335,21 @@ GetLetWidth:
 	sw v0, 12(sp)
 	sw a2, 16(sp)
 	la s1, vars
+	
+	addiu v0, r0, -1
+	beq v0, fp, SaveLoadMenu
 	addu a0, r0, fp	
 	jal GetSentenceWidth
 	addu a1, r0, s2
+	j DoneGetLetWidth
+	nop
+	
+SaveLoadMenu:
+	addu a0, r0, t0
+	jal GetSentenceWidth
+	addu a1, t0, s3
 
-	;addiu a2, s1, 0x04
-
+DoneGetLetWidth:
 	sw v0, 0(s1) ; Update current width with next
 
     lw ra, 0(sp)
