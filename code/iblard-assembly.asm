@@ -199,6 +199,19 @@ SubFont:
 .org 0x80039d14	; Items
 	j AddCurLetWidthItems
 	
+	
+; Save / Load
+
+.org 0x80039ec0
+	addu v1, r0, a3
+
+.org 0x80039ee8
+	nop
+
+.org 0x80039ef4
+	j AddCurLetWidthSaveLoad
+	nop
+	
 ; .org 0x80039c6c
 	; j StoreXProperlyForText ; For text and subtitles
 	; nop
@@ -379,6 +392,16 @@ AddCurLetWidthItems:
 	sh v1, 0x7900(at)
 	j 0x80039d1c
 	addiu v1, t6, 0x0056 ; replace clobbered v1
+	
+AddCurLetWidthSaveLoad:
+	la a0, vars
+	lw a0, 0(a0)
+	nop
+	addu a0, a0, v1
+	addu a0, a0, v0
+	sh a0, 0x7900(at)
+	j 0x80039efc
+	addu v1, t7, a2
 
 ResetWidthVar:
 	;addiu s5, r0, 1
