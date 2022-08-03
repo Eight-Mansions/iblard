@@ -156,7 +156,7 @@ Siema Station
 #WLB(PTR1, $0002596C)
 #WHB(PTR1, $0002596D)
 //メモリーカードチェック中\nしばらくお待ちください
-Reading Memory Card...\nPlease wait.
+Reading Memory\nCard...\nPlease wait.
 <$00>
 
 
@@ -216,7 +216,7 @@ Space: %d\n
 #WLB(PTR1, $00025D5C)
 #WHB(PTR1, $00025D5D)
 //何も入っていない\n
-Card not inserted.\n
+Card not\ninserted.\n
 <$00>
 
 
@@ -232,7 +232,7 @@ Card not inserted.\n
 #WLB(PTR1, $00025E1C)
 #WHB(PTR1, $00025E1D)
 //はい、いいえ選択時\n
-Check Memory Card.\n
+Check Memory\nCard.\n
 <$00>
 
 
@@ -244,7 +244,7 @@ Check Memory Card.\n
 #WLB(PTR1, $00025E54)
 #WHB(PTR1, $00025E55)
 //ロード時　カードなし\n
-Card not found.\n
+Card not\nfound.\n
 <$00>
 
 
@@ -268,7 +268,7 @@ Card not found.\n
 #WLB(PTR1, $00025E9C)
 #WHB(PTR1, $00025E9D)
 //ロード時　未フォーマット
-Card not formatted.
+Card not\nformatted.
 <$00>
 
 
@@ -280,7 +280,8 @@ Card not formatted.
 #WLB(PTR1, $00025EC8)
 #WHB(PTR1, $00025EC9)
 //フォーマットしますか？　はい、いいえ選択\n
-Format? Select Yes / No\n
+Format?\n
+Select Yes / No\n
 <$00>
 
 
@@ -292,7 +293,7 @@ Format? Select Yes / No\n
 #WLB(PTR1, $00025EAC)
 #WHB(PTR1, $00025EAD)
 //セーブ時　未フォーマット
-Card not formatted.
+Card not\nformatted.
 <$00>
 
 
@@ -304,7 +305,8 @@ Card not formatted.
 #WLB(PTR1, $00025F88)
 #WHB(PTR1, $00025F89)
 //ロード中エラーが発生しま\nした\nもう一度ロードしますか？
-Load error occured!\nTry loading again?
+Load error\noccured!\n\
+Try again?
 <$00>
 
 
@@ -316,7 +318,8 @@ Load error occured!\nTry loading again?
 #WLB(PTR1, $00025FD4)
 #WHB(PTR1, $00025FD5)
 //セーブ中エラーが発生しま\nした\nもう一度セーブしますか？
-Save error occured!\nTry saving again?
+Save error\noccured!\n
+Try again?
 <$00>
 
 
@@ -328,7 +331,9 @@ Save error occured!\nTry saving again?
 #WLB(PTR1, $00026038)
 #WHB(PTR1, $00026039)
 //フォーマット中\nメモリーカードを抜かない\nでください
-Formatting...\nDo not remove\nMemory Card.
+Formatting...\n
+Do not remove\n
+Memory Card.
 <$00>
 
 
@@ -340,7 +345,7 @@ Formatting...\nDo not remove\nMemory Card.
 #WLB(PTR1, $00026050)
 #WHB(PTR1, $00026051)
 //フォーマット中エラーが発\n生しました。もう一度フォ\nーマットしますか？
-Format error occured!\nTry formatting again?
+Format error\noccured!\nTry again?
 <$00>
 
 
@@ -376,7 +381,8 @@ Loading...
 #WLB(PTR1, $000260AC)
 #WHB(PTR1, $000260AD)
 //ここにセーブしますか？
-Save to this file?
+Save to this\n
+file?
 <$00>
 
 
@@ -400,7 +406,8 @@ Now saving...
 #WLB(PTR1, $000260F8)
 #WHB(PTR1, $000260F9)
 //フォーマットされていませ\nんが、フォーマットします\nか？
-Card is not formatted.\nFormat Memory Card?
+Card is not\nformatted.\n
+Format?
 <$00>
 
 
@@ -412,7 +419,9 @@ Card is not formatted.\nFormat Memory Card?
 #WLB(PTR1, $00026134)
 #WHB(PTR1, $00026135)
 //メモリーカードがささって\nいません。メモリーカード\nをさしてください。
-Card not inserted.\nInsert Memory Card.
+Card not\n
+inserted.\n
+Please insert.
 <$00>
 
 
@@ -448,7 +457,8 @@ MEMCARD SAVE
 #WLB(PTR1, $000264C4)
 #WHB(PTR1, $000264C5)
 //セーブ成功\n
-Save successful.\n
+Save
+successful.\n
 <$00>
 
 
@@ -484,7 +494,9 @@ Now formatting...
 #WLB(PTR1, $000265EC)
 #WHB(PTR1, $000265ED)
 //このメモリーカードには\n空ブロックがないので\nセーブできません。
-No space on card!\nData cannot be saved!
+No space on
+card!\n
+Cannot be saved!
 <$00>
 
 

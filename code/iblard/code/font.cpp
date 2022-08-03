@@ -112,29 +112,32 @@ u32 GetLetterWidth(const u32 letter)
 	}
 }
 
-u32 GetSentenceWidth(const u16* text, const u16* end)
+u32 GetSentenceWidth(const u8* text, const u8* end)
 {
 	int textWidth = 0;
 	int length = end - text;
 	curLetIdx = length;
 	for (int i = 0; i < length; i++) // There is also a check for <$09> but not sure what that does... maybe breaks too?
 	{
-		u32 letter = (text[i] & 0xFF) << 8 | text[i] >> 8;
-		if (letter == 0x5C6E) // Not sure if it starts after or before the \n...
+		u32 letter = text[i] & 0xFF;
+		if (letter == 0x0A)
 		{
 			textWidth = 0;
 		}
 		else
 		{
-			textWidth += GetLetterWidth(letter);
+			letter = (text[i] & 0xFF) << 8 | text[i + 1];
+			if (letter == 0x5C6E) // Not sure if it starts after or before the \n...
+			{
+				textWidth = 0;
+			}
+			else
+			{
+				textWidth += GetLetterWidth(letter);
+			}
+
+			i++;
 		}
 	}
 	return textWidth;
 }
-
-//int GetYForCentering(const char* text, u32 length)
-//{
-//	u32 textwidth = GetSentenceWidth(text, length);
-//
-//	return (int)((256 >> 1) - (textwidth >> 1)); // 256 is the width of text box texture
-//}
