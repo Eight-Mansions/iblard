@@ -211,7 +211,10 @@ SubFont:
 .org 0x80039ef4
 	j AddCurLetWidthSaveLoad
 	nop
-	
+
+.org 0x800367dc
+	addiu s3, s3, 2
+
 ; .org 0x80039c6c
 	; j StoreXProperlyForText ; For text and subtitles
 	; nop
