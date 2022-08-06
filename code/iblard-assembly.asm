@@ -214,6 +214,9 @@ SubFont:
 
 .org 0x800367dc
 	addiu s3, s3, 2
+	
+.org 0x800367e0
+	jal SaveSentenceStartEndSaveLoad
 
 ; .org 0x80039c6c
 	; j StoreXProperlyForText ; For text and subtitles
@@ -342,6 +345,16 @@ UpgradeItems:
 	
 	j 0x80038f34
 	nop
+	
+SaveSentenceStartEndSaveLoad:
+	la v0, vars
+	sw t0, 0x08(v0)
+	addu v1, t0, s3
+	j 0x80039bd0
+	sw v1, 0x0c(v0)
+	
+	
+
 
 GetLetWidth:
 	addiu sp, sp, -20
@@ -361,9 +374,9 @@ GetLetWidth:
 	nop
 	
 SaveLoadMenu:
-	addu a0, r0, t0
+	lw a0, 0x08(s1)
 	jal GetSentenceWidth
-	addu a1, t0, s3
+	lw a1, 0x0c(s1)
 
 DoneGetLetWidth:
 	sw v0, 0(s1) ; Update current width with next
@@ -475,5 +488,7 @@ framenum:
 vars:
 	.dw 0	; current total width
 	.dw 0	; current letter idx
+	.dw 0	; current text pos for save/load
+	.dw 0	; end text pos for save/load
 	
 .close
