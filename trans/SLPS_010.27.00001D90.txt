@@ -18,7 +18,7 @@
 //#JMP($00001D90)
 #WRITE(PTR, $0006E234)
 //ラピュタの羽化２
-Laputa Nest 2
+Nest 2
 <$00>
 
 
@@ -27,7 +27,7 @@ Laputa Nest 2
 //#JMP($00001D9E)
 #WRITE(PTR, $0006E230)
 //巡回飛行士
-Patrol Tower
+Tower
 <$00>
 
 
@@ -36,7 +36,7 @@ Patrol Tower
 //#JMP($00001DAC)
 #WRITE(PTR, $0006E22C)
 //ラピュタの羽化
-Laputa Nest
+Nest 1
 <$00>
 
 
@@ -45,7 +45,7 @@ Laputa Nest
 //#JMP($00001DB8)
 #WRITE(PTR, $0006E228)
 //市電の森２
-Forest Railway 2
+Railway 2
 <$00>
 
 
@@ -54,7 +54,7 @@ Forest Railway 2
 //#JMP($00001DCA)
 #WRITE(PTR, $0006E220)
 //上昇気流
-Upward Draft
+Updraft
 <$00>
 
 
@@ -63,7 +63,7 @@ Upward Draft
 //#JMP($00001DD8)
 #WRITE(PTR, $0006E21C)
 //ノナ家の丘
-Nona Hill
+Hill
 <$00>
 
 
@@ -72,7 +72,7 @@ Nona Hill
 //#JMP($00001DE2 )
 #WRITE(PTR, $0006E218)
 //ニーニャの店
-Ninya's Shop
+Ninya's
 <$00>
 
 
@@ -81,7 +81,7 @@ Ninya's Shop
 //#JMP($00001DF0)
 #WRITE(PTR, $0006E214)
 //メーキンソーの池
-Melkinso's Pond
+Pond
 <$00>
 
 
@@ -90,7 +90,7 @@ Melkinso's Pond
 //#JMP($00001E00)
 #WRITE(PTR, $0006E210)
 //森の友達
-Quiet Forest
+Forest
 <$00>
 
 
@@ -99,7 +99,7 @@ Quiet Forest
 //#JMP($00001E0E)
 #WRITE(PTR, $0006E20C)
 //市電の森
-Forest Railway
+Railway
 <$00>
 
 
@@ -108,7 +108,7 @@ Forest Railway
 //#JMP($00001E1E)
 #WRITE(PTR, $0006E208)
 //ジーマの駅
-Siema Station
+Station
 <$00>
 
 

@@ -212,11 +212,27 @@ SubFont:
 	j AddCurLetWidthSaveLoad
 	nop
 
+.org 0x80039e4c
+	j AddCurLetWidthSavename
+	nop
+
 .org 0x800367dc
 	addiu s3, s3, 2
 	
 .org 0x800367e0
 	jal SaveSentenceStartEndSaveLoad
+	
+.org 0x80039e08
+	addu v1, r0, a3
+
+.org 0x80039e30 ; Don't clobber v0 yet
+	nop
+	
+.org 0x80039e24 ; Don't clobber v1 yet
+	nop
+	
+.org 0x80036390
+	jal SaveSentenceStartEndSavename
 
 ; .org 0x80039c6c
 	; j StoreXProperlyForText ; For text and subtitles
@@ -353,8 +369,12 @@ SaveSentenceStartEndSaveLoad:
 	j 0x80039bd0
 	sw v1, 0x0c(v0)
 	
-	
-
+SaveSentenceStartEndSavename:
+	la v0, vars
+	sw v1, 0x08(v0)
+	addu v1, v1, s7
+	j 0x80039bd0
+	sw v1, 0x0c(v0)
 
 GetLetWidth:
 	addiu sp, sp, -20
@@ -418,6 +438,18 @@ AddCurLetWidthSaveLoad:
 	sh a0, 0x7900(at)
 	j 0x80039efc
 	addu v1, t7, a2
+	
+	
+AddCurLetWidthSavename:
+	la a0, vars
+	lw a0, 0(a0)
+	nop
+	addu a0, a0, v1
+	addu a0, a0, v0
+	sh a0, 0x7900(at)
+	lhu v0, 0x7906(at)
+	j 0x80039e54
+	addu v1, t7, t8
 
 ResetWidthVar:
 	;addiu s5, r0, 1
