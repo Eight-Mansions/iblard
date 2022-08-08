@@ -31,12 +31,15 @@ SubFont:
 ; Move stuff interfering with vram to further in ram
 .org 0x80016b84
 	lui v0, 0x8020
+	addiu v0, v0, -0x4678
 
 .org 0x80016ba4
 	lui v0, 0x8020
+	addiu v0, v0, -0x45F8
 	
 .org 0x80016bc0
 	lui v0, 0x8020
+	addiu v0, v0, -0x3DF8
 ;-----------------------------------------------------------
 
 ; Move GTE related variables before our vram linked list
