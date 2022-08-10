@@ -261,6 +261,10 @@ SubFont:
 
 ;----------------------------------
 
+.org 0x800388fc
+	;800388fc : ORI     000000c0 (s4), 00000000 (r0), 0020 (32), // Used to compare to spaces to trim the beginnings
+	ori s4, r0, 0x1F
+
 .org 0x8003927c
 	jal WrapVRAM
 

@@ -1,36 +1,36 @@
-0            It's a pond.\n \n      Schopelo said his\n      friend lives here.
+0           It's a pond.\n \n      Schopelo said his\n      friend lives here.
 
-1            I can't pass\n          these rocks.
+1           I can't pass\n          these rocks.
 
-2        There's nothing\n      beneath the soil.
+2       There's nothing\n      beneath the soil.
 
-3      What is this door?
+3     What is this door?
 
-4  This rock was pushed.
+4 This rock was pushed.
 
-5         I should hurry\n         to see Ninya.
+5        I should hurry\n         to see Ninya.
 
-6      Is this the airship\n  Melkinso mentioned?
+6     Is this the airship\n  Melkinso mentioned?
 
-7            It's locked.
+7           It's locked.
 
-8         It's the airship\n          from before.
+8        It's the airship\n          from before.
 
-9      Darn, I can't pass!
+9     Darn, I can't pass!
 
-10      I recovered health!
+10     I recovered health!
 
-11   I took the guide map.
+11  I took the guide map.
 
-12             I took the\n   low-grade synthester
+12            I took the\n   low-grade synthester
 
-13    I took the silver key.
+13   I took the silver key.
 
-14       I took the broom.
+14      I took the broom.
 
-15          I don't need to\n     go down anymore.
+15         I don't need to\n     go down anymore.
 
-16    Melkinso's not here?\n  Where could they be?
+16   Melkinso's not here?\n  Where could they be?
 
 \TE
 

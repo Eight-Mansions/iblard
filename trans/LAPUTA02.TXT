@@ -1,44 +1,44 @@
-0       This won't work!\n \nI have to hatch\n    the laputa quickly!
+0      This won't work!\n \nI have to hatch\n    the laputa quickly!
 
-1      Are you a dinosaur\n       from the forest?\n           Thank you!
+1     Are you a dinosaur\n       from the forest?\n           Thank you!
 
-2           -Free space-
+2          -Free space-
 
-3        Is this a laputa?\n      But it's so small!
+3       Is this a laputa?\n      But it's so small!
 
-4           It's a mural.
+4          It's a mural.
 
-5    It's Ninya's airship.
+5   It's Ninya's airship.
 
-6      It's a painting of a\n      hatching laputa.
+6     It's a painting of a\n      hatching laputa.
 
-7        I have a broom.
+7       I have a broom.
 
-8       Darn, it's broken.
+8      Darn, it's broken.
 
-9    It's placed correctly.
+9   It's placed correctly.
 
-10      It won't come off.
+10     It won't come off.
 
-11    It must be a switch.
+11   It must be a switch.
 
-12       What is that cry?
+12      What is that cry?
 
-13      I recovered health!
+13     I recovered health!
 
-14    I took the area map.
+14   I took the area map.
 
-15   I took the moon stone.
+15  I took the moon stone.
 
-16  I took the solma stone.
+16 I took the solma stone.
 
-15   I took the moon stone.
+15  I took the moon stone.
 
-18 \n      Is that Burgalad?
+18\n      Is that Burgalad?
 
-19           Did he come\n         to see me off?
+19          Did he come\n         to see me off?
 
-20       I took the broom.
+20      I took the broom.
 
 \TE
 

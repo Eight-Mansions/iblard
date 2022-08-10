@@ -14,7 +14,7 @@
 
 7      I recovered health!
 
-8    I took the area map.
+89             I took the\n    wooden boomerang.\n      Can it knock that\n  crystal from the tree?
 
 9             I took the\n    wooden boomerang.\n      Can it knock that\n  crystal from the tree?
 
