@@ -1,38 +1,38 @@
-0    This must be the hill\n that Ninya mentioned.\n Does Qi Nona live here?
+0   This must be the hill\n that Ninya mentioned.\n Does Qi Nona live here?
 
-1        I can't proceed.
+1       I can't proceed.
 
-2       Darn, it's locked.
+2      Darn, it's locked.
 
-3       Darn, it's locked.
+3      Darn, it's locked.
 
-4       These stairs look\n       safe to descend.
+4      These stairs look\n       safe to descend.
 
-5       It's a painting of\n      this very hilltop.
+5      It's a painting of\n      this very hilltop.
 
-6                Yikes!\n     A Takatsung ship!
+6               Yikes!\n     A Takatsung ship!
 
-7    A wooden boomerang\n          won't cut it!
+7   A wooden boomerang\n          won't cut it!
 
-8             An airship\n        energy source!\n     I can fly with this!
+8            An airship\n        energy source!\n     I can fly with this!
 
-9      I recovered health!
+9     I recovered health!
 
-10   I took the guide map.
+10  I took the guide map.
 
-11             I took the\n      square housekey.
+11            I took the\n      square housekey.
 
-12             I took the\n      round housekey.
+12            I took the\n      round housekey.
 
-13          I swapped my\n     wooden boomerang\n               for the\n synthester boomerang.
+13         I swapped my\n     wooden boomerang\n               for the\n synthester boomerang.
 
-14             I took the\n        book of Iblard.
+14            I took the\n        book of Iblard.
 
-15       I took the broom.
+15      I took the broom.
 
-16         No other books\n            stand out.
+16        No other books\n            stand out.
 
-17     Nothing stands out.
+17    Nothing stands out.
 
 \TE
 

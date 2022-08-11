@@ -1,38 +1,38 @@
-0       There should be a\n  high-grade synthester\n           here, but...
+0      There should be a\n  high-grade synthester\n           here, but...
 
-1           It's a symbol\n          of the moon.
+1          It's a symbol\n          of the moon.
 
-2     Darn, it won't go in.
+2    Darn, it won't go in.
 
-3            It's a model\n         of an airship.
+3           It's a model\n         of an airship.
 
-4        I don't need the\n      planets anymore.
+4       I don't need the\n      planets anymore.
 
-5        I can't move the\n       moon rock now.
+5       I can't move the\n       moon rock now.
 
-6             I took the\n high-grade synthester!
+6            I took the\n high-grade synthester!
 
-7     Nothing stands out.
+7    Nothing stands out.
 
-8        I have a broom.
+8       I have a broom.
 
-9   What's going on now?
+9  What's going on now?
 
-10      I recovered health!
+10     I recovered health!
 
-11   I took the guide map.
+11  I took the guide map.
 
-12       I took the broom.
+12      I took the broom.
 
-12             I took the\n         three planets.
+13            I took the\n         three planets.
 
-14   I took the moon stone.
+14  I took the moon stone.
 
-15             I took the\n       decipher stone.
+15            I took the\n       decipher stone.
 
-16             I took the\n high-grade synthester.
+16            I took the\n high-grade synthester.
 
-17             I see, so it\n       can't be redone.
+17            I see, so it\n       can't be redone.
 
 \TE
 
