@@ -28,6 +28,8 @@ extern "C" {
 	extern int LoadImage(RECT* rect, u_long* p);
 
 	static int movieSubIdx = -1;
+	static int currentMovieFrame = -1;
+	static int currentMovieSubtitleIndexes[3] = { -1, -1 , -1 };
 }
 
 #endif
