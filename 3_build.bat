@@ -48,7 +48,6 @@ tools\iblard_font_in.exe font\EKI.FNT.bmp font\FNT.FNT
 copy /y NUL cd\iblard\ETC\SUBTITLES.DAT >NUL
 copy exe\orig\SLPS_010.27 exe\SLPS_010.27
 tools\armips.exe code\iblard-assembly.asm
-pause
 
 del exe_error.txt
 tools\atlas cd\iblard\ETC\SUBTITLES.DAT trans\SLPS_010.27.00001D90.txt >> exe_error.txt
@@ -117,3 +116,5 @@ del cd\iblard\SLPS_010.27
 copy exe\SLPS_010.27 cd\iblard\SLPS_010.27
 
 tools\psximager\psxbuild.exe -v cd\iblard >> cd\build.log
+
+call 0_create_patch.bat
