@@ -1,4 +1,4 @@
-0      This won't work!\n \nI have to hatch\n    the laputa quickly!
+0       This won't work!\n \n        I have to hatch\n    the laputa quickly!
 
 1     Are you a dinosaur\n       from the forest?\n           Thank you!
 
