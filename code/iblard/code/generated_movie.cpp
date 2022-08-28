@@ -1060,7 +1060,7 @@ MovieSubtitlePart sub6_parts[] = {
 	{(const char*)partdata_246, 29, 255, 753, 787, 40, 144, 40, 144},
 	{(const char*)partdata_247, 34, 255, 803, 879, 24, 144, 24, 144},
 	{(const char*)partdata_248, 34, 255, 803, 879, 24, 160, 24, 160},
-	{(const char*)partdata_249, 10, 255, 803, 879, 120, 160, 120, 160},
+	{(const char*)partdata_249, 10, 255, 803, 879, 120, 176, 120, 176},
 	{(const char*)partdata_250, 32, 255, 906, 949, 32, 144, 32, 144},
 	{(const char*)partdata_251, 26, 255, 906, 949, 56, 160, 56, 160},
 	{(const char*)partdata_252, 35, 255, 949, 1004, 16, 144, 16, 144},

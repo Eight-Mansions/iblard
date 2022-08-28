@@ -1,4 +1,4 @@
-0          Where in the\n          world am I?\n \n        Is Ninya's shop\n          really here?
+0          Where in the\n          world am I?\n        Is Ninya's shop\n          really here?
 
 1         It's some kind\n            of device.
 

@@ -1,6 +1,6 @@
 .psx
 
-.open "cd\iblard\ETC\SUBTITLES.DAT",0x80145770
+.open "cd\iblard\ETC\SUBTITLES.DAT",0x801455B0
 	.importobj "code\iblard\obj\subtitle.obj"
 	.importobj "code\iblard\obj\generated_audio.obj"
 	.importobj "code\iblard\obj\generated_movie.obj"
@@ -302,7 +302,7 @@ SubFont:
 ;----------- Load subtitles into RAM
 
 .org 0x8001355c
-	la a0, 0x80145770
+	la a0, 0x801455B0
 	jal LoadSubtitles
 	
 ;------------------------------

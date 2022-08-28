@@ -14,7 +14,7 @@
 
 7    Nothing stands out.
 
-8           It's broken.\n           Will it ever\n           run again?
+8           It's broken.\n \n           Will it ever\n           run again?
 
 9\n     What is it saying?
 
