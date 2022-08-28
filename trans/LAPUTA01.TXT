@@ -28,9 +28,9 @@
 
 14   I took the area map.
 
-15      I took the square\n     laputa terra-model
+15      I took the angular\n     laputa terra-model.
 
-16       I took the round\n     laputa terra-model
+16       I took the round\n     laputa terra-model.
 
 17  I took the moon stone.
 
