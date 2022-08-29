@@ -22,7 +22,7 @@
 
 11   It must be a switch.
 
-12      What is that cry?
+12     What was that cry?
 
 13     I recovered health!
 
@@ -77,7 +77,7 @@
 16 We need\nan energy\nsource.
 
 \WIE
-0 Square\nLaputa\nTerra-model
+0 Angular\nLaputa\nTerra-model
 
 1 Round\nLaputa\nTerra-model
 

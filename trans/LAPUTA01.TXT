@@ -28,7 +28,7 @@
 
 14   I took the area map.
 
-15      I took the angular\n     laputa terra-model.
+15      I took the angular\n    laputa terra-model.
 
 16       I took the round\n     laputa terra-model.
 
@@ -71,7 +71,7 @@
 16 We need\nan energy\nsource.
 
 \WIE
-0 Square\nLaputa\nTerra-model
+0 Angular\nLaputa\nTerra-model
 
 1 Round\nLaputa\nTerra-model
 

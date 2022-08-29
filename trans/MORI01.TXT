@@ -1,4 +1,4 @@
-0  I don't have anything.
+0    What can I use here?
 
 1       It's a waterway.\n      There is no flow.
 

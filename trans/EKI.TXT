@@ -4,7 +4,7 @@
 
 2     Darn, I can't pass!
 
-3          I can't board\n    without a railpass.
+3    I can't board without\n           a rail pass.
 
 4 Ewwe, is that a squid?!
 

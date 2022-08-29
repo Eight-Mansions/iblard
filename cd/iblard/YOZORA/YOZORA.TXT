@@ -2,7 +2,7 @@
 
 1          It's a symbol\n          of the moon.
 
-2    Darn, it won't go in.
+2     Darn, I can't get in.
 
 3           It's a model\n         of an airship.
 
@@ -32,7 +32,7 @@
 
 16            I took the\n high-grade synthester.
 
-17            I see, so it\n       can't be redone.
+17      Drats! I guess one\n    broom won't cut it.
 
 \TE
 

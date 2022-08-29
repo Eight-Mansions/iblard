@@ -2,7 +2,7 @@
 
 1    It's a wooden table.\nDinosaurs were just here.
 
-2 This tram can take me\n    to the next station.
+2   Can this tram take me\n    to the next station?
 
 3     Darn, it won't open\n        from this side.
 
@@ -70,7 +70,7 @@
 
 \WIE
 
-0 Melon?
+0 Melon
 
 \SIE
 
