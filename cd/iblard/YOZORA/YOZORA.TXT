@@ -32,7 +32,7 @@
 
 16            I took the\n high-grade synthester.
 
-17      Drats! I guess one\n    broom won't cut it.
+17      Drats! I guess one\n     broom won't cut it.
 
 \TE
 

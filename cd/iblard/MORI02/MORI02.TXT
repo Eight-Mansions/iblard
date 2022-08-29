@@ -8,7 +8,7 @@
 
 4    There are cracks in\n             the rock.
 
-5           It's broken.\n           Will it ever\n           run again?
+5           It's broken.\n \n           Will it ever\n           run again?
 
 6     I need a rail pass.
 

@@ -28,7 +28,7 @@
 
 14   I took the area map.
 
-15      I took the angular\n    laputa terra-model.
+15      I took the angular\n     laputa terra-model.
 
 16       I took the round\n     laputa terra-model.
 
